@@ -1,0 +1,7 @@
+XML is a flexible text format derived initially for large-scale electronic publishing but has since become pivotal in the exchange and storage of data on the Web[^mignet03xml]. It plays a critical role as a common model for representing heterogeneous data, facilitating the sharing and exchange of information across various platforms and applications. The design of XML allows for different users to view and interact with the same data differently, catering to diverse requirements and perspectives[^abiteboul99xml]. This versatility makes XML an essential technology for web development, data exchange, and electronic publishing, acting as a lingua franca for the Web with the potential to eventually supersede HTML. The World-Wide Web Consortium (W3C) supports XML and related standards, such as XML Schema, XQuery, and XPath, further standardizing and formalizing its usage[^siméon03xml]. XML's structure is based on tree grammars, and it supports both named and structural types, facilitating complex data representation and manipulation. The adoption of XML and its standards by the W3C, including the formalization of XML Schema, highlights its significance and the industry's move towards using formal methods to define web standards, ensuring XML's role in the future of web and data technologies.
+
+[^mignet03xml]: Mignet, Laurent, Denilson Barbosa and Pierangelo Veltri. 2003. "The XML web: a first study" 
+
+[^abiteboul99xml]: Abiteboul, Serge. 1999. "On views and XML"
+
+[siméon03xml]: Siméon, Jérôme and Philip Walder. 2003. "The Essence of XML"
