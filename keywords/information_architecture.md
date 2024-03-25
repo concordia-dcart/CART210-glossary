@@ -18,3 +18,4 @@ Information architecture is more and more significant because we live in a world
 [^rosenfeld98information_architecture]: Rosenfeld, Louis, and Peter Morville. 1998. Information Architecture for the World Wide Web. Beijing: O’reilly. 1998.
 [^usibility19information_architecture]: Usability.gov. 2019. “Information Architecture Basics .” Usability.gov. 2019. 
 
+[Information Architecture](../main/glossary.md#information_architecture)
