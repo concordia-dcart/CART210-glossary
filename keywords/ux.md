@@ -5,6 +5,8 @@ UX, also known as UX design or User Experience, is a concept in the field of hum
 
 UX designers research the way users interact with and use prodcuts. They need to understand the users' mind in order to understand their needs. They take into account factors such as predispositions, needs, motivation, and mood of the user in order to build the complexity, purpose, usability, accessibility and functionnality of the product [^berni02ux]. They make sure that the product meets the business goals and objectives by outlining the product's abilities and limitations. 
 
+
+
 ### Differences between UX and UI
 | UX                                      | UI                                  |
 |-----------------------------------------|-------------------------------------|
@@ -25,8 +27,13 @@ UX and UI designers often work together to assure their product's:
 - Behavior
 - Effortless experience
 
+The disciplines of UX and UI are interconnected when it comes to new media. If UX designers are tasked with planning the product's behaviors, UI designers are in charge of translating the plans to user friendly visuals. They are integral to the creation of websites, social media platforms, mobile applications, virtual reality, augmented reality, artificial intelligence, and much more. The histories of UX, UI, and new media are directly correlated. From the first UI, a GUI (graphical user interface), created in 1973 by Xerox PARC[^danielle05ux] to the invention of the term "UX" by Donal Norman in 1995 [^stevens06ux], a new era of technology view the light of day. The evolution of technology consequently helped popularize the term "new media" in the mid 1990's [^uvp07ux]. 
+
 
 [^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
 [^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
 [^idf04ux]: Interaction Design Foundation. 2016. "UX Design." Interaction Design Foundation, Accessed 26-01-2024, https://www.interaction-design.org/literature/topics/ux-design.
 [^kristiadi03ux]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+[^danielle05ux]:Reid, Danielle. "Touch the World: Is Our Interface." Accessed 07-04-2024, https://www.toptal.com/designers/ui/touch-the-world-is-our-interface.
+[^stevens06ux]:Stevens, Emily. 2021. "The Fascinating History of UX Design: A Definitive Timeline." Accessed 07-04-2024, https://careerfoundry.com/en/blog/ux-design/the-fascinating-history-of-ux-design-a-definitive-timeline
+[^uvp07ux]:Virtual University of Pakistan. 2011 . "MContemporary Mass Media Complete Handouts from Lecture no. 1 to Lecture no. 45."  https://archive.org/details/MCM520ContemporaryMassMediaCompleteHandoutsfromLectureno.1toLectureno.45bywww.virtualians.pk/mode/2up
