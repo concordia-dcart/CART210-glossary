@@ -18,6 +18,6 @@ PHP can be run within a simple editor of any choice within the commercial market
 
 ![agency](../images/php-gregory.png)
 
-[^Busuic19thephpworkshop]:Busuioc, Alexandru. 2019. The Php Workshop : A New, Interactive Approach to Learning Php. Birmingham, UK: Packt Publishing. 
-[^Fireship21phpin100seconds]:Fireship. “PHP in 100 Seconds,” October 22, 2021. https://www.youtube.com/watch?v=a7_WFUlFS94.
-[^Edmonds21modernphp8]:Edmonds, Joseph, Lorna Mitchell, O’Reilly for Higher Education (Firm), and Safari, an O’Reilly Media Company. 2021. The Art of Modern Php 8 (version 1st edition.). 1st ed. Packt Publishing. 
+[^Busuic19thephpworkshop]:Busuioc, Alexandru. 2019. _The Php Workshop: A New, Interactive Approach to Learning Php_. Birmingham, UK: Packt Publishing. 
+[^Fireship21phpin100seconds]:Fireship. 2021. “PHP in 100 Seconds.” _Youtube_. Last Modified October 22, 2021. https://www.youtube.com/watch?v=a7_WFUlFS94.
+[^Edmonds21modernphp8]:Edmonds, Joseph, Lorna Mitchell, O’Reilly for Higher Education (Firm), and Safari, an O’Reilly Media Company. 2021. _The Art of Modern Php 8 (version 1st edition.)_. 1st ed. Packt Publishing.
