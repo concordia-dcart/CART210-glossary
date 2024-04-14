@@ -48,18 +48,18 @@ What the brain has experienced while reading the numbers mentioned above may hav
 
 <br><br>
 
-[^Shepherd24facebook]:Shepherd, Jack. “33 Essential Facebook Statistics You Need to Know in 2024.” Social_Shepherd, February 26, 2024. https://thesocialshepherd.com/blog/facebook-statistics.
+[^Shepherd24facebook]:Shepherd, Jack. 2024. “33 Essential Facebook Statistics You Need to Know in 2024.” _Social_Shepherd_. Last Modified February 26, 2024. https://thesocialshepherd.com/blog/facebook-statistics.
 
-[^Lister24instagram]:Lister, Mary. “33 Mind-Boggling Instagram Stats & Facts for 2024.” WordStream, January 14, 2024. https://www.wordstream.com/blog/ws/2017/04/20/instagram-statistics. 
+[^Lister24instagram]:Lister, Mary. 2024. “33 Mind-Boggling Instagram Stats & Facts for 2024.” _WordStream_. Last Modified January 14, 2024. https://www.wordstream.com/blog/ws/2017/04/20/instagram-statistics. 
 
-[^Sayne22twitter]:Sayce, David. “The Number of Tweets per Day in 2022.” David Sayce, August 16, 2022. https://www.dsayce.com/social-media/tweets-day/. 
+[^Sayne22twitter]:Sayce, David. 2022. “The Number of Tweets per Day in 2022.” _David Sayce_. Last Modified August 16, 2022. https://www.dsayce.com/social-media/tweets-day/. 
 
-[^Fischbach20youtube]:Fischbach, Mark Edward. “YouTube Just Gave Me a Strike...” YouTube, September 2, 2020. https://www.youtube.com/watch?v=z0K6r1hoD7I. 
+[^Fischbach20youtube]:Fischbach, Mark Edward. 2020. “YouTube Just Gave Me a Strike...” _YouTube_. Last Modified September 2, 2020. https://www.youtube.com/watch?v=z0K6r1hoD7I. 
 
-[^Tang15trustinsocialmedia]:Tang, Jiliang, and Huan Liu. 2015. Trust in Social Media. Cham, Switzerland: Springer. https://doi.org/10.2200/S00657ED1V01Y201507SPT013.
+[^Tang15trustinsocialmedia]:Tang, Jiliang, and Huan Liu. 2015. _Trust in Social Media_. Cham, Switzerland: Springer. https://doi.org/10.2200/S00657ED1V01Y201507SPT013.
 
-[^Trafton14blinkofaneye]:Trafton, Anne. “In the Blink of an Eye.” MIT News | Massachusetts Institute of Technology, January 16, 2014. https://news.mit.edu/2014/in-the-blink-of-an-eye-0116.
+[^Trafton14blinkofaneye]:Trafton, Anne. 2014. “In the Blink of an Eye.” _MIT News | Massachusetts Institute of Technology_. Last Modified January 16, 2014. https://news.mit.edu/2014/in-the-blink-of-an-eye-0116.
 
-[^Schwarts06morebetter]:Schwartz, Barry. “More Isn’t Always Better.” Harvard Business Review, June 25, 2006. https://hbr.org/2006/06/more-isnt-always-better.
+[^Schwarts06morebetter]:Schwartz, Barry. 2006. “More Isn’t Always Better.” _Harvard Business Review_. Last Modified June 25, 2006. https://hbr.org/2006/06/more-isnt-always-better.
 
-[^Lovink11networkcause]:Lovink, Geert. 2011. Networks without a Cause : A Critique of Social Media. Cambridge, UK: Polity.
+[^Lovink11networkcause]:Lovink, Geert. 2011. _Networks without a Cause : A Critique of Social Media_. Cambridge, UK: Polity.
