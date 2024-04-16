@@ -1,4 +1,5 @@
 ## NFT 
+![NFT](images/nft-nahabedian.jpg)
 
 A Non-Fungible Token, or NFT, is a unique digital identifier that gets stored on a Blockchain[^opensea22nft]. Essentially, it’s a completely unique link representing a digital item that gets added to an ever-growing and immutable list, serving as a publicly accessible record. 
 
