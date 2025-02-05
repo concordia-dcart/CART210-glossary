@@ -15,7 +15,7 @@ frameworks. These technologies support automated processes, content recommendati
 For example, Netflix uses data science to recommend shows, while Facebook tailors ads tospecific user demographics, 
 both approaches shaping the way media is consumed and monetized. [^gomez-uribe,hunt15algorythm]
 
-[^dhar13data]: Dhar, Vikram. 2013. "Data Science and Prediction." Communications of the ACM 56(12): 64-73.
+[^dhar13data]: Dhar, Vasant. 2013. “Data Science and Prediction.” Communications of the ACM 56 (12): 64–73.
 
 [^sweeney13discrimination]: Sweeney, Latanya. 2013. "Discrimination in Online Ad Delivery." Communications of the ACM 56(5): 44-54.
 
