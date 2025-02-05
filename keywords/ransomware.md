@@ -49,11 +49,11 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
    2.9 Apply password management
    2.10 Use email domain protection
 
-**Ransomware is widely 
+
 
 
 
 --- 
-   [UKsecurity]: National Cyber Security Center UK https://www.ncsc.gov.uk/ransomware/home#section_4
+   [UKsecurity]: *National cyber Center UK*.[Ransome Guidiance of UK National Cyber Center](https://www.ncsc.gov.uk/ransomware/home#section_4) 
    [Allan]: Allan Liska & Timothy Gallo, *Ransomware: Defendfing Against Digital Extortion* (Sebastopol,CA: O'Reilly Media, 2016), 1.
-   [cyberCanada]: https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099 
+   [cyberCanada]: [Ransomware playbook,ITSM.00.099] (https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
