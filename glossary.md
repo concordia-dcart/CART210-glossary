@@ -10,6 +10,97 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## AR
+
+Augmented Reality (AR) integrates digital content into the real world, engaging multiple senses. Unlike Virtual Reality (VR), which immerses users in a fully computer-generated environment, AR blends virtual elements with real-world settings, enhancing how users perceive and interact with their surroundings.[^Pesce21AR] AR is highly relevant to new media because it transforms digital content into interactive, engaging experiences. By merging physical and digital environments, AR creates new ways for users to connect, explore, and engage with their surroundings in real time.
+
+The fundamental concept of AR lies in the combination of two sources of information—real and digital—merged into a single viewing space. Although AR may seem like a recent technological development, its history dates back to 1892 with Pepper’s Ghost, a stage illusion that is considered a precursor to AR. This technique involved projecting images into the real world, creating the illusion of objects existing in physical space.
+
+In 1962, Ivan Sutherland created the first modern VR system, which projected computer-generated images onto the real world using a head-mounted display.[^Peddie23AR] Over time, AR technology continued to evolve, and with the rise of devices like smartphones and tablets, it became far more accessible. Through apps on these devices, users can now interact with virtual objects or use AR for purposes such as navigation, gaming, and shopping. This marked a significant step in AR’s integration into everyday life.
+
+A key feature of AR is its ability to allow users to see and interact with their physical environment while experiencing digital enhancements. According to the book VR/AR: Foundations and Methods of Extended Realities, Wolfgang Broll suggests that there are three main types of AR: Video See-Through AR, Optical See-Through AR, and Projection-Based AR.[^Doerner22AR] (Although there is no official classification system, this is one of the ways to categorize them.) In Video See-Through AR, the real world is captured by a video camera, and the image is superimposed with virtual content before being displayed on an output device. Optical See-Through AR, on the other hand, allows users to directly view the real world through an optical device, with virtual content overlaid in real-time. Lastly, Projection-Based AR applies virtual content directly onto objects in the real environment using projection mapping.
+
+As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
+
+[^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
+
+[^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
+
+[^Doerner22AR]: Doerner, Ralf, Wolfgang Broll, Paul Grimm, and Bernhard Jung, eds. 2022. Virtual and Augmented Reality (VR/AR): Foundations and Methods of Extended Realities (XR). Cham Switzerland: Springer.
+
+## DNS
+
+DNS stands for Domain Name System. It was invented by Paul Mockapetris in 1983. [^cocoran11branding]
+
+Each computer and server have their own IP address, a series of numbers, similar to how houses have addresses for their locations. 
+To be able to connect to another computer through the internet, it was required to know the IP address. An IP address is a series of 
+numbers that would point to the location of the site, similar to how our home addresses tell us where we are geographically.
+
+In the past, to find this specific number, a `hosts.txt` file had a table with the name of the host linked to their IP address. 
+However, this file had to be updated every time a new “location” was created. With the rise of the Internet, it quickly fell behind. [^cocoran11branding]
+To fix this issue, Paul Mockapetris invented the domain name system. 
+This system takes domain names and translates them into IP addresses for the browser to use. [^cloudflare25DNS] The system is divided into different categories and levels to help organization and navigation.
+While most top-level domains categorize sites by geographical location, they also have a few to signify the site’s purpose. For example, “ca” is for canadian sites, “com” is for commercial sites and “org” is for non-profit organizations.
+You could also add subdomains for even more specificity. They just have to be separated by a dot. Example: https://library.concordia.ca/
+The “.ca” part is the top-level domain and there’s the subdomain “.concordia”.
+This helps connect sites to each other and signify relationships between different pages. [^cocoran11branding]
+
+The creation of the DNS led to a much more accessible Internet. Rather than having to remember and type long strings of numbers to reach other sites, 
+users could now use words that are much easier to remember and in most cases shorter to type out. 
+This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
+
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names. (bbook)
+The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
+
+
+[^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
+[^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
+[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41, no. 2.
+
+
+## MP3
+
+MP3 (MPEG-1 Audio Layer 3) is a widely used digital audio format that has revolutionized the way people store, distribute, and consume music. MP3 is a lossy audio compression format that significantly reduces file size while maintaining acceptable sound quality by discarding audio data that is not sensitive to human hearing. This efficient compression makes MP3 key to the rise of digital music, online distribution, and portable media players, and has profoundly influenced contemporary digital culture and media consumption practices.[^brandenburg99mp3]
+
+The importance of MP3 in new media is that it changed the economic model of the music industry, making file sharing and music streaming platforms possible. It is directly related to the evolution of peer-to-peer (P2P) networks, digital rights management (DRM), and streaming services such as Spotify and Apple Music.[^morris15selling]
+
+The MP3 format was developed by the Moving Picture Experts Group (MPEG) under the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC). Its core figure was Karlheinz Brandenburg, who achieved efficient compression by optimizing perceptual coding techniques to remove parts of the audio signal that are imperceptible to the human ear.[^brandenburg94iso]
+
+MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
+
+
+
+[^brandenburg99mp3]: Brandenburg, Karlheinz. 1999. "MP3 and the Future of Digital Audio." Journal of the Audio Engineering Society 47(7/8): 558–566.
+[^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+[^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
+[^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+
+## Agency 
+
+Agency seems to have two meanings. On one hand, it refers simply to an organized body of people working for or under a larger form of institution, such as a governmental or political institution. On the other hand is a meaning deep rooted in philosophy and anthropology. Laura Ahearn in the Journal of Linguistic Anthropology explains that;
+
+ “what scholars mean by it can differ considerably from common usages of the word. When I did a keyword search in our university library catalogue for agency [...] the system returned 24,728 matches (among these were result about) travel agencies, the central Intelligence Agency, social service agencies [...] few, if any, of these books use agency in the way scholars do: as a way to talk about the human capacity to act.” [^ahearn99anthropology]
+
+This ‘scholarly’ use of the word, as Ahearn puts it, is most complex as it is often associated with conversations discussing the validity of agency, and whether it is something that humans possess. In fact, the study of history is entirely underpinned by the notion of human agency, which is the ability that humans have to intentionally shape our world.[^nash05nature]
+
+The notion of agency in the scholarly sense is especially important in the fields surrounding the study of technology from an anthropological perspective. Human agency, that of the individual using said technology, is often put into question. The ever-changing cultural significance of social media and developing technologies has ever-changing positive and negative effects on the feeling of agency of the individual. 
+
+For example, the self is targeted in many forms of online media. Even character customization, often featured in many online spaces, games and even social media, targets the representation of the self and, in turn, affects the perception of personal agency the user has. It is explained that; “Agency means that the user feels relevant as an actor. Customization allows the individual user to feel unique and distinct. [...] customization is the most seductive aspect of modern online media because it is always related to an aspect of the self.”[^utz08mediated]
+
+As well, agency often is brought up in anthropological discussions surrounding the internet and the massive flood of customized, constant advertising that comes with it. The discussion spills into the wider societal issue of consumerist culture as is explained by Rebekah Willet in Consumer Citizens Online: Structure, agency, and gender in online participation; “I am seeking to explore the relationships between the structures of consumerism (and wider societal discourses) and the agency (the capacity to think and act freely) of the young consumer/producer.”[^willet08consumer]
+
+
+
+
+[^ahearn99anthropology]: Ahearn, Laura M.  1999. “Agency.” *Journal of Linguistic Anthropology* 9, no. 1/2 12–15. http://www.jstor.org/stable/43102414.
+
+[^nash05nature]: Nash, Linda. 2005. *“The Agency of Nature or the Nature of Agency?” Environmental History* 10, no. 1 67–69. http://www.jstor.org/stable/3985846. 
+
+[^utz08mediated]: Utz, Sonja, Martin Tanis, and Susan B. Barnes. 2008. *Mediated interpersonal communication*. Edited by Elly A. Konijn. Vol. 270. New York, NY: Routledge.
+
+[^willet08consumer]: Willett, Rebekah. 2008. *Consumer citizens online: Structure, agency, and gender in online participation*. MacArthur Foundation Digital Media and Learning Initiative.
+
+
 ## AI 
 
 Artificial Intelligence (AI), encompasses a wide range of techniques that allow machines to mimic human cognitive abilities like learning, reasoning, and problem-solving. Coined by Stanford Professor John McCarthy in 1955, he defined AI as “the science and engineering of making intelligent machines”. [^manning] Previous iterations include Alan Turing’s Turing test, conducted in 1950, followed by the first chatbot ELIZA in the 1960s, the IBM deep blue computer chess game in 1977, Apple’s Siri in 2011 and OpenAI in 2015. [^saha]
@@ -41,6 +132,20 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^analyticsoxford]: “Analytics.” n.d. In _New Oxford American Dictionary_. Apple Dictionary. 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
+
+## Avatar
+The term ‘avatar’ is not a new concept. According to the Myriam Webster dictionary, it comes from the Sanskrit word referring to a deity's descent or incarnation on earth, and later evolved to refer to any embodiment or personification of an idea, entity or philosophy. [^MiramWebster01Defintion] However, more recently, the first thing that comes to mind when we hear the word avatar is closer to B. Coleman’s definition in her book *Hello Avatar*, where she describes them as “a computer-generated figure controlled by a person via a computer. It is often a graphical representation of a person with which one can interact in real time” .[^Coleman]
+	Coleman, however, expands further on her definition, adding that the avatar also "includes the many modes of representation we employ that make up the different roles we play and places we go".[^Coleman]  Jerry Liu explains is his article “From Sci Fi to Commercialization: The Rise of Digital Avatars,” that the idea of an avatar is not just referencing the self, but also “digital influencers” and “digital celebrities”, including examples such as 1990s band *The Gorillaz*, international digital superstar Hatsune Miku and AI created influencers such as Lil Miquella.[^Liu]
+	Avatar, then, is not only referring now to the way one chooses to represent oneself within a game world, but is quickly evolving to also encompass entire personalities and independent characters divorced from any real life person. Yet, despite them existing in the digital world, they are not free from human scrutiny and bias. In a real-world experiment, the behaviour of multiple individuals and avatars were observed, the results being that "Participants assigned to more attractive avatars were more intimate with confederates in a self-disclosure and interpersonal distance task than participants assigned to less attractive avatars. Participants assigned to taller avatars behaved more confidently in a negotiation task than participants assigned to shorter avatars."[^PanSteed01]
+	As technology grows and evolves within new media spaces, the definition of what is simply an ‘avatar’ and what is an entirely new entity (in the case of AI influencers, for example) become blurred. The question of what is ‘real’ identity within digital spaces will only continue to become more and more complex. 
+	
+	
+[^MiramWebster01Defintion]: “Avatar Definition & Meaning.” Merriam-Webster. Accessed February 1, 2025. https://www.merriam-webster.com/dictionary/avatar.
+[^Coleman]: Coleman, Beth. 2011. *Hello Avatar: Rise of the Networked Generation.* Cambridge, MA: MIT Press.
+[^Liu]: Lu, Jerry. 2019. “From Sci Fi to Commercialization: The Rise of Digital Avatars.” Medium. https://medium.com/hackernoon/from-sci-fi-to-commercialization-the-rise-of-digital-avatars-ea164495c377.
+[^PanSteed01]:Pan, Ye, and Anthony Steed.December 14, 2017. “The Impact of Self-Avatars on Trust and Collaboration in Shared Virtual Environments.” PLOS ONE 12, no. 12. https://doi.org/10.1371/journal.pone.0189078. 
+
+![Virtual environment](images/avatar-julia.png)
 
 ## Blog
 A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
@@ -94,6 +199,120 @@ If we link this concept of the commons to new media, we can notice how the commo
 [^hardin]: Hardin, Garrett. 1968. “The Tragedy of the Commons.” *Science* 162 (3859): 1243–1248. https://doi.org/10.1126/science.162.3859.1243.
 [^laerhovenOstrom]: Laerhoven, Frank Van, and Elinor Ostrom. 2007. “Traditions and Trends in the Study of the Commons.” *International Journal of the Commons* 1 (1): 3–28. https://doi.org/10.18352/ijc.76.
 [^smith]: Smith, E.T.  2024. "Practising Commoning." *The Commons Social Change Library*. Accessed January 29, 2025. https://commonslibrary.org/practising-commoning/#Introducing_%E2%80%98Commoning
+
+## Compression 
+
+Compression is a word used in many domains and can be summed up as “the act of pressing something into a smaller space or putting pressure on it from different sides until it gets smaller”. [^CambridgeDictionary] 
+In the new media space, it is more commonly known as data compression which can be defined as “the process of converting a source data into a smaller sized version of it”. [^Salomon02]
+While there are many ways to compress data, they can be categorized as either [lossy](../main/glossary.md#lossy) or [lossless](../main/glossary.md#lossless). 
+
+While it is impossible to give credit to a specific individual, 
+an early example of compression can be attributed to Samuel Morse and the Morse code when he decided to “assign shorter codes for the most common letters in the English alphabet, 
+such as ‘A' and ‘E’, to help transmit messages quickly”. [^Sayood02]
+
+Compression is important in media spaces as it helps to solve two major problems,
+the first being the need for storage space and the second is to allow users to share and view content rapidly. [^Salomon02]
+
+Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#artificial-intelligence)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
+As such, new algorithms are being developed and published like the “Universal Adaptive Stream-Based Entropy Coding” system to aid in this issue [^Shinichi24].
+
+Compression is also present in current-day media through short-form content such as TikTok and Instagram Reels as well as TV and movie scenes length decreasing over time. 
+This includes content on YouTube containing jump cuts and the removal of silent pauses during speech. 
+This type of compression could be linked to the lowered attention span that our society is currently facing with the increase in the amount of content available 
+due to having more space or from the short content duration format. [^Mills23]
+
+
+
+[^CambridgeDictionary]: Compression | English meaning - Cambridge dictionary, accessed February 2. 2025. https://dictionary.cambridge.org/dictionary/english/compression.
+
+[^Salomon02]: Salomon, David. 2002. "Data compression." Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
+
+[^Sayood02]: Sayood, Khalid. 2002. "Data Compression." Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
+
+[^Tsukuba24]: University of Tsukuba. 2024. “New Tech Boosts Real-Time Data Compression for AI.” Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
+
+[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. "Universal Adaptive Stream-Based Entropy Coding." in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
+
+[^Mills23]: Mills, Kim. 2023. “Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.” American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
+
+
+## Computer
+
+### Historical Summary and Definition
+
+"Computer" is first and foremost is a word that gets its origins from the latin word "Computare", roughly translated as "to calculate", or perhaps "someone who computes". 
+The word started being widely recognized some time around the 1600's, and was used comfortably to describe human mathematicians of that era. [^rojas_hashagen_2002_first]
+
+It was also around this time that different tools that could help with computing would start to appear, for example William Oughtred's slide rule, a mechanical analog device primarily used for multiplication, division, roots, logarithms, and trigonometry.
+This word however, would see a paradigm shift of its use around the turn of the 17th - 18th century, as a computation moved towards mechanics and automation. 
+In 1822, Charles Babbage would complete one of his inventions, announcing it as the "Difference Engine", 	designed to compute and print mathematical tables via automated mechanial calculations. [^garfinkel_grunspan_2019_abacus]
+
+This invention could be the described as the precursor to the idea of the "Analytical Engine", largly known as the first mechanical computer ever made, though Babbage would never complete or build the machine as he envisioned it, passing in 1871.
+The 19th century brought a series of groundbreaking innovations in the world of computation, paving the way for more modern computers. 
+An important development came in the late 19th century with Herman Hollerith’s punched card machine.
+The punched card machine used cards to automate the process of tabulating census data, which was a great leap in data management.
+The machine functioned by reading the punched holes in the cards using electrical sensors, processing the data through internal mechanics, and finally outputting the results on a printout. [^pugh_heide_2013_card]
+
+Opening the doors to greater computation power, the late 19th century also brought with it great advancements to our understanding of what we know now to be digital computing technology.
+In 1936, Alan Turing created the "Turing Machine", a hypothetical computational model that was meant to answer the question of whether certain mathematical tasks could be computed.
+His machine consisted of a long strip of tape with seperated symbols that were meant to store data, as well as a "head" that would move both left and right down the tape, being able to read, write, and make decisions in accordance to the tape.
+Today the child of this idea is known as binary and widely used as part of the the basis of all of our programming knowledge. [^mol_2024_turing]
+
+In a similar, if more physical sense, John Von Neumann created the "Von Neumann Architecture" in 1945. 
+This was the model for a computer's organization that now forms the basis of most modern computers, acting as our introductions to the concept of CPU's (Central Processing Unit), RAM (Random-Access Memory), Input / Output Devices, and of course storing commands using memory. [^o'regan_2018_neumann]
+
+### Relation to New Media and Modern Definition
+
+As the idea of a computer became more widely known, understood, and of course used, it became engrained in nearly every bit of our culture.
+The term "computer" is incredibly significant to new media because it has been cemented as a foundational concept to the way we interact with, and produce media today.
+This term has never been just about the device itself but is instead a vehicle for technologies that create and transform data into interactive experiences.
+
+For a grand majority of the modern peoples, their media, whether focused on education or entertainment, is the shared data we find on the internet.
+In this case, computers act as our access to said data, allowing us to take, make, and change its form.
+While a simple instrument would allow us to access a specific, or perhaps on some occasions numerous, forms of art, the computer allows us to access and transform a whole new world of information in an unimaginable number of ways. [^kay_1991_computers]
+
+Graphic Design, Video Editing, Web Development, Social Entertainment Environments, and finally in great deal AI, all have computers to thank for their existence and continued development.
+Our ability to govern, communicate, and collaberate has been increased significantly with this rise in technological understanding, and the ability to "compute" is no doubt what lead us to that understanding.
+
+Paradigmatic examples of the use of computers that we often take for granted are Social Media Platforms, Streaming Services, and Video Games.
+In conclusion, the computer is not only central to the production of new media but also to its constantly ongoing distribution.
+
+[^rojas_hashagen_2002_first]: Rojas, Raul, and Ulf Hashagen. 2002. _Classifications of Computing Machines. In The First Computers: History and Architectures_, pp. 1-2. MA: MIT Press.
+[^garfinkel_grunspan_2019_abacus]: Garfinkel, Simson L., and Rachel H. Grunspan. 2019. _The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science_, Union Square & Co.
+[^pugh_heide_2013_card]: Pugh, Emerson W., and Lars Heide. 2013. _Early punched card equipment: 1880-1951 [Scanning Our Past]_, pp. 546-552. IEEE.
+[^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
+[^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
+[^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, pp. 138-149. Scientific American.
+
+## Crowdsourcing
+
+### Definition
+Crowdsourcing can be defined by the process of collecting work, data, and opinions from a big, often anonymous group, typically through the Internet. [^hargrave24crowdsourcing] It diverges from traditional outsourcing because the task is assigned to an undefined crowd instead of a pre-selected person or group. [^lebraty13crowdsourcing] 
+
+### Significance in New Media
+Since it uses cooperation and collective intelligence, crowdsourcing is essential to new media. It allows for large-scale collaborations to be possible, enabling users to provide resources, labor or knowledge without centralized control. It is used by digital platforms for previously untenable data collection, innovation, and problem solving. [^halton24wisdom]
+
+However, many ethical concerns have been raised, especially in relation to power imbalances and labor exploitation. According to Du et al. (2024)[^du24ethical] many online workers perform microtasks with minimal protection, low wages and limited worker rights. Despite its issues, crowdsourcing continues to shape digital culture by fostering decentralization and user-driven innovation. 
+
+### Relation to Current Technologies and Media Practices 
+Crowdsourcing is widely used across digital media and technological landscapes:
+- **Scientific Research & Problem-Solving:** Foldit enables gamers to assist scientists in protein folding research, accelerating discoveries that traditional methods struggle with. [^lebraty13crowdsourcing]
+- **AI & Data Labeling:** Services like ReCAPTCHA use human input to improve machine learning models by digitizing text and training algorithms.[^halton24wisdom]
+- **Content Creation & Curation:** Wikipedia relies on crowdsourced knowledge, while platforms like Fiverr and 99designs offer freelance creative work.[^lebraty13crowdsourcing]
+- **Business & Innovation:** Companies like LEGO leverage user-generated ideas for new product designs, and crowdfunding platforms such as Kickstarter enable community-driven funding for creative projects[^halton24wisdom]
+
+### Brief History
+One of the first uses of crowdsourcing was used in 1714. After losing 5 navy vessels and many lives, the British government offered a prize of £20,000 (£3 million today) if someone could find a way to accurately measure longitude while at sea. John Harrison created the H1 Marine Timekeeper to solve that problem.[^lebraty13crowdsourcing]
+
+Crowdsourcing was used many times after that all over the world but the term was finally coined by Jeff Howe in 2006 while he was presenting an article about how the internet was being used to outsource jobs to the general population or “crowd”. The article was titled “The Rise of Crowdsourcing” and was published in June 2006 by Wired.[^howe06rise]
+
+Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
+
+[^hargrave24crowdsourcing]: Hargrave, Marshall. 2024. “Crowdsourcing: Definition, How It Works, Types, and Examples.” Investopedia. October 17, 2024. https://www.investopedia.com/terms/c/crowdsourcing.asp.
+[^lebraty13crowdsourcing]: Lebraty, Jean-Fabrice, and Katia Lobre-Lebraty. 2013. _Crowdsourcing : One Step Beyond._ Hoboken, NJ: Wiley. http://site.ebrary.com/id/10756811. 
+[^halton24wisdom]: Halton, Clay. 2024. “Wisdom of Crowds: Definition, Theory, and Examples.” Investopedia. August 1, 2024. https://www.investopedia.com/terms/w/wisdom-crowds.asp#:~:text=Wisdom%20of%20crowds%20refers%20to,collectively%20smarter%20than%20individual%20experts. 
+[^du24ethical]: Du, Shuili, Mayowa T. Babalola, Premilla D’Cruz, Edina Dóci, Lucia Garcia-Lorenzo, Louise Hassan, Gazi Islam, Alexander Newman, Ernesto Noronha, and Suzanne van Gils. 2024. “The Ethical, Societal, and Global Implications of Crowdsourcing Research.” Journal of Business Ethics 193 (1): 1–16. https://doi.org/10.1007/s10551-023-05604-9.
+[^howe06rise]: Howe, Jeff. 2006. “The Rise of Crowdsourcing.” Wired, June 1, 2006. https://www.wired.com/2006/06/crowds/.
 
 ## CSS
 
@@ -150,6 +369,91 @@ BONUS: Last fall session, I created a website to help both students and curious 
 #### [Check the PHP here](./php.md)
 
 
+## Cyberculture
+
+Cyberculture is a broad social and cultural movement shaped by the growth and spread of advanced digital technologies. It includes various social groups, forms of communication, and cultural practices that reflect how technology is transforming society. Cyberculture views technology as both a force for change and a tool for empowerment, fostering new types of influence, virtual spaces, and authentic digital experiences. Through online communities, digital interactions, and shared narratives, cyberculture redefines how people engage with technology and one another in an increasingly connected world.[^macek]
+
+Cyberculture emerged in the 1960s at the Massachusetts Institute of Technology as a term describing the evolving relationship between computers and networks. It gained prominence with William Gibson's 1984 novel Neuromancer, which was closely tied to the cyberpunk subculture. Initially linked to hackers and digital avant-garde communities in the 1980s, it became more established in the 1990s with the rise of the internet, evolving into a broader sociocultural and political movement that shapes new digital behaviors and practices.[^vicenteamaral]
+
+As digital technologies continue to advance, cyberculture evolves, reshaping how people interact with cultural content. The concept of cultural interfaces highlights how computers present and structure media, drawing from influences like cinema, print, and human-computer interaction.[^manovich] As media shifts away from physical formats, digital interfaces adapt, blending familiar elements from traditional culture with new ways of navigating and experiencing information. The rise of hyperlinking in the 1990s further transformed cyberculture by encouraging non-linear, decentralized structures, challenging traditional hierarchies in media.[^vicenteamaral] These changes illustrate the ongoing interplay between technology and culture, shaping the way digital experiences are created and understood.
+
+[^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
+
+[^manovich]: Manovich, Lev. 2002. The Language of New Media. Leonardo. Cambridge, Mass.: MIT Press. ISBN: 9780262632553.
+
+[^vicenteamaral]: Vicente, Paulo Nuno, and Inês Amaral. 2020. "Cyberculture." In The SAGE International Encyclopedia of Mass Media and Society, edited by Debra L. Merskin, 430-432. Thousand Oaks: SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n171.
+
+## Cybersecurity in the Context of New Media
+
+### Definition and Significance in New Media
+
+Cybersecurity refers to the practice of protecting digital systems, networks, and data from cyber threats, including hacking, data breaches, and malware attacks. In the context of new media, cybersecurity is crucial for maintaining the integrity, privacy, and security of digital communication, social media platforms, and online transactions. As media consumption and interaction shift towards digital spaces, the need for robust cybersecurity measures has intensified to prevent unauthorized access and ensure user trust.
+
+### Historical Origins
+
+The concept of cybersecurity dates back to the early days of computing in the 1960s and 1970s when researchers at the Advanced Research Projects Agency (ARPA) began studying network security. The development of the ARPANET, the precursor to the internet, exposed vulnerabilities that necessitated protective measures [^schneier2020]. In the 1980s, the emergence of computer viruses and worms, such as the Morris Worm (1988), underscored the need for cybersecurity frameworks [^anderson2021]. The rise of the internet in the 1990s further propelled cybersecurity research, leading to encryption techniques, firewalls, and cybersecurity legislation.
+
+### Technological Significance
+
+Cybersecurity is integral to modern technologies such as cloud computing, artificial intelligence (AI), and blockchain. Encryption methods, such as RSA and AES, provide data confidentiality, while machine learning algorithms enhance threat detection [^gordon2022]. The proliferation of Internet of Things (IoT) devices has also increased the attack surface, requiring advanced cybersecurity protocols to prevent unauthorized data access.
+
+### Influence on Digital Culture & Society
+
+Cybersecurity affects various aspects of digital culture, including online privacy, digital rights, and national security. The rise of cyber warfare and state-sponsored attacks has influenced geopolitical relations, as seen in cases like the 2016 U.S. presidential election cyber interference. Social media platforms implement cybersecurity measures to combat misinformation, identity theft, and data exploitation [^singer2014]. Additionally, businesses and governments enforce cybersecurity compliance through regulations such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+
+### Paradigmatic Examples
+
+Several high-profile cybersecurity incidents illustrate its impact on new media:
+
+* The 2013 Yahoo data breach exposed over 3 billion user accounts, highlighting the risks of inadequate security protocols.
+* The 2017 Equifax breach compromised sensitive information of 147 million individuals, prompting stricter cybersecurity regulations.
+* The WannaCry ransomware attack in 2017 affected systems worldwide, emphasizing the importance of timely software updates and security patches.
+
+### Key Figures and Groups
+
+Cybersecurity research and policy development have been shaped by key individuals and organizations, including:
+
+* Clifford Stoll – Author of *The Cuckoo’s Egg*, who uncovered an early case of cyber espionage.
+* Kevin Mitnick – Former hacker turned security consultant, whose exploits revealed major system vulnerabilities.
+* The National Institute of Standards and Technology (NIST) – Developed widely adopted cybersecurity frameworks.
+* The Electronic Frontier Foundation (EFF) – Advocates for digital rights and online security.
+
+### Internal References
+
+Cybersecurity intersects with related concepts such as Data Privacy, Encryption, and Cyber Warfare.
+
+### External References
+
+* [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
+* [Electronic Frontier Foundation (EFF) Cybersecurity Advocacy](https://www.eff.org/issues/security)
+* [U.S. Department of Homeland Security Cybersecurity Resources](https://www.cisa.gov/cybersecurity)
+
+### Bibliography
+
+[^anderson2021]: Anderson, Ross. 2021. *Security Engineering: A Guide to Building Dependable Distributed Systems*. 3rd ed. Hoboken: Wiley.
+
+[^gordon2022]: Gordon, Lawrence A., Martin P. Loeb, and Lei Zhou. 2022. "The Economics of Cybersecurity: A Survey of the Literature." *Journal of Cybersecurity* 8 (1): 1-15.
+
+[^schneier2020]: Schneier, Bruce. 2020. *Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World*. New York: W.W. Norton.
+
+[^singer2014]: Singer, Peter W., and Allan Friedman. 2014. *Cybersecurity and Cyberwar: What Everyone Needs to Know*. New York: Oxford University Press.
+
+## Cyberspace
+
+It is a space where computers can interact with each other and share their data and content with each other. A reality that is computer generated, computer accessed and virtual. It is the place we are in during our communications through computers. It is a complete virtualisation of our physical world. [^bauwens94cyberspace]
+
+The term ‘cyberspace’ was first used by William Gibson in 1982 when he used it to describe a computer generated virtual reality. ‘Cyber’ is related to ‘cyborg’ which describes humans connecting to machines. It is an artificial reality, another world. Networks and the Internet are examples of what we might consider a cyberspace. [^fourkas04cyberspace]
+
+A global domain of interdependent networks of information systems infrastructures like the internet. It is a complex network environment formed by the connection of all these systems and technology devices. What exists in cyberspace doesn’t have physical form. It is made and accessed only through computers and their connections. [^nist12information]
+
+Cyberspace is new representation of the physical world. It contains its own new ecosystem and media. This interlinked web of computers holds the space for new media to exist and permeate.
+
+[^bauwens94cyberspace]: Bauwens, Michel. 1994. “What Is Cyberspace?” *Computers in Libraries* 14 (4): 42–48. 
+
+[^fourkas04cyberspace]: Fourkas, Vassilys. 2004. "What Is Cyberspace." *Media Development* 3: 6-7.
+
+[^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
+
 ## Git
 
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]
@@ -184,6 +488,43 @@ GitHub's development process is distributed, allowing developers to collaborate,
 [^github24wikis]: GitHub Docs. 2024. “About wikis.” Accessed January 2. https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis.
 
 [^kinsta24what]: Kinsta. 2024. ”What Is GitHub? A Beginner's Introduction to GitHub.” Accessed January 2. https://kinsta.com/knowledgebase/what-is-github/.
+
+## GUI
+
+### Intro
+GUI (Graphical User Interface) is a way for users to interact and communicate with computers. Unlik the Command Line Interface(CLI), the GUI does not display code details. Instead, it facilitates human-computer interaction in a more intuitive way by using window, icons, menus, buttons, drop-down lists, dialog boxes, and more.[^Wendy11Graphcal] For beginners, since the GUI provides visual feedback and confirmation for every action and eliminates the need to learn specific commands and syntax, the learning curve is shallower[^Shardeum23What]
+
+### History
+Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant influence on the prototype of the GUI. The paper introduced the concept of an electronic device called Memex, which integrated an electronic desktop similar to today’s GUI.[^Vannevar45As] In 1973, Xerox PARC developed the first GUI system, which included the pop-up menus, icons, and the desktop metaphor of the graphical user interface.[^Wayne98Computer] Subsequently, the GUI continued to evolve. In 1984, Apple's release of the Macintosh popularized GUI-based personal computers, laying the foundation for modern GUIs. In 1985, Microsoft launched its first GUI-based operating system. In 2007, Apple's iPhone introduced multi-touch technology, revolutionizing GUI design for mobile device.
+Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
+
+### Example 
+![Fork the repo](../images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+Xerox_Star_8010 GUI
+
+![Fork the repo](../images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+Macintosh GUI
+
+![Fork the repo](../images/GUI_Windows1.0.png)[^WindowWiki85]
+Windows1.0 GUI
+
+
+
+[^Wendy11Graphcal]: Wendy L Martinez, "Graphical user interfaces" in *Wiley Interdisciplinary Reviews: Computational Statistics*, v3n2(March/April 2011): 119-133, https://wires-onlinelibrary-wiley-com.lib-ezproxy.concordia.ca/doi/epdf/10.1002/wics.150.
+
+[^Shardeum23What]: Shardeum Content Team, "GUI (Graphical User Interface) vs. CLI (Command-Line Interface)," *shardeum* July 23, 2023, "5.1 GUI vs. CLI," accessed January 29, 2025, https://shardeum.org/blog/gui-vs-cli/.
+
+[^Vannevar45As]: Bush, Vannevar. "As We May Think" The Atlantic Monthly, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
+
+[^Wayne98Computer]: Blinn, James E. "16.1 Xerox PARC" in *Computer Graphics and Computer Animation: A Retrospective Overview*. New York: ACM Press, 1998. 
+
+[^priya24Evolution]: Priya Patel. "The Evolution and Impact of Graphical User Interfaces (GUIs)," *Medium* January 21, 2024, accessed January 29, 2025, https://medium.com/@learning3601/in-the-vast-landscape-of-digital-interaction-the-graphical-user-interface-gui-stands-as-the-3c0b8dcca51c.
+
+[^XeroxWiki74]:Wikipedia. 2025. "Xerox Star." Last modified January 4, 2025. https://en.wikipedia.org/wiki/Xerox_Star.
+
+[^MacintoshZednet84]:Zdnet. 2525. "The Mac at 25: GUI battles in business" Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/.
+
+[^WindowWiki85]: Wikipedia. 2025. "Windows 1.0" Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0.
 
 ## Hashtag
 
@@ -257,6 +598,55 @@ In the 21st century, computing continues to evolve, thus the role of middleware 
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.
 
+## Multimedia
+
+Multimedia refers to the integration of multiple media to deliver a richer message than one single form of media.[^Li21multimedia] By manipulating text, images, 
+data and videos through technology (both modern and traditional forms) and including user interaction, one may allow more dimension for expression.
+
+Earlier forms of multimedia included newspapers, one of the first mass communication mediums and one in which included text, imagery, and graphics. Over time, hardware used to create multimedia continued to improve, from rudamentary devices like phonograms
+and wooden box cameras to CDs and Instant Cameras. Eventually, all the content captured by hardware went from analog media to digital media, marking a shift in how we could share and interact with media. This continuous improvement in hardware and shift in media allowed increased experimentation and expression using multimedia tools. Nowadays, with new digital media, users are now actively engaged with their "social ecosystem" rather than passively consuming media.[^Li21multimedia] 
+
+More modern applications of Multimedia are thought to date back to the early 1960's, with interactive installations such as Ivan Sutherland and Bob Sproull's "The Ultimate Display".[^history30ultimate] The proposed installation involved a computer interpreting beams of light and outputting them into a small screen on a helmet.[^brown17virtual] The Ultimate Display was effectively the ancestor of modern virtual reality technologies, combining creative computation, physics and imagery to generate virtual objects. With the evolution of software and hardware in the 20th and 21st centuries, interactive programs like video games and social media emerged as some of the most commercial and prevalent forms of multimedia entertainment.
+
+[^Li21multimedia]: Li, Ze-Nian, Mark S. Drew, and Jiangchuan Liu. 2021. Fundamentals of Multimedia. Cham, Switzerland: Springer
+
+[^history30ultimate]: History Timelines. 2025. “Multimedia: History Timeline.” Accessed January 30, 2025. https://historytimelines.co/timeline/multimedia-. 
+
+[^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
+
+## Open Source
+
+The term “open source” refers to the source code of a project that is under an open source licence and is freely available for anyone to inspect, modify and redistribute [^opensource]. For source code to be considered open source, it must adhere to the Open Source Definition (OSD) created by the Open Source Initiative (OSI). This definition was written by Bruce Perens and acts as a bill of rights for users by certifying content as open source [^bruceperens].
+
+The current criteria outlined by the Open Source Definition are as such:
+
+The license must allow for free redistribution of the source code/content.
+The content must include source code and allow for redistribution in form of source code.
+The license must allow for modifications and for derived works to be redistributed under the same terms as the original license.
+The license may require derived works to be distributed under a different name or version number to maintain the integrity of the original project.
+The license must not discriminate against any group of people.
+The license must not restrict usage in any field or endeavor.
+The license must apply to all cases of use without the need of additional licenses.
+The license must not be limited to particular software distribution.
+The license must not impose restrictions on any other software used in the redistribution of the content.
+The license must not be specific to any software, style or interface. [^bruceperens]
+
+The concept of collaboratively developing a project with source code freely available to modify and redistribute was first introduced through the GNU project at MIT in the early 1980’s. In early 1998 the term “open source” was coined by Bruce Perens and Eric Raymond in response to the source code of the Netscape web browser being released [^cristinagacek]. This soon led to the establishment of the Open Source Initiative and the official Open Source Definition to create clear guidelines as to what qualifies as open source. 
+
+A well-known example of open source software is Linux, an open source operating system based on the Linux kernel released in 1991 by Linus Torvalds [^linux]. Linux quickly gained popularity and replaced software with much more restrictive licenses, especially as the World Wide Web emerged and the internet became more mainstream [^ericramond]. Linux demonstrated the benefits of open source software due to its rapid development, and the open source license encouraged developers to feel comfortable while contributing to it.
+
+Although the term originated from a software context and is most commonly used in said context, the open source concept extends onto many other fields such as art, education and research. Open Source recognizes developers as a part of  the user community [^cristinagacek], and emphasises the importance of collaboration and community in innovation.
+
+[^cristinagacek]: Gacek, Cristina, and Budi Arief. "The Many Meanings of Open Source." IEEE Software 21, no. 1 (January 2004): 34–40.
+
+[^bruceperens]: Perens, Bruce. "The Open Source Definition." In Open Sources: Voices from the Open Source Revolution, edited by Chris DiBona, Sam Ockman, and Mark Stone, 171–188. Sebastopol, CA: O'Reilly Media, 1999.
+
+[^ericramond]: Raymond, Eric S. The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary. O'Reilly Media, 1999.
+
+[^linux]: "Linux." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Linux.
+
+[^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
+
 ## Search Engine Optimization
 
 
@@ -298,6 +688,21 @@ Virtual environments are the technology which facilitates interactions between u
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.” _UNC Chapel Hill Computer Science Technical Report TR95-018_.
 [^ve3]: Youngblut, Christine, Rob E. Johnston, Sarah H. Nash, Ruth A. Wienclaw, and Craig A. Will. 1996. _Review of Virtual Environment Interface Technology_. Alexandria, VA: Institute for Defense Analyses. Accessed January 20, 2025. https://apps.dtic.mil/sti/tr/pdf/ADA314134.pdf.
 [^reschke07wallpaper]: Reschke, Michael. 2007. “800x600 Wallpaper Blue Sky.png.” Wikimedia Commons. December 27. https://commons.wikimedia.org/wiki/File:800x600_Wallpaper_Blue_Sky.png.
+## Virtuality
+
+Virtuality refers to how we live, work, and interact through digital technology, like the internet, video games, social media, and other online platforms. Today, many parts of our lives such as work, relationships, entertainment, and even self-care happen online. This virtual world is shaped by different technologies, such as gaming software, social networks, and online communication tools. These technologies create new ways for people to interact and experience life. For example, in video games like World of Warcraft, players connect through various digital tools like blogs, forums, and chat rooms, making the game more than just the software itself [^nardi15virtuality]. Virtuality also explores how these technologies impact society, including how they change activism, work, and entertainment; emphasizing the role of digital technology in shaping how we work, connect, and have fun.
+
+Virtual worlds like online games and platforms are spaces where artists experiment with creating and showcasing art in digital environments. These spaces let artists explore new ways of interacting with their audience and blending physical and virtual worlds. Over time, virtual art has been presented in galleries and exhibitions, encouraging collaboration and new forms of expression [^doyle15art]. Artists use these virtual spaces to reimagine art, create immersive experiences, and explore social engagement in unique ways that wouldn't be possible in the physical world.
+
+Virtuality is the idea that something can have an effect or be experienced even if it isn't physically real. For instance, in a meeting where most committee members aren't physically there, the meeting can still happen because everyone is "virtually" present, maybe through video calls or other digital tools. Even though the people aren't in the same room, their presence is still felt, and the meeting can go on as planned [^norton72what]. Virtuality is powerful because it can fill in for what’s missing in the real world and still allow things to function as if they were real. It helps us continue with important activities, even if the real-world conditions aren't perfect.
+
+
+[^doyle15art]: Doyle, Denise. 2015. “Art, Virtual Worlds and the Emergent Imagination.” *Leonardo* 48 (3): 244–50. http://www.jstor.org/stable/43832994.
+
+[^nardi15virtuality]: Nardi, Bonnie. 2015. “Virtuality.” *Annual Review of Anthropology* 44: 15–31. http://www.jstor.org/stable/24811646.
+
+[^norton72what]: Norton, Richard. 1972. “What Is Virtuality?” *The Journal of Aesthetics and Art Criticism* 30 (4): 499–505. https://doi.org/10.2307/429465.
+
 
 ## Wiki
 
