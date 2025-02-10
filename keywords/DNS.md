@@ -19,8 +19,16 @@ The creation of the DNS led to a much more accessible Internet. Rather than havi
 users could now use words that are much easier to remember and in most cases shorter to type out. 
 This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
 
-Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names. (bbook)
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names.
 The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
+
+![DNS](images/DNS-wong.png)
+Computer image (left) from : 
+[bert b](https://unsplash.com/@bertsz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-macintosh-computer-Zd6PL6PSW5E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+House image (right) from: 
+[Luke Stackpoole](https://unsplash.com/@withluke?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-and-white-house-surround-green-grass-field-eWqOgJ-lfiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 
 
 [^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.

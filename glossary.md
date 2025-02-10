@@ -49,8 +49,16 @@ The creation of the DNS led to a much more accessible Internet. Rather than havi
 users could now use words that are much easier to remember and in most cases shorter to type out. 
 This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
 
-Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names. (bbook)
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names.
 The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
+
+![DNS](images/DNS-wong.png)
+Computer image (left) from : 
+[bert b](https://unsplash.com/@bertsz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-macintosh-computer-Zd6PL6PSW5E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+House image (right) from: 
+[Luke Stackpoole](https://unsplash.com/@withluke?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-and-white-house-surround-green-grass-field-eWqOgJ-lfiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 
 
 [^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
@@ -238,6 +246,8 @@ due to having more space or from the short content duration format. [^Mills23]
 
 ## Computer
 
+![Computer](images/computer-verba.png)[^computer1][^computer2][^computer3]
+
 ### Historical Summary and Definition
 
 "Computer" is first and foremost is a word that gets its origins from the latin word "Computare", roughly translated as "to calculate", or perhaps "someone who computes". 
@@ -283,6 +293,9 @@ In conclusion, the computer is not only central to the production of new media b
 [^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
 [^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
 [^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, pp. 138-149. Scientific American.
+[^computer1]: Triponez, Nao. 2018. _Shallow Focus Photography of Macbook_.
+[^computer2]: Hasanbekava, Dziana. 2021. _Serious man writing in notebook at table during work_.
+[^computer3]: Unknown. 2021. _Calculator on Black Surface_. Kindel Media.
 
 ## Crowdsourcing
 
@@ -307,6 +320,8 @@ One of the first uses of crowdsourcing was used in 1714. After losing 5 navy ves
 Crowdsourcing was used many times after that all over the world but the term was finally coined by Jeff Howe in 2006 while he was presenting an article about how the internet was being used to outsource jobs to the general population or “crowd”. The article was titled “The Rise of Crowdsourcing” and was published in June 2006 by Wired.[^howe06rise]
 
 Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
+
+![Crowdsourcing](images/crowdsourcing-lapierrefurtado.png)
 
 [^hargrave24crowdsourcing]: Hargrave, Marshall. 2024. “Crowdsourcing: Definition, How It Works, Types, and Examples.” Investopedia. October 17, 2024. https://www.investopedia.com/terms/c/crowdsourcing.asp.
 [^lebraty13crowdsourcing]: Lebraty, Jean-Fabrice, and Katia Lobre-Lebraty. 2013. _Crowdsourcing : One Step Beyond._ Hoboken, NJ: Wiley. http://site.ebrary.com/id/10756811. 
@@ -499,33 +514,33 @@ Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant i
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
 ### Example 
-![Fork the repo](../images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+![Fork the repo](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
-![Fork the repo](../images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+![Fork the repo](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
 Macintosh GUI
 
-![Fork the repo](../images/GUI_Windows1.0.png)[^WindowWiki85]
+![Fork the repo](images/GUI_Windows1.0.png)[^WindowWiki85]
 Windows1.0 GUI
 
+![Visual collage](images/gui-he.png)
 
 
 [^Wendy11Graphcal]: Wendy L Martinez, "Graphical user interfaces" in *Wiley Interdisciplinary Reviews: Computational Statistics*, v3n2(March/April 2011): 119-133, https://wires-onlinelibrary-wiley-com.lib-ezproxy.concordia.ca/doi/epdf/10.1002/wics.150.
 
 [^Shardeum23What]: Shardeum Content Team, "GUI (Graphical User Interface) vs. CLI (Command-Line Interface)," *shardeum* July 23, 2023, "5.1 GUI vs. CLI," accessed January 29, 2025, https://shardeum.org/blog/gui-vs-cli/.
 
-[^Vannevar45As]: Bush, Vannevar. "As We May Think" The Atlantic Monthly, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
+[^Vannevar45As]: Bush, Vannevar. "As We May Think", *The Atlantic Monthly*, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
 
 [^Wayne98Computer]: Blinn, James E. "16.1 Xerox PARC" in *Computer Graphics and Computer Animation: A Retrospective Overview*. New York: ACM Press, 1998. 
 
-[^priya24Evolution]: Priya Patel. "The Evolution and Impact of Graphical User Interfaces (GUIs)," *Medium* January 21, 2024, accessed January 29, 2025, https://medium.com/@learning3601/in-the-vast-landscape-of-digital-interaction-the-graphical-user-interface-gui-stands-as-the-3c0b8dcca51c.
+[^priya24Evolution]: Priya Patel. "The Evolution and Impact of Graphical User Interfaces (GUIs)", *Medium* January 21, 2024, accessed January 29, 2025, https://medium.com/@learning3601/in-the-vast-landscape-of-digital-interaction-the-graphical-user-interface-gui-stands-as-the-3c0b8dcca51c.
 
-[^XeroxWiki74]:Wikipedia. 2025. "Xerox Star." Last modified January 4, 2025. https://en.wikipedia.org/wiki/Xerox_Star.
+[^XeroxWiki74]:Wikipedia. 2025. *Xerox Star* Last modified January 4, 2025. https://en.wikipedia.org/wiki/Xerox_Star.
 
-[^MacintoshZednet84]:Zdnet. 2525. "The Mac at 25: GUI battles in business" Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/.
+[^MacintoshZednet84]:Zdnet. 2525. *The Mac at 25: GUI battles in business* Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/.
 
-[^WindowWiki85]: Wikipedia. 2025. "Windows 1.0" Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0.
-
+[^WindowWiki85]: Wikipedia. 2025. *Windows 1.0* Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0.
 ## Hashtag
 
 The Hashtag functions as a navigational tool that allows you to instantly search for publications on topics of interest. It also serves as a powerful tool for marketing promotion in the
@@ -538,6 +553,8 @@ Within new media studies, the hashtag plays a very important role. Hashtags are 
 depth to, or somehow emphasize what has been said. It is a reliable method for looking up specific posts or terms and has been utilized as an effective method of advertising and promotion.[^caleffi15word]
 
 The hashtag has a profound impact on our society today, especially with the continuous rise of social media. Many social media platforms such as Twitter and Instagram have pushed the usage of the hashtag into mainstream digital advertising. Not only is the hashtag a tool, it represents an integral element of contemporary communication.[^rauschnabel19motivate]
+
+![Hashtag](images/hashtag-armstrong.png)
 
 [^budnik19dynamic]: Budnik, Ekaterina, Violetta Gaputina, and Vera Boguslavskaya. 2019. "Dynamic of hashtag functions development in new media: Hashtag as an identificational mark of digital communication in social networks." _In Proceedings of the XI International Scientific Conference Communicative Strategies of the Information Society_ 1-5. Accessed January 29, 2025.
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
@@ -636,6 +653,8 @@ The concept of collaboratively developing a project with source code freely avai
 A well-known example of open source software is Linux, an open source operating system based on the Linux kernel released in 1991 by Linus Torvalds [^linux]. Linux quickly gained popularity and replaced software with much more restrictive licenses, especially as the World Wide Web emerged and the internet became more mainstream [^ericramond]. Linux demonstrated the benefits of open source software due to its rapid development, and the open source license encouraged developers to feel comfortable while contributing to it.
 
 Although the term originated from a software context and is most commonly used in said context, the open source concept extends onto many other fields such as art, education and research. Open Source recognizes developers as a part of  the user community [^cristinagacek], and emphasises the importance of collaboration and community in innovation.
+
+![opensourceimage](images/opensource-kelly.jpg)
 
 [^cristinagacek]: Gacek, Cristina, and Budi Arief. "The Many Meanings of Open Source." IEEE Software 21, no. 1 (January 2004): 34–40.
 
