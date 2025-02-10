@@ -33,5 +33,5 @@ House image (right) from:
 
 [^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
 [^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
-[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41, no. 2.
+[^veaandreubonastre19origins]: Bonastre, Oscar M., and Andreu Vea. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41 (2): 48–60. https://doi.org/10.1109/MAHC.2019.2913116.
 

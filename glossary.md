@@ -63,7 +63,7 @@ House image (right) from:
 
 [^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
 [^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
-[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41, no. 2.
+[^veaandreubonastre19origins]: Bonastre, Oscar M., and Andreu Vea. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41 (2): 48–60. https://doi.org/10.1109/MAHC.2019.2913116.
 
 
 ## MP3
@@ -76,12 +76,16 @@ The MP3 format was developed by the Moving Picture Experts Group (MPEG) under th
 
 MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
 
+![MP3 Collage](images/MP3-Wu.jpg)
+
+
 
 
 [^brandenburg99mp3]: Brandenburg, Karlheinz. 1999. "MP3 and the Future of Digital Audio." Journal of the Audio Engineering Society 47(7/8): 558–566.
 [^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
 [^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
 [^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+[GitHub](../main/glossary.md#github), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
 
 ## Agency 
 
@@ -175,13 +179,24 @@ Blogs paved the way for user-generated content platforms like YouTube and Inst
 Some of the most notable blogging platforms include [HuffPost](https://www.huffpost.com/) (formerly The Huffington Post), which evolved from a blog into a major news outlet. [Boing Boing](https://boingboing.net/) stands out as an influential technology and culture blog, while [Gizmodo](https://gizmodo.com/) has become a leading source for gadgets and tech news.
 
 
+![Blog](images/blog-nisma.png)
+[^inspo] [^china] [^recipe] [^clic] [^pixel] [^etoys] [^sara] [^web] [^julia]
 
 
 
-[^rebecca2weblog]: Blood, Rebecca. 2000. _"Weblogs: A History and Perspective"_. http://www.rebeccablood.net/essays/weblog_history.html.
-[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. _“Weblogs as a Bridging Genre.” Information Technology & People 18_ (2): 142–71. https://doi.org/10.1108/09593840510601513.
+
+[^rebecca2weblog]: Blood, Rebecca. 2000. "Weblogs: A History and Perspective". http://www.rebeccablood.net/essays/weblog_history.html.
+[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. “Weblogs as a Bridging Genre.” Information Technology & People 18 (2): 142–71. https://doi.org/10.1108/09593840510601513.
+[^inspo]: n.d. "inspo". Pinterest. https://www.pinterest.com/pin/185843922118184755.
+[^julia]: Julie. 2017. "Vintage Recipes Bread and Rolls." The Old Design Shop. http://olddesignshop.com/2017/11/vintage-recipes-bread-and-rolls/.
 [^miller4weblog]: Miller, Carolyn R., and Dawn Shepherd. 2004. _"Blogging as Social Action: A Genre Analysis of the Weblog."_ Into the Blogosphere: Rhetoric, Community, and Culture of Weblogs. https://conservancy.umn.edu/items/6065cb61-5392-4cee-8d2a-11199caeba6e.
-
+[^china]: n.d. "China Daily Design". Pinterest. https://www.pinterest.com/pin/2322237300626423.
+[^recipe]: n.d. "Vintage Recipe Cards: Pumpkin Bread". Pinterest. https://www.pinterest.com/pin/374924737748790719.
+[^clic]: n.d. "Clic png! ^^". Pinterest. https://www.pinterest.com/pin/904308800178971812/.
+[^pixel]: n.d. "Pixel Mouse Icon". Pinterest. https://www.pinterest.com/pin/35325178321625125/.
+[^etoys]: KB Holdings, LLC. 2002. "eToys - Where Great Ideas Come to You!." eToys.  https://web.archive.org/web/20020601072752/http://www.etoys.com/etoys/index.html.
+[^sara]: Sara. 2019. "TRAVEL GUIDE: From Kyoto to Tokyo." Collage Vintage. http://www.bloglovin.com/blogs/collage-vintage-3891721/travel-guide-from-kyoto-to-tokyo-6751281949.
+[^web]: Web Design Museum. n.d. "iQVC in 2001." Web Design Museum. https://www.webdesignmuseum.org/all-websites/iqvc-in-2001.
 
 
 
@@ -233,16 +248,17 @@ due to having more space or from the short content duration format. [^Mills23]
 
 [^CambridgeDictionary]: Compression | English meaning - Cambridge dictionary, accessed February 2. 2025. https://dictionary.cambridge.org/dictionary/english/compression.
 
-[^Salomon02]: Salomon, David. 2002. "Data compression." Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
+[^Salomon02]: Salomon, David. 2002. *"Data compression."* Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
 
-[^Sayood02]: Sayood, Khalid. 2002. "Data Compression." Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
+[^Sayood02]: Sayood, Khalid. 2002. *"Data Compression."* Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
 
-[^Tsukuba24]: University of Tsukuba. 2024. “New Tech Boosts Real-Time Data Compression for AI.” Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
+[^Tsukuba24]: University of Tsukuba. 2024. *“New Tech Boosts Real-Time Data Compression for AI.”* Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
 
-[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. "Universal Adaptive Stream-Based Entropy Coding." in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
+[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. *"Universal Adaptive Stream-Based Entropy Coding."* in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
 
-[^Mills23]: Mills, Kim. 2023. “Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.” American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
+[^Mills23]: Mills, Kim. 2023. *“Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.”* American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
 
+![Compression](images/compression-le.png)
 
 ## Computer
 
@@ -588,7 +604,10 @@ Information overload is critical in new media, influencing digital consumption a
 
 - **Healthcare** – Physicians face information overload from patient records, research, and administrative updates, leading to fatigue [^sbaffi2020].  
 - **Social Media** – Continuous streams of news and advertisements contribute to cognitive exhaustion [^cazaly2021].  
-- **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].  
+- **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].
+
+## Image
+![Information Overload](images/information-overload-rowan.png)
 
 
 [^arnold2023]: Arnold, Miriam, Mascha Goldschmitt, and Thomas Rigotti. 2023. "Dealing with Information Overload: A Comprehensive Review." *Frontiers in Psychology* 14: 1122200. https://doi.org/10.3389/fpsyg.2023.1122200.  

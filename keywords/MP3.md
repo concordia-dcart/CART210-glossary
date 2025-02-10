@@ -8,9 +8,13 @@ The MP3 format was developed by the Moving Picture Experts Group (MPEG) under th
 
 MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
 
+![MP3 Collage](images/MP3-Wu.jpg)
+
+
 
 
 [^brandenburg99mp3]: Brandenburg, Karlheinz. 1999. "MP3 and the Future of Digital Audio." Journal of the Audio Engineering Society 47(7/8): 558–566.
 [^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
 [^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
 [^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+[GitHub](../main/glossary.md#github), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
