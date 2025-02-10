@@ -13,3 +13,7 @@ Cyberspace is new representation of the physical world. It contains its own new 
 [^fourkas04cyberspace]: Fourkas, Vassilys. 2004. "What Is Cyberspace." *Media Development* 3: 6-7.
 
 [^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
+
+Image credits:
+- Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
+- fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
