@@ -10,6 +10,8 @@ A key feature of AR is its ability to allow users to see and interact with their
 
 As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
 
+![AR](‎images/AR-Tang.png)
+
 [^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
 
 [^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
