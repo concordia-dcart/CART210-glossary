@@ -21,6 +21,8 @@ A well-known example of open source software is Linux, an open source operating 
 
 Although the term originated from a software context and is most commonly used in said context, the open source concept extends onto many other fields such as art, education and research. Open Source recognizes developers as a part of  the user community [^cristinagacek], and emphasises the importance of collaboration and community in innovation.
 
+![opensourceimage](images/opensource-kelly.jpg)
+
 [^cristinagacek]: Gacek, Cristina, and Budi Arief. "The Many Meanings of Open Source." IEEE Software 21, no. 1 (January 2004): 34–40.
 
 [^bruceperens]: Perens, Bruce. "The Open Source Definition." In Open Sources: Voices from the Open Source Revolution, edited by Chris DiBona, Sam Ockman, and Mark Stone, 171–188. Sebastopol, CA: O'Reilly Media, 1999.

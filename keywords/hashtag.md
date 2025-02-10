@@ -11,6 +11,8 @@ depth to, or somehow emphasize what has been said. It is a reliable method for l
 
 The hashtag has a profound impact on our society today, especially with the continuous rise of social media. Many social media platforms such as Twitter and Instagram have pushed the usage of the hashtag into mainstream digital advertising. Not only is the hashtag a tool, it represents an integral element of contemporary communication.[^rauschnabel19motivate]
 
+![Hashtag](images/hashtag-armstrong.png)
+
 [^budnik19dynamic]: Budnik, Ekaterina, Violetta Gaputina, and Vera Boguslavskaya. 2019. "Dynamic of hashtag functions development in new media: Hashtag as an identificational mark of digital communication in social networks." _In Proceedings of the XI International Scientific Conference Communicative Strategies of the Information Society_ 1-5. Accessed January 29, 2025.
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
 [^rauschnabel19motivate]: Rauschnabel, Philipp A., Pavica Sheldon, and Erna Herzfeldt. 2019. "What motivates users to hashtag on social media?." _Psychology & Marketing_ 36 (5): 473-488. Accessed January 29, 2025.

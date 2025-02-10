@@ -1,5 +1,7 @@
 ## Computer
 
+![Computer](images/computer-verba.png)[^computer1][^computer2][^computer3]
+
 ### Historical Summary and Definition
 
 "Computer" is first and foremost is a word that gets its origins from the latin word "Computare", roughly translated as "to calculate", or perhaps "someone who computes". 
@@ -45,3 +47,6 @@ In conclusion, the computer is not only central to the production of new media b
 [^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
 [^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
 [^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, pp. 138-149. Scientific American.
+[^computer1]: Triponez, Nao. 2018. _Shallow Focus Photography of Macbook_.
+[^computer2]: Hasanbekava, Dziana. 2021. _Serious man writing in notebook at table during work_.
+[^computer3]: Unknown. 2021. _Calculator on Black Surface_. Kindel Media.
