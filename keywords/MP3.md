@@ -17,4 +17,3 @@ MP3 became widely known in the late 1990s, with the rise of the Internet and pee
 [^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
 [^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
 [^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
-[GitHub](../main/glossary.md#github), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
