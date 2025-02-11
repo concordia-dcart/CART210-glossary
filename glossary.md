@@ -217,6 +217,10 @@ The term “commons” originates from the English legal term for common land, h
 
 If we link this concept of the commons to new media, we can notice how the commons is now a foundational element to the philosophy of open-source software, crowdsourced projects, and decentralized technologies. All of these systems are based on emphasizing shared resources and collective governance to contribute to community resilience and prefigure better futures. [^smith] [Wikis](#wiki) are one of the most popular types of digital commons. An example of this would be [Wikipedia](https://www.wikipedia.org/), which is a digital encyclopedia that relies on a collective of editors to modify or add information. [OpenStreetMap](https://www.openstreetmap.org/) is another similar concept that provides crowdsourced geographic data. 
 
+![Commons](images/commons-nina.jpg) [^fishEye] [^arms]
+
+[^fishEye]: Reed, Louis. *Fish Eye Aerial Shot Of Buildings And Trees*. August 14, 2018. Photograph. Unslpash. [https://unsplash.com/photos/fish-eye-aerial-shot-of-buildings-and-trees-hzp_aT02R48].
+[^arms]: Naddam, Youssef. *Two Person's Arms Photo*. November 11, 2018. Photograph. Unslpash. [https://unsplash.com/photos/two-persons-arms-iJ2IG8ckCpA)].
 [^hessOstrom]: Hess, Charlotte, and Elinor Ostrom. 2007. *Understanding Knowledge as a Commons: From Theory to Practice.* MIT Press. 
 [^benkler]: Benkler, Yochai. 2006. *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press. 
 [^hardin]: Hardin, Garrett. 1968. “The Tragedy of the Commons.” *Science* 162 (3859): 1243–1248. https://doi.org/10.1126/science.162.3859.1243.
