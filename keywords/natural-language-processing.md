@@ -1,0 +1,2 @@
+![Natural language processing](images/naturallanguageprocessing-vlamis.png)[^deepmind]
+[^deepmind]: Cockx, Wes and Google DeepMind. 2023. *An Artist’s Illustration of Artificial Intelligence.* Pexels. https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069694/.
