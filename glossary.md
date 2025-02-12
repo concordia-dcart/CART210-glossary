@@ -366,7 +366,7 @@ The first official CSS specification, CSS1, was published by the World Wide Web 
 ### How to apply CSS in HTML
 
 As established, CSS is used for formatting the visual presentation of HTML. Here’s a visual example of how CSS is set up:  
-![Fork the repo](../images/01exampleCSS.png)[^ebersbach05css]
+![Fork the repo](images/01exampleCSS.png)[^ebersbach05css]
 
 
 #### Let's break it down
@@ -379,7 +379,7 @@ As established, CSS is used for formatting the visual presentation of HTML. Here
 In the visual example, we are applying styles to our `h1` selector. The declaration block sets the text color to red and the background color to yellow.[^ebersbach05css]
 
 In order to stylized our website, we must make a connection between both HTML and CSS.
-![Fork the repo](../images/02exampleCSS.png)[^ebersbach06css]
+![Fork the repo](images/02exampleCSS.png)[^ebersbach06css]
 
 This image represents the external method of linking a CSS file to an HTML file to style the website. This method is easier to manage when handling CSS declarations. *(You can also apply CSS internally, but it tends to be messier.)*
 
