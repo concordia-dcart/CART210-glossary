@@ -1,7 +1,9 @@
 ## Ransomware 
 
 **Definition**:[^UKsecurity]  Ransomware is a type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption.
+
 **The birth of ransomware**[^Allan]  : Historically, ransomware dates back to an original piece of malicious code, known as AIDS, written in 1989 by Joseph Popp.
+
 **How dose ransomware work**: 
  - Data access
  - Data encryption 
@@ -55,5 +57,7 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
 
 --- 
    [UKsecurity]: *National cyber Center UK*.[Ransome Guidiance of UK National Cyber Center](https://www.ncsc.gov.uk/ransomware/home#section_4) 
+
    [Allan]: Allan Liska & Timothy Gallo, *Ransomware: Defendfing Against Digital Extortion* (Sebastopol,CA: O'Reilly Media, 2016), 1.
+
    [cyberCanada]: [Ransomware playbook,ITSM.00.099] (https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
