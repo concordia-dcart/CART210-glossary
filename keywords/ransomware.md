@@ -60,4 +60,4 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
 
    [Allan]: Allan Liska & Timothy Gallo, *Ransomware: Defendfing Against Digital Extortion* (Sebastopol,CA: O'Reilly Media, 2016), 1.
 
-   [cyberCanada]: [Ransomware playbook,ITSM.00.099] (https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+   [cyberCanada]: Canadian Centre for Cyber Security. 2021. “Ransomware Playbook (ITSM.00.099).” Canadian Centre for Cyber Security, November 30, 2021. https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099.
