@@ -10,71 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## AR
-
-Augmented Reality (AR) integrates digital content into the real world, engaging multiple senses. Unlike Virtual Reality (VR), which immerses users in a fully computer-generated environment, AR blends virtual elements with real-world settings, enhancing how users perceive and interact with their surroundings.[^Pesce21AR] AR is highly relevant to new media because it transforms digital content into interactive, engaging experiences. By merging physical and digital environments, AR creates new ways for users to connect, explore, and engage with their surroundings in real time.
-
-The fundamental concept of AR lies in the combination of two sources of information—real and digital—merged into a single viewing space. Although AR may seem like a recent technological development, its history dates back to 1892 with Pepper’s Ghost, a stage illusion that is considered a precursor to AR. This technique involved projecting images into the real world, creating the illusion of objects existing in physical space.
-
-In 1962, Ivan Sutherland created the first modern VR system, which projected computer-generated images onto the real world using a head-mounted display.[^Peddie23AR] Over time, AR technology continued to evolve, and with the rise of devices like smartphones and tablets, it became far more accessible. Through apps on these devices, users can now interact with virtual objects or use AR for purposes such as navigation, gaming, and shopping. This marked a significant step in AR’s integration into everyday life.
-
-A key feature of AR is its ability to allow users to see and interact with their physical environment while experiencing digital enhancements. According to the book VR/AR: Foundations and Methods of Extended Realities, Wolfgang Broll suggests that there are three main types of AR: Video See-Through AR, Optical See-Through AR, and Projection-Based AR.[^Doerner22AR] (Although there is no official classification system, this is one of the ways to categorize them.) In Video See-Through AR, the real world is captured by a video camera, and the image is superimposed with virtual content before being displayed on an output device. Optical See-Through AR, on the other hand, allows users to directly view the real world through an optical device, with virtual content overlaid in real-time. Lastly, Projection-Based AR applies virtual content directly onto objects in the real environment using projection mapping.
-
-As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
-
-[^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
-
-[^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
-
-[^Doerner22AR]: Doerner, Ralf, Wolfgang Broll, Paul Grimm, and Bernhard Jung, eds. 2022. Virtual and Augmented Reality (VR/AR): Foundations and Methods of Extended Realities (XR). Cham Switzerland: Springer.
-
-## DNS
-
-DNS stands for Domain Name System. It was invented by Paul Mockapetris in 1983. [^cocoran11branding]
-
-Each computer and server have their own IP address, a series of numbers, similar to how houses have addresses for their locations. 
-To be able to connect to another computer through the internet, it was required to know the IP address. An IP address is a series of 
-numbers that would point to the location of the site, similar to how our home addresses tell us where we are geographically.
-
-In the past, to find this specific number, a `hosts.txt` file had a table with the name of the host linked to their IP address. 
-However, this file had to be updated every time a new “location” was created. With the rise of the Internet, it quickly fell behind. [^cocoran11branding]
-To fix this issue, Paul Mockapetris invented the domain name system. 
-This system takes domain names and translates them into IP addresses for the browser to use. [^cloudflare25DNS] The system is divided into different categories and levels to help organization and navigation.
-While most top-level domains categorize sites by geographical location, they also have a few to signify the site’s purpose. For example, “ca” is for canadian sites, “com” is for commercial sites and “org” is for non-profit organizations.
-You could also add subdomains for even more specificity. They just have to be separated by a dot. Example: https://library.concordia.ca/
-The “.ca” part is the top-level domain and there’s the subdomain “.concordia”.
-This helps connect sites to each other and signify relationships between different pages. [^cocoran11branding]
-
-The creation of the DNS led to a much more accessible Internet. Rather than having to remember and type long strings of numbers to reach other sites, 
-users could now use words that are much easier to remember and in most cases shorter to type out. 
-This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
-
-Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names. (bbook)
-The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
-
-
-[^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
-[^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
-[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41, no. 2.
-
-
-## MP3
-
-MP3 (MPEG-1 Audio Layer 3) is a widely used digital audio format that has revolutionized the way people store, distribute, and consume music. MP3 is a lossy audio compression format that significantly reduces file size while maintaining acceptable sound quality by discarding audio data that is not sensitive to human hearing. This efficient compression makes MP3 key to the rise of digital music, online distribution, and portable media players, and has profoundly influenced contemporary digital culture and media consumption practices.[^brandenburg99mp3]
-
-The importance of MP3 in new media is that it changed the economic model of the music industry, making file sharing and music streaming platforms possible. It is directly related to the evolution of peer-to-peer (P2P) networks, digital rights management (DRM), and streaming services such as Spotify and Apple Music.[^morris15selling]
-
-The MP3 format was developed by the Moving Picture Experts Group (MPEG) under the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC). Its core figure was Karlheinz Brandenburg, who achieved efficient compression by optimizing perceptual coding techniques to remove parts of the audio signal that are imperceptible to the human ear.[^brandenburg94iso]
-
-MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
-
-
-
-[^brandenburg99mp3]: Brandenburg, Karlheinz. 1999. "MP3 and the Future of Digital Audio." Journal of the Audio Engineering Society 47(7/8): 558–566.
-[^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
-[^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
-[^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
-
 ## Agency 
 
 Agency seems to have two meanings. On one hand, it refers simply to an organized body of people working for or under a larger form of institution, such as a governmental or political institution. On the other hand is a meaning deep rooted in philosophy and anthropology. Laura Ahearn in the Journal of Linguistic Anthropology explains that;
@@ -111,6 +46,8 @@ Deep Learning is a concept in which the computer simulates human processes to an
 
 In the context of new media, we can see these advancements as productive tools for creativity, enabling automation of processes, customization of dynamic workflows, and advanced data analysis. We can draw connections to how algorithms function on social media platforms, performing tasks adapted to individual preferences, such as curating personalized content based on likes, predicting trends and behaviors to engage the viewer in more sophisticated ways. From this point of view, AI becomes an active participant in the process, optimizing interactions to align with individuals in more meaningful ways.
 
+![AI](images/ai_ouellette.jpg)
+
 [^manning]: Manning, Christopher. 2022. _AI Definitions_. Version 1.2. Stanford, CA: Institute for HAI, Stanford University. https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf.
 
 [^saha]: Saha, Dibbyo. n.d. _"A Brief Introduction to Artificial Intelligence: What is AI and How Is It Going to Shape the Future?"_ Ryerson University. 
@@ -132,6 +69,24 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^analyticsoxford]: “Analytics.” n.d. In _New Oxford American Dictionary_. Apple Dictionary. 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
+
+## AR
+
+Augmented Reality (AR) integrates digital content into the real world, engaging multiple senses. Unlike Virtual Reality (VR), which immerses users in a fully computer-generated environment, AR blends virtual elements with real-world settings, enhancing how users perceive and interact with their surroundings.[^Pesce21AR] AR is highly relevant to new media because it transforms digital content into interactive, engaging experiences. By merging physical and digital environments, AR creates new ways for users to connect, explore, and engage with their surroundings in real time.
+
+The fundamental concept of AR lies in the combination of two sources of information—real and digital—merged into a single viewing space. Although AR may seem like a recent technological development, its history dates back to 1892 with Pepper’s Ghost, a stage illusion that is considered a precursor to AR. This technique involved projecting images into the real world, creating the illusion of objects existing in physical space.
+
+In 1962, Ivan Sutherland created the first modern VR system, which projected computer-generated images onto the real world using a head-mounted display.[^Peddie23AR] Over time, AR technology continued to evolve, and with the rise of devices like smartphones and tablets, it became far more accessible. Through apps on these devices, users can now interact with virtual objects or use AR for purposes such as navigation, gaming, and shopping. This marked a significant step in AR’s integration into everyday life.
+
+A key feature of AR is its ability to allow users to see and interact with their physical environment while experiencing digital enhancements. According to the book VR/AR: Foundations and Methods of Extended Realities, Wolfgang Broll suggests that there are three main types of AR: Video See-Through AR, Optical See-Through AR, and Projection-Based AR.[^Doerner22AR] (Although there is no official classification system, this is one of the ways to categorize them.) In Video See-Through AR, the real world is captured by a video camera, and the image is superimposed with virtual content before being displayed on an output device. Optical See-Through AR, on the other hand, allows users to directly view the real world through an optical device, with virtual content overlaid in real-time. Lastly, Projection-Based AR applies virtual content directly onto objects in the real environment using projection mapping.
+
+As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
+
+[^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
+
+[^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
+
+[^Doerner22AR]: Doerner, Ralf, Wolfgang Broll, Paul Grimm, and Bernhard Jung, eds. 2022. Virtual and Augmented Reality (VR/AR): Foundations and Methods of Extended Realities (XR). Cham Switzerland: Springer.
 
 ## Avatar
 The term ‘avatar’ is not a new concept. According to the Myriam Webster dictionary, it comes from the Sanskrit word referring to a deity's descent or incarnation on earth, and later evolved to refer to any embodiment or personification of an idea, entity or philosophy. [^MiramWebster01Defintion] However, more recently, the first thing that comes to mind when we hear the word avatar is closer to B. Coleman’s definition in her book *Hello Avatar*, where she describes them as “a computer-generated figure controlled by a person via a computer. It is often a graphical representation of a person with which one can interact in real time” .[^Coleman]
@@ -167,13 +122,24 @@ Blogs paved the way for user-generated content platforms like YouTube and Inst
 Some of the most notable blogging platforms include [HuffPost](https://www.huffpost.com/) (formerly The Huffington Post), which evolved from a blog into a major news outlet. [Boing Boing](https://boingboing.net/) stands out as an influential technology and culture blog, while [Gizmodo](https://gizmodo.com/) has become a leading source for gadgets and tech news.
 
 
+![Blog](images/blog-nisma.png)
+[^inspo] [^china] [^recipe] [^clic] [^pixel] [^etoys] [^sara] [^web] [^julia]
 
 
 
-[^rebecca2weblog]: Blood, Rebecca. 2000. _"Weblogs: A History and Perspective"_. http://www.rebeccablood.net/essays/weblog_history.html.
-[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. _“Weblogs as a Bridging Genre.” Information Technology & People 18_ (2): 142–71. https://doi.org/10.1108/09593840510601513.
+
+[^rebecca2weblog]: Blood, Rebecca. 2000. "Weblogs: A History and Perspective". http://www.rebeccablood.net/essays/weblog_history.html.
+[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. “Weblogs as a Bridging Genre.” Information Technology & People 18 (2): 142–71. https://doi.org/10.1108/09593840510601513.
+[^inspo]: n.d. "inspo". Pinterest. https://www.pinterest.com/pin/185843922118184755.
+[^julia]: Julie. 2017. "Vintage Recipes Bread and Rolls." The Old Design Shop. http://olddesignshop.com/2017/11/vintage-recipes-bread-and-rolls/.
 [^miller4weblog]: Miller, Carolyn R., and Dawn Shepherd. 2004. _"Blogging as Social Action: A Genre Analysis of the Weblog."_ Into the Blogosphere: Rhetoric, Community, and Culture of Weblogs. https://conservancy.umn.edu/items/6065cb61-5392-4cee-8d2a-11199caeba6e.
-
+[^china]: n.d. "China Daily Design". Pinterest. https://www.pinterest.com/pin/2322237300626423.
+[^recipe]: n.d. "Vintage Recipe Cards: Pumpkin Bread". Pinterest. https://www.pinterest.com/pin/374924737748790719.
+[^clic]: n.d. "Clic png! ^^". Pinterest. https://www.pinterest.com/pin/904308800178971812/.
+[^pixel]: n.d. "Pixel Mouse Icon". Pinterest. https://www.pinterest.com/pin/35325178321625125/.
+[^etoys]: KB Holdings, LLC. 2002. "eToys - Where Great Ideas Come to You!." eToys.  https://web.archive.org/web/20020601072752/http://www.etoys.com/etoys/index.html.
+[^sara]: Sara. 2019. "TRAVEL GUIDE: From Kyoto to Tokyo." Collage Vintage. http://www.bloglovin.com/blogs/collage-vintage-3891721/travel-guide-from-kyoto-to-tokyo-6751281949.
+[^web]: Web Design Museum. n.d. "iQVC in 2001." Web Design Museum. https://www.webdesignmuseum.org/all-websites/iqvc-in-2001.
 
 
 
@@ -183,6 +149,29 @@ Some of the most notable blogging platforms include [HuffPost](https://www.huffp
 
 
  
+
+## Brain Interfaces
+
+![Brain Interfaces](images/brain-interface-prosper.png)
+Image taken from these sources[^brain][^waves][^eeg].
+
+Brain Interfaces, also often referred to as Brain-Computer Interfaces (BCI), are devices that measure brain activity and translate it into control signals for machines (such as computers) to execute tasks[^gentle2010]. In other words, BCI allow for a brain and a machine to directly communicate [^interface2022]. Using BCI, the execution of a task requires no movement or usage of muscles. 
+
+Brain-Computer Interfaces first rely on measuring brain activity. This is achieved by using methods that detect the electrical signals generated in specific regions of the brain by networks of neurons communicating with each other when a person performs a given cognitive task.  A non-invasive method of doing this is electroencephalography (EEG), which refers to reading brain activity by using electrodes placed on the scalp [^gentle2010]. Other more invasive methods exist, such as surgically implanted electrodes that are either placed on the surface of the cortex or penetrate brain tissue [^gentle2010]. 
+
+For the machine to be able to ''understand'' what intent the brain activity is trying to convey, the recorded signals need to be processed. It is important to note that different cognitive tasks generate distinct discernable and classifiable brain activity patterns. For instance, sensorimotor rhythms, a distinct type of brain waves, have characteristic features like frequency and amplitude[^gentle2010]. After some filtering out of possible artefacts and noise, the principal features of the signals are extracted. Once the BCI has properly processed and categorized the pattern, it can find the associated command and execute the task. 
+
+Brain Interfaces were first developed to aid individuals facing motor issues[^interface2022]. Tasks like being able to move in a space or communicating with others can become inhibited by various neurodegenerative diseases. For example, Amyotrophic lateral sclerosis (ALS), a disease which affects neurons controlling motor ability, can result in Locked-In syndrome (being physically paralyzed but cognitively sound)[^gentle2010]. BCI gives an opportunity for these people to utilize their brain as an extension of their physical body. They get to interact with the world regardless of their ability. This technology has great potential in the medical field by making communication and movement more accessible.
+
+This technology also has applications in the field of new media art. In fact, one of the earliest applications of BCI was in American composer Alvin Lucier's ''Music for Solo Performer'', where Lucier's alpha brain waves, detected by an EEG headset, activate various percussive instruments[^autodesk2018][^interface2022]. Lucier's BCI was developed by scientist Edmond Dewan; a great example of science and art collaboration! Another example is the performance ''Dual Brains'' by artists Eva Lee and Aaron Trocola, in which the two wear connected EEG headsets and generate sounds and visuals based on their mental states; what is demonstrated is the result their empathic interactions (hand holding, proximity)[^autodesk2018]. In this sense, Brain-Computer Interfaces exert a dual function. They serve as innovative tools to give shape to the formal characteristics of a piece and they act as a new, expansive conceptual framework that artists can explore by creating pieces about related subjects like accessibility, imagination or embodiment.
+
+
+[^gentle2010]: Graimann, Bernhard et al. 2010. "Brain-Computer Interfaces: A Gentle Introduction". In *Brain-Computer Interfaces:  Revolutionizing Human-Computer Interaction*, edited by Bernhard Graimann et al. Springer.
+[^interface2022]:Dehais, Frédéric and Fabien Lotte. 2022. "Brain-computer interfaces". In *Dictionnaire du numérique*, edited by Marie Cegarra-Cauli et al. ISTE Editions. 
+[^autodesk2018]: Dorfman, Peter. 2018. "2 heads -and a Brain-Computer Interface- are making waves in the art world." Autodesk. Last modified May 22, 2018.  https://www.autodesk.com/design-make/articles/brain-computer-interface 
+[^brain]: Unknown Author, Unknown year. "2-25161_human-brain-png-svg-free-human-brain.png". PNGKey. Unknown date. https://www.pngkey.com/png/detail/2-25161_human-brain-png-svg-free-human-brain.png
+[^waves]: Sirven, Joseph I. and Steven C. Schachter, 2013. "infect_2-s_0.gif". Epilepsy Foundation. August 22nd. https://www.epilepsy.com/sites/default/files/inline-images/infect_2_s_0.gif
+[^eeg]: Unknown Author, 2016. "eeg-2.jpg". AdaFruit Blog. August 31st. https://cdn-blog.adafruit.com/uploads/2016/08/eeg-2.jpg 
 
 ## Commons 
 
@@ -225,18 +214,21 @@ due to having more space or from the short content duration format. [^Mills23]
 
 [^CambridgeDictionary]: Compression | English meaning - Cambridge dictionary, accessed February 2. 2025. https://dictionary.cambridge.org/dictionary/english/compression.
 
-[^Salomon02]: Salomon, David. 2002. "Data compression." Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
+[^Salomon02]: Salomon, David. 2002. *"Data compression."* Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
 
-[^Sayood02]: Sayood, Khalid. 2002. "Data Compression." Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
+[^Sayood02]: Sayood, Khalid. 2002. *"Data Compression."* Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
 
-[^Tsukuba24]: University of Tsukuba. 2024. “New Tech Boosts Real-Time Data Compression for AI.” Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
+[^Tsukuba24]: University of Tsukuba. 2024. *“New Tech Boosts Real-Time Data Compression for AI.”* Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
 
-[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. "Universal Adaptive Stream-Based Entropy Coding." in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
+[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. *"Universal Adaptive Stream-Based Entropy Coding."* in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
 
-[^Mills23]: Mills, Kim. 2023. “Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.” American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
+[^Mills23]: Mills, Kim. 2023. *“Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.”* American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
 
+![Compression](images/compression-le.png)
 
 ## Computer
+
+![Computer](images/computer-verba.png)[^computer1][^computer2][^computer3]
 
 ### Historical Summary and Definition
 
@@ -283,6 +275,9 @@ In conclusion, the computer is not only central to the production of new media b
 [^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
 [^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
 [^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, pp. 138-149. Scientific American.
+[^computer1]: Triponez, Nao. 2018. _Shallow Focus Photography of Macbook_.
+[^computer2]: Hasanbekava, Dziana. 2021. _Serious man writing in notebook at table during work_.
+[^computer3]: Unknown. 2021. _Calculator on Black Surface_. Kindel Media.
 
 ## Crowdsourcing
 
@@ -307,6 +302,8 @@ One of the first uses of crowdsourcing was used in 1714. After losing 5 navy ves
 Crowdsourcing was used many times after that all over the world but the term was finally coined by Jeff Howe in 2006 while he was presenting an article about how the internet was being used to outsource jobs to the general population or “crowd”. The article was titled “The Rise of Crowdsourcing” and was published in June 2006 by Wired.[^howe06rise]
 
 Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
+
+![Crowdsourcing](images/crowdsourcing-lapierrefurtado.png)
 
 [^hargrave24crowdsourcing]: Hargrave, Marshall. 2024. “Crowdsourcing: Definition, How It Works, Types, and Examples.” Investopedia. October 17, 2024. https://www.investopedia.com/terms/c/crowdsourcing.asp.
 [^lebraty13crowdsourcing]: Lebraty, Jean-Fabrice, and Katia Lobre-Lebraty. 2013. _Crowdsourcing : One Step Beyond._ Hoboken, NJ: Wiley. http://site.ebrary.com/id/10756811. 
@@ -376,6 +373,8 @@ Cyberculture is a broad social and cultural movement shaped by the growth and sp
 Cyberculture emerged in the 1960s at the Massachusetts Institute of Technology as a term describing the evolving relationship between computers and networks. It gained prominence with William Gibson's 1984 novel Neuromancer, which was closely tied to the cyberpunk subculture. Initially linked to hackers and digital avant-garde communities in the 1980s, it became more established in the 1990s with the rise of the internet, evolving into a broader sociocultural and political movement that shapes new digital behaviors and practices.[^vicenteamaral]
 
 As digital technologies continue to advance, cyberculture evolves, reshaping how people interact with cultural content. The concept of cultural interfaces highlights how computers present and structure media, drawing from influences like cinema, print, and human-computer interaction.[^manovich] As media shifts away from physical formats, digital interfaces adapt, blending familiar elements from traditional culture with new ways of navigating and experiencing information. The rise of hyperlinking in the 1990s further transformed cyberculture by encouraging non-linear, decentralized structures, challenging traditional hierarchies in media.[^vicenteamaral] These changes illustrate the ongoing interplay between technology and culture, shaping the way digital experiences are created and understood.
+
+![Cyberculture](images/cyberculture-aneder.jpg)
 
 [^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
 
@@ -454,6 +453,101 @@ Cyberspace is new representation of the physical world. It contains its own new 
 
 [^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
 
+## DNS
+
+DNS stands for Domain Name System. It was invented by Paul Mockapetris in 1983. [^cocoran11branding]
+
+Each computer and server have their own IP address, a series of numbers, similar to how houses have addresses for their locations. 
+To be able to connect to another computer through the internet, it was required to know the IP address. An IP address is a series of 
+numbers that would point to the location of the site, similar to how our home addresses tell us where we are geographically.
+
+In the past, to find this specific number, a `hosts.txt` file had a table with the name of the host linked to their IP address. 
+However, this file had to be updated every time a new “location” was created. With the rise of the Internet, it quickly fell behind. [^cocoran11branding]
+To fix this issue, Paul Mockapetris invented the domain name system. 
+This system takes domain names and translates them into IP addresses for the browser to use. [^cloudflare25DNS] The system is divided into different categories and levels to help organization and navigation.
+While most top-level domains categorize sites by geographical location, they also have a few to signify the site’s purpose. For example, “ca” is for canadian sites, “com” is for commercial sites and “org” is for non-profit organizations.
+You could also add subdomains for even more specificity. They just have to be separated by a dot. Example: https://library.concordia.ca/
+The “.ca” part is the top-level domain and there’s the subdomain “.concordia”.
+This helps connect sites to each other and signify relationships between different pages. [^cocoran11branding]
+
+The creation of the DNS led to a much more accessible Internet. Rather than having to remember and type long strings of numbers to reach other sites, 
+users could now use words that are much easier to remember and in most cases shorter to type out. 
+This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
+
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names.
+The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
+
+![DNS](images/DNS-wong.png)
+Computer image (left) from : 
+[bert b](https://unsplash.com/@bertsz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-macintosh-computer-Zd6PL6PSW5E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+House image (right) from: 
+[Luke Stackpoole](https://unsplash.com/@withluke?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-and-white-house-surround-green-grass-field-eWqOgJ-lfiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+
+
+[^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
+[^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
+[^veaandreubonastre19origins]: Bonastre, Oscar M., and Andreu Vea. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41 (2): 48–60. https://doi.org/10.1109/MAHC.2019.2913116.
+
+
+## E-Commerce
+
+E-commerce (electronic commerce) is a term for buying and selling stuff through the internet. The increase of e-commerce over the years has been helped a lot by the increase of digital 
+payment systems that have secure transactions and logistics networks. E-commerce’s significance in new media is shown by how it has completely changed the normal ways that the retail 
+systems managed by allowing businesses to reach everyone everywhere on a global scale, without the need for a physical place. It allows for digital technologies like phones and computers 
+to provide people with more convenience, variety, and better pricing. The large amount of popularity for e-commerce has also started to bring the use of new media marketing strategies, 
+like social media advertising and influencer partnerships, to attract and keep customers. 
+
+E-commerce’s relation to current technologies in the modern world is seen through the different platforms combining technologies like artificial intelligence (AI) and machine learning 
+with their e-commerce stores, to give the users a more personalized shopping experience, like having recommend products based off of what they have been browsing. Additionally, 
+live commerce was created as a combination of live streaming and online shopping, which has came out as a new trend to give a more interactive and immersive shopping experience. [^sciencedirect.com] 
+The increase of mobile apps have also improved the accessibility by allowing users to shop anytime and anywhere. 
+
+The historical origins of e-commerce are rooted back to when the development of Electronic Data Interchange (EDI) in the 1960s were created, which then allowed for businesses 
+to exchange docunemnts and files like purchases that happen nowadays through the internet, getting rid of the need for paper. [^britannica.com] In 1979, Michael Aldrich lead the way for 
+this kind of work by attaching a television to a transaction processing computer through a telephone line, which brought about the idea of teleshopping.[^researchgate.net] The 1990s were 
+when the World Wide Web and the advancements in internet security like Secure Socket Layers (SSL), allowed online retail platforms to start making a name for themselves.
+
+E-commerce’s influence on contemporary digital culture and society has greatly changed the user’s behaviors by changing their preferences towards online shopping because of its convenience and often 
+has lower prices. It also has influenced the gig businesses, with platforms like Etsy that allows people to monetize their crafts.On top of this, e-commerce has changed the supply chain’s 
+way of being by making the need for fast and effiecent delivery systems and warehousing solutions very important.
+
+### Paradigmatic Examples:
+- Amazon: Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and has evolved into the world's largest e-commerce platform.
+- Alibaba: Established by Jack Ma in 1999, Alibaba is a Chinese multinational conglomerate specializing in e-commerce, retail, and technology.
+- eBay: Launched in 1995 by Pierre Omidyar, eBay is an online auction and shopping website where individuals and businesses buy and sell a large variety of goods and services worldwide.
+
+[^sciencedirect.com]: S Chen, A.M Degeratu, A Enders, V Katros, C Zott. “_E-Commerce and the Retail Process: A Review._” Journal of Retailing and Consumer Services, December 17, 2002. (https://www.sciencedirect.com/science/article/pii/S0969698902000620). 
+[^researchgate.net]: Tian, Yan. “_(PDF) History of e-Commerce._” ResearchGate, January 2007. (https://www.researchgate.net/publication/314408412_History_of_E-Commerce). 
+[^britannica.com]: Zwass, Vladimir. “_E-commerce | Definition, History, Types, Examples, & Facts._” Encyclopædia Britannica, December 17, 2024. [https://www.britannica.com/money/e-commerce].
+
+## Facial Recognition 
+
+Facial recognition is a biometric technology that identifies or verifies individuals by analyzing facial features. It captures and processes facial data to convert it into a digital format for comparison using specialized algorithms.[^zhao03face]
+
+The development of facial recognition dates to the 1960s when computational techniques for feature extraction were first explored.[^adjabi20past] One of the breakthroughs came with the introduction of "Eigenfaces", which applied principal component analysis (PCA) to improve recognition efficiency.[^adjabi20past] Over time, facial recognition methods have evolved into three major categories: holistic matching methods, feature-based methods, and hybrid methods.[^zhao03face] The integration of artificial intelligence (AI), particularly deep learning and convolutional neural networks (CNNs), continues to improve the accuracy and speed of facial recognition systems,[^adjabi20past] which makes them crucial in contemporary applications such as smartphones and social media platforms.
+
+Early facial recognition methods, like Principal Component Analysis (PCA) and Local Binary Patterns (LBP), faced challenges such as lighting variations, changes in pose, and occlusions.[^jafri09survey] These issues are now addressed by more advanced techniques like 3D facial recognition (which captures depth information for more accurate results), video-based recognition (which tracks facial motion across frames), and Infrared (IR) recognition (which contributes to better performance in low-light conditions). However, challenges persist, such as misidentification, motion blur, and the impact of accessories like eyeglasses.[^jafri09survey]
+
+Today, facial recognition technology is widely used in security, authentication, and law enforcement. Governments and private companies employ it for border control, criminal investigations, and user authentication in smartphones and banking applications.[^jafri09survey] Facial recognition also lies in new media practices. For example, video indexing (labeling faces in video),[^jafri09survey] and Apple’s iPhone Face ID (enhancing security and user experience). However, its widespread adoption has raised privacy and ethical concerns, especially regarding personal privacy, mass surveillance, and algorithmic bias.[^raji20saving] Issues such as misidentification and discriminatory outcomes have led to increased scrutiny and regulatory measures to ensure responsible use.[^smith20ethical] As technology advances, efforts are being made to improve facial recognition accuracy while addressing privacy and ethical concerns.
+
+![Facial recognition](images/facialrecognition-wong.jpg) 
+
+Background image taken from[^buolamwini18gender]
+
+[^zhao03face]: Zhao, Wenyi, Rama Chellappa, P. Jonathon Phillips, and Azriel Rosenfeld. 2003. "Face recognition: A literature survey." _ACM computing surveys (CSUR)_ 35, no. 4 : 399-458.https://dl.acm.org/doi/abs/10.1145/954339.954342?casa_token=NbvTsfTR4YgAAAAA:v5ygUeXDYzUq6-5A-1j-3SNsrVFQNntIBnss8bkaB5K4MCBGn4LiDMU6AtVX0TP0XVGQDwCBhLJORQ
+
+[^adjabi20past]: Adjabi, Insaf, Abdeldjalil Ouahabi, Amir Benzaoui, and Abdelmalik Taleb-Ahmed. 2020. "Past, present, and future of face recognition: A review." _Electronics_ 9, no. 8 : 1188. https://doi.org/10.3390/electronics9081188
+
+[^jafri09survey]: Jafri, Rabia, and Hamid R. Arabnia. 2009. "A survey of face recognition techniques." _journal of information processing systems_ 5, no. 2 : 41-68. https://koreascience.kr/article/JAKO200920237949770.page
+
+[^raji20saving]: Raji, Inioluwa Deborah, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, Joonseok Lee, and Emily Denton. 2020.  "Saving face: Investigating the ethical concerns of facial recognition auditing." In _Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society_, pp. 145-151. https://dl.acm.org/doi/abs/10.1145/3375627.3375820 
+
+[^smith20ethical]: Smith, Marcus, and Seumas Miller. 2022. "The ethical application of biometric facial recognition technology." _Ai & Society_ 37, no. 1 : 167-175. https://link.springer.com/article/10.1007/S00146-021-01199-9
+
+[^buolamwini18gender]: Buolamwini, Joy, and Timnit Gebru. 2018. "Gender shades: Intersectional accuracy disparities in commercial gender classification." In _Conference on fairness, accountability and transparency_, pp. 77-91. PMLR.
+
 ## Git
 
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]
@@ -499,33 +593,33 @@ Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant i
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
 ### Example 
-![Fork the repo](../images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+![Fork the repo](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
-![Fork the repo](../images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+![Fork the repo](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
 Macintosh GUI
 
-![Fork the repo](../images/GUI_Windows1.0.png)[^WindowWiki85]
+![Fork the repo](images/GUI_Windows1.0.png)[^WindowWiki85]
 Windows1.0 GUI
 
+![Visual collage](images/gui-he.png)
 
 
 [^Wendy11Graphcal]: Wendy L Martinez, "Graphical user interfaces" in *Wiley Interdisciplinary Reviews: Computational Statistics*, v3n2(March/April 2011): 119-133, https://wires-onlinelibrary-wiley-com.lib-ezproxy.concordia.ca/doi/epdf/10.1002/wics.150.
 
 [^Shardeum23What]: Shardeum Content Team, "GUI (Graphical User Interface) vs. CLI (Command-Line Interface)," *shardeum* July 23, 2023, "5.1 GUI vs. CLI," accessed January 29, 2025, https://shardeum.org/blog/gui-vs-cli/.
 
-[^Vannevar45As]: Bush, Vannevar. "As We May Think" The Atlantic Monthly, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
+[^Vannevar45As]: Bush, Vannevar. "As We May Think", *The Atlantic Monthly*, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.
 
 [^Wayne98Computer]: Blinn, James E. "16.1 Xerox PARC" in *Computer Graphics and Computer Animation: A Retrospective Overview*. New York: ACM Press, 1998. 
 
-[^priya24Evolution]: Priya Patel. "The Evolution and Impact of Graphical User Interfaces (GUIs)," *Medium* January 21, 2024, accessed January 29, 2025, https://medium.com/@learning3601/in-the-vast-landscape-of-digital-interaction-the-graphical-user-interface-gui-stands-as-the-3c0b8dcca51c.
+[^priya24Evolution]: Priya Patel. "The Evolution and Impact of Graphical User Interfaces (GUIs)", *Medium* January 21, 2024, accessed January 29, 2025, https://medium.com/@learning3601/in-the-vast-landscape-of-digital-interaction-the-graphical-user-interface-gui-stands-as-the-3c0b8dcca51c.
 
-[^XeroxWiki74]:Wikipedia. 2025. "Xerox Star." Last modified January 4, 2025. https://en.wikipedia.org/wiki/Xerox_Star.
+[^XeroxWiki74]:Wikipedia. 2025. *Xerox Star* Last modified January 4, 2025. https://en.wikipedia.org/wiki/Xerox_Star.
 
-[^MacintoshZednet84]:Zdnet. 2525. "The Mac at 25: GUI battles in business" Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/.
+[^MacintoshZednet84]:Zdnet. 2525. *The Mac at 25: GUI battles in business* Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/.
 
-[^WindowWiki85]: Wikipedia. 2025. "Windows 1.0" Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0.
-
+[^WindowWiki85]: Wikipedia. 2025. *Windows 1.0* Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0.
 ## Hashtag
 
 The Hashtag functions as a navigational tool that allows you to instantly search for publications on topics of interest. It also serves as a powerful tool for marketing promotion in the
@@ -539,9 +633,14 @@ depth to, or somehow emphasize what has been said. It is a reliable method for l
 
 The hashtag has a profound impact on our society today, especially with the continuous rise of social media. Many social media platforms such as Twitter and Instagram have pushed the usage of the hashtag into mainstream digital advertising. Not only is the hashtag a tool, it represents an integral element of contemporary communication.[^rauschnabel19motivate]
 
+![Hashtag](images/hashtag-armstrong.png)
+
 [^budnik19dynamic]: Budnik, Ekaterina, Violetta Gaputina, and Vera Boguslavskaya. 2019. "Dynamic of hashtag functions development in new media: Hashtag as an identificational mark of digital communication in social networks." _In Proceedings of the XI International Scientific Conference Communicative Strategies of the Information Society_ 1-5. Accessed January 29, 2025.
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
 [^rauschnabel19motivate]: Rauschnabel, Philipp A., Pavica Sheldon, and Erna Herzfeldt. 2019. "What motivates users to hashtag on social media?." _Psychology & Marketing_ 36 (5): 473-488. Accessed January 29, 2025.
+
+![Immersion](images/immersion-hubert.png)
+
 
 ## Information Overload
 
@@ -571,7 +670,10 @@ Information overload is critical in new media, influencing digital consumption a
 
 - **Healthcare** – Physicians face information overload from patient records, research, and administrative updates, leading to fatigue [^sbaffi2020].  
 - **Social Media** – Continuous streams of news and advertisements contribute to cognitive exhaustion [^cazaly2021].  
-- **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].  
+- **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].
+
+## Image
+![Information Overload](images/information-overload-rowan.png)
 
 
 [^arnold2023]: Arnold, Miriam, Mascha Goldschmitt, and Thomas Rigotti. 2023. "Dealing with Information Overload: A Comprehensive Review." *Frontiers in Psychology* 14: 1122200. https://doi.org/10.3389/fpsyg.2023.1122200.  
@@ -592,11 +694,35 @@ Middleware first made its appearance in a 1968 NATO Software Engineering report.
 
 By far, the most important role of middleware is in cloud computing. The foundation for modern cloud-native architecture is middleware. It allows developers to safely and efficiently scale applications across hybrid environments. The main advantage of middleware is that it creates reliable core application features rather than handling complex system interactions that are error prone. The main disadvantage is that the initial setup and maintenance of middleware systems can be complex.[^3citation]
 
-In the 21st century, computing continues to evolve, thus the role of middleware is more important than ever. Done properly, middleware is a vital service that enable applications to communicate an across a wide range of platforms. Incorrectly chosen, middleware can slow down the process by producing bottleneck issues. 
+In the 21st century, computing continues to evolve, thus the role of middleware is more important than ever. Done properly, middleware is a vital service that enable applications to communicate an across a wide range of platforms. Incorrectly chosen, middleware can slow down the process by producing bottleneck issues.[^4citation]
+
+![Middleware](images/middleware-kerasias.png)
 
 [^1citation]: Fersi, G. 2015. "Middleware for Internet of Things: A Study." In _2015 International Conference on Distributed Computing in Sensor Systems_, 230-235. Fortaleza, Brazil: IEEE. https://doi.org/10.1109/DCOSS.2015.43.
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.
+[^4citation]:Daily Mail. 2018. "Hawaii Man Gets Trapped in Gap Between Two Buildings." _Daily Mail_, March 21, 2018. https://www.dailymail.co.uk/news/article-5542715/Hawaii-man-gets-trapped-gap-two-buildings.html.
+
+## MP3
+
+MP3 (MPEG-1 Audio Layer 3) is a widely used digital audio format that has revolutionized the way people store, distribute, and consume music. MP3 is a lossy audio compression format that significantly reduces file size while maintaining acceptable sound quality by discarding audio data that is not sensitive to human hearing. This efficient compression makes MP3 key to the rise of digital music, online distribution, and portable media players, and has profoundly influenced contemporary digital culture and media consumption practices.[^brandenburg99mp3]
+
+The importance of MP3 in new media is that it changed the economic model of the music industry, making file sharing and music streaming platforms possible. It is directly related to the evolution of peer-to-peer (P2P) networks, digital rights management (DRM), and streaming services such as Spotify and Apple Music.[^morris15selling]
+
+The MP3 format was developed by the Moving Picture Experts Group (MPEG) under the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC). Its core figure was Karlheinz Brandenburg, who achieved efficient compression by optimizing perceptual coding techniques to remove parts of the audio signal that are imperceptible to the human ear.[^brandenburg94iso]
+
+MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
+
+![MP3 Collage](images/MP3-Wu.jpg)
+
+
+
+
+[^brandenburg99mp3]: Brandenburg, Karlheinz. 1999. "MP3 and the Future of Digital Audio." Journal of the Audio Engineering Society 47(7/8): 558–566.
+[^morris15selling]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+[^brandenburg94iso]: Brandenburg, Karlheinz, and Gerhard Stoll. 1994. "ISO/MPEG-1 Audio: A Generic Standard for Coding of High-Quality Digital Audio." Journal of the Audio Engineering Society 42(10): 780–792.
+[^morris15selling2]: Morris, Jeremy Wade. 2015. Selling Digital Music, Formatting Culture. Oakland: University of California Press.
+[GitHub](../main/glossary.md#github), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
 
 ## Multimedia
 
@@ -613,6 +739,34 @@ More modern applications of Multimedia are thought to date back to the early 196
 [^history30ultimate]: History Timelines. 2025. “Multimedia: History Timeline.” Accessed January 30, 2025. https://historytimelines.co/timeline/multimedia-. 
 
 [^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
+
+## Neural Networks
+
+A neural network is a sophisticated form of machine learning and subset of deep learning, designed to emulate the structure and functionality of the human brain[^thisisacitation1]. These systems, often referred to as “Artificial Neural Networks” (ANN) [^thisisacitation2], are inspired by the biological processes of neurons in the brain. They are composed of dense interconnected layers of nodes consisting of an input layer, multiple hidden layers for processing information, and an output layer[^thisisacitation3].
+
+Each node within these layers is assigned a specific weight and threshold. When the input to a node surpasses its threshold, the node becomes activated, transmitting a signal to the next layer of nodes mirroring the way synapses fire in the human brain thus allowing a neural net to tackle complex problems and learn from data. Additionally, due to their interconnected nature, they are able to process vast amounts of information, recognize patterns, and make decisions with remarkable accuracy[^thisisacitation3].
+
+If there are any students in this class who are further interested in how this functions mathematically, as I will not be covering this, they may consult the paper “Activation Functions in Artifcial Neural Networks: A Systematic Overview” by  Johannes Lederer[^thisisacitation4], outlining the neuron activation function and overall architecture as mathematical principles. 
+
+The most common type of neural network, as in the architecture described above, is the Feedforward Neural Networks (FNN) [^thisisacitation1][^thisisacitation5]. FNNs are the simplest form of neural networks, characterized by their unidirectional flow of information, moving exclusively from the input layer, through the hidden layers, and finally to the output layer. This makes them particularly well suited for tasks such as classification and other linear problems. Another prominent example is the Convolutional Neural Network (CNN)[^thisisacitation1][^thisisacitation5], which is specifically designed for pattern identification and recognition using matrix manipulation and other algebraic principles. CNNs excel in tasks involving image and video analysis, detecting similarities, differences, and intricate patterns within data.
+
+Their strengths become apparent in the context of new media art through this distinct aptitude for patterns. They can analyze datasets of existing artworks to identify styles, and features, enabling them to generate new pieces that either mimic or innovate upon existing. More importantly, neural networks can optimize art to align with aesthetic ideals, effectively mirroring the human perceptual process of identifying and evaluating sensorily pleasing qualities. Even without explicit training on visual art, CNNs can produce art-like outputs that exhibit fundamental principles like symmetry, composition, and more. By studying these outputs, researchers gain insights into how art itself is conceptualized in the mind, bridging the gap between models and human creativity. Thus, they not only have the ability to generate, but also provide a deeper understanding of the human cognitive process[^thisisacitation7].
+
+The final aspect to discuss is the training process for neural networks. While difficult to explain, briefly, they are trained using large datasets, where the model iteratively refines its internal parameters, such as weights and biases, through a dominant design paradigm known as backpropagation if multilateral flow exists[^thisisacitation1]. This works by calculating the error between the neural network’s predictions and the actual target outputs and using the discrepancy to adjust its parameters, gradually minimizing errors and improving its accuracy over time, an iterative cycle of learning and refinement[^thisisacitation2]. 
+
+To conclude, since the first trainable neural network was demonstrated by Frank Rosenblatt in 1957[^thisisacitation6], neural networks have evolved into a technology with widespread applications. Today, they are integral to advancements in fields such as facial and speech recognition, financial and weather forecasting, or simply providing accurate predictions that inform decision-making[^thisisacitation1]. Their versatility and power continue to drive innovation, making them a cornerstone of modern artificial intelligence.
+
+![Neural Network](images/neuralnetwork-abdulaziz.png)
+
+(Image created in Blender, edited in Adobe Illustrator)
+
+[^thisisacitation1]: IBM. n.d. "What Are Neural Networks?" IBM. https://www.ibm.com/think/topics/neural-networks.
+[^thisisacitation2]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. *Deep Learning*. MIT Press. https://www.deeplearningbook.org/.
+[^thisisacitation3]: Haykin, Simon. 1999. *Neural Networks: A Comprehensive Foundation*. 2nd ed. Prentice Hall. https://github.com/anishLearnsToCode/books/blob/master/machine-learning/Neural-Networks-A-Comprehensive-Foundation-Simon-Haykin.pdf.
+[^thisisacitation4]: Lederer, Johannes. 2021. “Activation Functions in Artificial Neural Networks: A Systematic Overview.” arXiv preprint arXiv:2101.09957. https://arxiv.org/abs/2101.09957
+[^thisisacitation5]: Sharkawy, Abdel-Nasser. 2020. "Principle of Neural Network and Its Main Types: Review." *Journal of Advances in Applied & Computational Mathematics*. https://www.researchgate.net/publication/343837591_Principle_of_Neural_Network_and_Its_Main_Types_Review.
+[^thisisacitation6]: MIT News. 2017. "Explained: Neural Networks." *MIT News*. https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414.
+[^thisisacitation7]: Evans, Owain. 2019. "Sensory Optimization: Neural Networks as a Model for Understanding and Creating Art." arXiv preprint. https://arxiv.org/abs/1911.07068.
 
 ## Open Source
 
@@ -637,6 +791,8 @@ A well-known example of open source software is Linux, an open source operating 
 
 Although the term originated from a software context and is most commonly used in said context, the open source concept extends onto many other fields such as art, education and research. Open Source recognizes developers as a part of  the user community [^cristinagacek], and emphasises the importance of collaboration and community in innovation.
 
+![opensourceimage](images/opensource-kelly.jpg)
+
 [^cristinagacek]: Gacek, Cristina, and Budi Arief. "The Many Meanings of Open Source." IEEE Software 21, no. 1 (January 2004): 34–40.
 
 [^bruceperens]: Perens, Bruce. "The Open Source Definition." In Open Sources: Voices from the Open Source Revolution, edited by Chris DiBona, Sam Ockman, and Mark Stone, 171–188. Sebastopol, CA: O'Reilly Media, 1999.
@@ -647,6 +803,66 @@ Although the term originated from a software context and is most commonly used i
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
 
+## Quantum computing
+Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
+
+Another key concept is entanglement, which is a phenomenon where qubits become the state of one instantly affects the state of another. Distance here has no impact of their relation, so it makes this very powerful. [^2citation]
+At its origins, quantum computing was originated by  Richard Feynman in 1982 [^3citation]. 
+
+However, it wasn’t until later in the late 20th century, that Shor’s algorithm demonstrating how quantum computers could efficiently factor large numbers[^4citation].Today, companies like IBM, Google, and startups such as Rigetti Computing are pioneering real-world quantum hardware and software applications [^5citation].
+
+Despite its promise, quantum computing faces challenges today like decoherence. Building stable quantum computers requires overcoming these hurdles [^6citation] . 
+In the 21st century, computing continues to evolve,  and quantum computing is vital to that evolution. When designed and implemented effectively, it has the potential to redefine what is computationally possible.
+ 
+[^1citation]:  Nielsen, Michael A., and Isaac L. Chuang. 2010. _Quantum Computation and Quantum Information_. 10th ed. Cambridge: Cambridge University Press. ↩
+[^2citation]: Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47 (10): 777–780. https://doi.org/10.1103/PhysRev.47.777. ↩
+[^3citation]: Shor, Peter W. 1994. "Algorithms for Quantum Computation: Discrete Logarithms and Factoring." In _Proceedings of the 35th Annual Symposium on Foundations of Computer Science_, 124–34. Santa Fe, NM: IEEE. https://doi.org/10.1109/SFCS.1994.365700. ↩
+[^4citation]: Feynman, Richard P. 1982. "Simulating Physics with Computers." _International Journal of Theoretical Physics_ 21 (6): 467–488. https://doi.org/10.1007/BF02650179. ↩
+[^5citation]: Arute, Frank, et al. 2019. "Quantum Supremacy Using a Programmable Superconducting Processor." _Nature_ 574 (7779): 505–510. https://doi.org/10.1038/s41586-019-1666-5. ↩
+[^6citation]: Preskill, John. 2018. "Quantum Computing in the NISQ Era and Beyond." _Quantum_ 2 (79): 1–20. https://doi.org/10.22331/q-2018-08-06-79. ↩
+
+## Quantum Cryptography
+
+Quantum cryptography has a goal to secure communications and uses principles of quantum mechanics to do so. This opposes the traditional way of using computational mathematical abilities. Quantum cryptography provides information-theoretic security based on the fundamental laws of physics [^1citation].
+
+Quantum Key Distribution (QKD) is the basis of this type of cryptography. It’s a technique that enables two parties to share encryption keys in a way that is provably secure against any computational attack. In other words, it’s a system that allows quantum-encoded information to be sent, and it can also alert the communicating parties if there are any issues [^2citation].
+
+The idea of quantum cryptography originated in the early 1970s, but it was formally introduced in 1984 by Charles H. Bennett and Gilles Brassard [^3citation]. Since then, this field has expanded into real-world applications, including the Micius satellite, which enabled the first intercontinental quantum-secured video call [^4citation].
+
+Despite its promise, quantum cryptography faces challenges, including photon loss in optical fibers. However, ongoing research into quantum repeaters and satellite-based is expected to address these limitations[^5citation]. 
+
+[^1citation]: Bennett, Charles H., and Gilles Brassard. 1984. "Quantum Cryptography: Public Key Distribution and Coin Tossing." In _Proceedings of IEEE International Conference on Computers, Systems, and Signal Processing_, 175–179. Bangalore, India: IEEE.
+[^2citation]: Ekert, Artur K. 1991. "Quantum Cryptography Based on Bell’s Theorem." _Physical Review Letters_ 67 (6): 661–663. https://doi.org/10.1103/PhysRevLett.67.661.
+[^3citation]: Gisin, Nicolas, Grégoire Ribordy, Wolfgang Tittel, and Hugo Zbinden. 2002. "Quantum Cryptography." _Reviews of Modern Physics_ 74 (1): 145–195. https://doi.org/10.1103/RevModPhys.74.145.
+[^4citation]: Liao, Sheng-Kai, Wen-Qi Cai, and Juan Yin et al. 2017. "Satellite-to-Ground Quantum Key Distribution." _Nature_ 549 (7670): 43–47. https://doi.org/10.1038/nature23655.
+[^5citation]: Pirandola, Stefano, Ulrik L. Andersen, and Leonardo Banchi et al. 2020. "Advances in Quantum Cryptography." _Advances in Optics and Photonics_ 12 (4): 1012–1036. https://doi.org/10.1364/AOP.361502.
+
+
+## RGB
+RGB colorspace stands for “Red, Green Blue” colorspace, which is considered an “additive” color model. It is considered additive due to the range of colors being created by adding wavelengths of the main colors together in different proportions. [^zelazko225rgbcolor]
+This colorspace is usually used in screens and digital devices. Although different color depths exist for different screens, the most common way of referring to RGB colors is the HEX notation, characterized by 6 hexadecimal (0 to F) values. [^christensson19rgb] This notation is used due to the 24-bit color (256 values per color) being the nearest to the color spectrum visible to humans, making two hexadecimals per color perfectly represent those colors. [^christensson19rgb]
+
+The idea of RGB colorspace was created because of a previous finding by Thomas Young in 1802, who proposed that the human eye had three cone cells. The colors corresponding to those cone cells were later discovered in 1851 by Hermann von Helmholtz. From there, in 1861, James Clerk Maxwell proposed the RGB color model, demonstrating it with photography plates of an image (of a tartan ribbon) that were taken with different filters. [^rhyne17applying] From then on, the RGB colorspace has been what we consider as the "light" colorspace. Other species who have different color cones in their eyes will see color differently than us, therefore would necessitate a different colorspace model. 
+
+Although RGB is universal, the colors are display dependent, meaning that the colors for a same hexadecimal may appear differently on different screens. [^ibraheem12understanding] This is mostly due to variations in the manufacturing of the different layers of the screen, as well as the display technology used (LED vs OLED). [^benq22why]
+
+The theory of RGB is very useful in new media, as the use of screens and lights are very common. Utilising different colors and color mixes in new media will necessitate a basic knowledge in RGB colorspace, as well as some knowledge of CMYK (Cyan, Magenta, Yellow, Black), and other models such as HSI (Hue, Saturation, Intensity), used for digital illustration, or RYB (Red, Yellow, Blue), used for painting. RBG and HSI have also been used together in Deep learning to optimize image denoising (using two colorspaces to add more data and therefore more definition to the denoising)[^Deng24rgb]
+
+![RGB](images/RGB-godfroy.png)
+Colorwheel image taken from a screenshot of the procreate colorwheel tool.
+
+[^zelazko225rgbcolor]: Zelazko, Alicja. 2025. “RGB Colour Model | Description, Development, Uses, Science, & Facts.” Encyclopedia Britannica, https://www.britannica.com/science/RGB-color-model.
+
+[^christensson19rgb]: Christensson, Per. 2019. “RGB,” https://techterms.com/definition/rgb#google_vignette.
+
+[^ibraheem12understanding]: Ibraheem, Noor, Mokhtar Mohammed Hasan, Rafiqul Zaman Khan, and Pramod Kumar Mishra. 2012. “Understanding Color Models: A Review.” *ARPN Journal of Science and Technology 2* (3): 265–275.
+
+[^benq22why]: BenQ. 2022. “Why Don’t Colors Look the Same Across Different Devices?” https://www.benq.com/en-ca/knowledge-center/knowledge/why-dont-colors-look-the-same-across-different-devices.html.
+
+[^rhyne17applying]: Rhyne, Theresa-Marie. 2017. "Applying Color Theory to Digital Media and Visualization." *Boca Raton, FL : CRC Press, Taylor & Francis Group* : p.4
+
+[^Deng24rgb]: K. Deng, P. Wang and Y. Qian, "RGB Images Enhancing Hyperspectral Image Denoising with Diffusion Model," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 2960-2964
+
 ## Search Engine Optimization
 
 
@@ -656,11 +872,15 @@ Search Engine Optimization helps search engines understand the content on a webs
 
 Search Engine Optimization is important in new media, since it shapes how users interact with digital content and determines what the user base sees. It structures content through SERPs and defines how it is interpreted within the digital space of the search engine[^mailchimpSEO].  SEO dictates how content is ranked, who can access it, and how algorithms influence its visibility and interpretation.
 
+![Search Engine Optimization](images/search-engine-optimization-bodika.png) [^imageSEO]
+
 [^mailchimpSEO]: Mail Chimp. “What Is SEO in Digital Marketing?” Mailchimp. Accessed January 29, 2025. https://mailchimp.com/marketing-glossary/seo/#:~:text=SEO%20means%20Search%20Engine%20Optimization,search%20engines%20rank%20them%20better.
 
 [^zilincanSEO]: Zilincan, Jakub. 2015. “Search Engine Optimization.” In Proceedings of the CBU International Conference, 3:506–10. Accessed January 29, 2025. https://doi.org/10.12955/cbup.v3.645
 
 [^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
+
+[^imageSEO]:WIOR Magnifying Glass. 2025. "WIOR Magnifying Glass, 30X Handheld Magnifier." Amazon. Accessed February 8, 2025. https://www.amazon.com/WIOR-Magnifying-Magnifier-Magnification-Inspection/dp/B07RQ576YT
 
 ## UNIX
 
