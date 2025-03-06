@@ -1,2 +1,2 @@
-![Immersion](images/immersion-hubert.png)
+![Immersion](../images/immersion-hubert.png)
 
