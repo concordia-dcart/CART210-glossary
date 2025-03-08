@@ -30,6 +30,7 @@ QR Code Ticket uses QR code technology to function as an electronic ticket. This
 QR codes can be used in supply chain management to provide digital identification for products, goods, equipment, or documents, making data collection, tracking, management, and sharing more convenient and efficient. In terms of security features, QR codes have characteristics such as data immutability, fair and secure access, total transparency, enhanced traceability, and real-time validation.[^AICCSA2023Munir]
 
 ### Example
+![Fork the repo](../images/qr-code-example.png)[^researchG2013ruil]
 
 
 [^wiki25Denso]: Wikipedia. 2025. "Denso." last modified on 7 February 2025. https://en.wikipedia.org/wiki/Denso.
@@ -41,3 +42,5 @@ QR codes can be used in supply chain management to provide digital identificatio
 [^Ovidius2024Anca]: Anca Popescu, Nicoleta Andreea Neacsu. 2024. "QR Code Menus: Exploring the Role of QR Codes in Enhancing Operational Efficiency and Customer Engagement in Restaurants and Cafes." *Ovidius University Annals, Economic Sciences Series* 24(1). https://concordiauniversity.on.worldcat.org/search/detail/10455650155?queryString=qr%20CODE%20menu&bookReviews=off&newsArticles=off&databaseList=&clusterResults=true&groupVariantRecords=false.
 
 [^AICCSA2023Munir]: Munir Majdalawieh. 2023. "Supply Chain Management Using Blockchain and QR Codes." in *2023 20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA)* December 04-07. IEEE. https://concordiauniversity.on.worldcat.org/search/detail/10203810730?queryString=Building%20Trust%20in%20Supply%20Chains%3A%20The%20Blockchain-QR%20Code%20Advantage&bookReviews=off&newsArticles=off&databaseList=&clusterResults=true&groupVariantRecords=false.
+
+[^researchG2013ruil]: Ruilopezia, A. 2013. "Examples of Potential Uses of QR Codes in Natural History Collections." *ResearchGate*. https://www.researchgate.net/figure/Examples-of-potential-uses-of-QR-codes-in-Natural-History-collections-A-Ruilopezia_fig1_258337578.
