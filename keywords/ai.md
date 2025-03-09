@@ -8,6 +8,8 @@ Deep Learning is a concept in which the computer simulates human processes to an
 
 In the context of new media, we can see these advancements as productive tools for creativity, enabling automation of processes, customization of dynamic workflows, and advanced data analysis. We can draw connections to how algorithms function on social media platforms, performing tasks adapted to individual preferences, such as curating personalized content based on likes, predicting trends and behaviors to engage the viewer in more sophisticated ways. From this point of view, AI becomes an active participant in the process, optimizing interactions to align with individuals in more meaningful ways.
 
+![AI](images/ai_ouellette.jpg)
+
 [^manning]: Manning, Christopher. 2022. _AI Definitions_. Version 1.2. Stanford, CA: Institute for HAI, Stanford University. https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf.
 
 [^saha]: Saha, Dibbyo. n.d. _"A Brief Introduction to Artificial Intelligence: What is AI and How Is It Going to Shape the Future?"_ Ryerson University. 
