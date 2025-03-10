@@ -13,3 +13,5 @@ More modern applications of Multimedia are thought to date back to the early 196
 [^history30ultimate]: History Timelines. 2025. “Multimedia: History Timeline.” Accessed January 30, 2025. https://historytimelines.co/timeline/multimedia-. 
 
 [^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
+
+![Multimedia](images/Multimedia-Aidan.png)
