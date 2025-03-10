@@ -1,0 +1,24 @@
+## Non-Fungible Tokens (NFTs)
+
+Definition: 
+Non-Fungible Tokens (NFTs) are unique digital assets that use a blockchain technology to be verified. They represent a specific item or content like digital art, music, or virtual real estate. It’s different from cryptocurrencies like Bitcoin or Ethereum [^ethereum.org], because they can be exchanged very easily from person to person but NFTs can’t. NFTs are different and can’t be exchanged like that because each token has unique attributes and different values. NFT’s importance in the world of new media can be seen through the way it has revolutionized the way digital content is made and sold by adding a mechanism for artists to monetize their work directly without need for other parties [^nature.com]. This invention has inspired the creators by giving them more control over their own intellectual property and has brought new ways for digital ownership. In the area of new media, NFTs have inspired a wave of virtual galleries and digital collectibles and has re-designed the way digital culture and commerce works. NFTs use blockchain technology to show the authenticity and ownership of digital assets. They have been used with many platforms, including:
+
+Digital Art Platforms: Artists use NFTs to sell their digital artworks on platforms like OpenSea and Rarible, keeping the royalties through smart contracts.
+
+Gaming: In-game assets, like characters and items, are seen as NFTs, players can own, trade, and monetize their virtual possessions.
+
+Virtual Real Estate: Platforms like Decentraland and The Sandbox allow users to buy, sell, and develop virtual lands as NFTs, making new virtual economies.
+
+
+The idea for NFTs became popular when ERC-721 standard on the Ethereum blockchain in 2018 was introduced. Early experiments with NFT assets date back to 2012 with projects like Colored Coins on the Bitcoin blockchain [^aisnet.org]. But it was the ERC-721 standard that gave a framework for NFTs to be adopted all over the world. The blockchain game CryptoKitties, launched in 2017, is also credited with bringing mainstream attention to NFTs by allowing players to collect and trade unique digital cats. NFTs have also drastically affected digital culture and society by redefining art ownership, they have gone against the normal ideas of art distribution, and allowed for digital artists to gain recognition and revenue. NFTs have also decentralized economies where creators and consumers engage directly. There is the issue concerning the environmental impact of blockchain technologies used on minting NFTs. Some examples of famous NFTs are Beeple's “Everydays: The First 5000 Days” which is a digital artwork sold as an NFT for $69 million at Christie's auction house in 2021 [^wsj.com]. Another one was CryptoPunks which was one of the earliest NFT projects, featuring 10,000 unique 24x24 pixel art characters, which have become highly desired digital collectibles. And lastly, Bored Ape Yacht Club is a collection of 10,000 unique ape NFTs that grant owners exclusive access to virtual events and communities, which shows how they can combine digital art and social experiences.
+
+[^chat.openai.com]
+
+
+### Bibliography
+[^ethereum.org]: Entriken, William, Dieter Shirley, Jacob Evans, and Nastassia Sachs. “_ERC-721 Non-Fungible Token Standard._” Ethereum Improvement Proposals, 2018. (https://eips.ethereum.org/EIPS/eip-721).  
+[^nature.com]: Nadini, Matthieu, Laura Alessandretti, Flavio Di Giacinto, Mauro Martino, Luca Maria Aiello, and Andrea Baronchelli. “_Mapping the NFT Revolution: Market Trends, Trade Networks, and Visual Features._” Scientific Reports 11, no. 1 (2021): 20902. (https://doi.org/10.1038/s41598-021-00053-8).  
+[^aisnet.org]: Regner, Ferdinand, André Schweizer, and Nils Urbach. “_NFTs in Practice – Non-Fungible Tokens as Core Component of a Blockchain-Based Event Ticketing Application._” In _Proceedings of the 40th International Conference on Information Systems (ICIS)_, Munich: Association for Information Systems, 2019. (https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/1/).  
+[^wsj.com]: Zimmer, Ben. “_'Fungible': The Idea in the Middle of the NFT Sensation._” The Wall Street Journal, April 16, 2021. (https://www.wsj.com/articles/fungible-the-idea-in-the-middle-of-the-nft-sensation-11618595061).  
+[^chat.openai.com]: ChatGPT. Response to “_Fix my spelling mistakes and make it read more professional,_” March 8, 2025. (https://chat.openai.com).  
+
