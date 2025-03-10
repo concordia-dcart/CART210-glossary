@@ -1,5 +1,7 @@
 ## Cyberspace
 
+![Cyberspace image](images/cyberspace-ryanbujold.png)
+
 It is a space where computers can interact with each other and share their data and content with each other. A reality that is computer generated, computer accessed and virtual. It is the place we are in during our communications through computers. It is a complete virtualisation of our physical world. [^bauwens94cyberspace]
 
 The term ‘cyberspace’ was first used by William Gibson in 1982 when he used it to describe a computer generated virtual reality. ‘Cyber’ is related to ‘cyborg’ which describes humans connecting to machines. It is an artificial reality, another world. Networks and the Internet are examples of what we might consider a cyberspace. [^fourkas04cyberspace]
@@ -13,3 +15,7 @@ Cyberspace is new representation of the physical world. It contains its own new 
 [^fourkas04cyberspace]: Fourkas, Vassilys. 2004. "What Is Cyberspace." *Media Development* 3: 6-7.
 
 [^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
+
+Image credits:
+- Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
+- fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/

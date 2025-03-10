@@ -6,6 +6,7 @@ Virtual worlds like online games and platforms are spaces where artists experime
 
 Virtuality is the idea that something can have an effect or be experienced even if it isn't physically real. For instance, in a meeting where most committee members aren't physically there, the meeting can still happen because everyone is "virtually" present, maybe through video calls or other digital tools. Even though the people aren't in the same room, their presence is still felt, and the meeting can go on as planned [^norton72what]. Virtuality is powerful because it can fill in for what’s missing in the real world and still allow things to function as if they were real. It helps us continue with important activities, even if the real-world conditions aren't perfect.
 
+![Virtuality](images/virtuality-sherwin.png)
 
 [^doyle15art]: Doyle, Denise. 2015. “Art, Virtual Worlds and the Emergent Imagination.” *Leonardo* 48 (3): 244–50. http://www.jstor.org/stable/43832994.
 
