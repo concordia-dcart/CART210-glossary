@@ -23,3 +23,9 @@ Similarly, software updates on our phones are a prime example of iteration. Comp
 [^cohn2006]: Cohn, Mike. 2006. Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
 [^goodfellow2016]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. Cambridge, MA: MIT Press.
 [^juul2005]: Juul, Jesper. 2005. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, MA: MIT Press.
+
+![Iteration](images/iteration-nisma.png)
+
+
+**The above image was generated using Chatgpt( GPT-4o ) , the following prompts were written [Iteration-Prompts](https://chatgpt.com/share/67d3987f-ba3c-8008-a37f-cae18fd2b2d6)**
+

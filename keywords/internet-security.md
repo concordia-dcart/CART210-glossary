@@ -33,7 +33,6 @@ As network security evolves, new threats continue to emerge, requiring constant 
 - **SolarWinds Supply Chain Attack (2020)** – A sophisticated attack compromising enterprise networks by injecting malicious code into software updates [^cheng2010].  
 - **DDoS Attack on GitHub (2018)** – One of the largest recorded DDoS attacks, which peaked at 1.35 terabits per second, demonstrating the need for robust network security defenses [^zhao2024].  
 
-### References  
 
 [^huang2010]: Huang, Scott C.-H., David MacCallum, and Ding-Zhu Du. 2010. *Network Security*. New York: Springer.  
 [^zhao2024]: Zhao, Dongmei, Guoqing Ji, Yiling Zhang, Xunzheng Han, and Shuiguang Zeng. 2024. “A Network Security Situation Prediction Method Based on SSA-GResNeSt.” *IEEE Transactions on Network and Service Management* 21 (3): 3498–3509.  

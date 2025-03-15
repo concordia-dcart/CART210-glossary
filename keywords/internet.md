@@ -33,8 +33,6 @@ Despite its benefits, the Internet faces significant challenges, including:
 - **Streaming & Social Media** – Platforms like Netflix, YouTube, and Twitter leverage Internet infrastructure to provide on-demand content and real-time interactions, shaping digital culture [^abbate1999].  
 - **Blockchain & Decentralized Networks** – Emerging technologies like blockchain operate on Internet protocols to enable secure, transparent transactions without central authorities [^clark1988].  
 
-### References  
-### References  
 
 [^clark1988]: Clark, David D. 1988. "The Design Philosophy of the DARPA Internet Protocols." *ACM SIGCOMM Computer Communication Review* 18 (4): 106–114.  
 [^saltzer1984]: Saltzer, Jerome H., David P. Reed, and David D. Clark. 1984. "End-to-End Arguments in System Design." *ACM Transactions on Computer Systems* 2 (4): 277–288.  

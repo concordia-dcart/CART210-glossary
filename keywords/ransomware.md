@@ -1,24 +1,26 @@
 ## Ransomware 
 
-**Definition**:[^UKsecurity]  Ransomware is a type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption.
-**The birth of ransomware**[^Allan]  : Historically, ransomware dates back to an original piece of malicious code, known as AIDS, written in 1989 by Joseph Popp.
-**How dose ransomware work**: 
+Ransomware is a type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption.[^UKsecurity]
+**The birth of ransomware**: Historically, ransomware dates back to an original piece of malicious code, known as AIDS, written in 1989 by Joseph Popp.[^Allan]
+**How does ransomware work**: 
  - Data access
  - Data encryption 
  - Demanding ransom
 
-**Ransomware is highly relevant to new media because digital platforms, online services, and media companies are frequent targets of cyberattacks. The relationship between ransomware and new media can be explored through several key points:**
+Ransomware is highly relevant to new media because digital platforms, online services, and media companies are frequent targets of cyberattacks. The relationship between ransomware and new media can be explored through several key points:
 
-**1. How Ransomware Connects to New Media**
+### How Ransomware Connects to New Media
 Digital Dependency: New media relies on cloud storage, digital publishing, and online platforms, all of which are vulnerable to ransomware attacks.
 Media Companies as Targets: News organizations, streaming services, and content platforms store valuable data, making them prime targets.
 Disinformation & Cybersecurity Risks: Hackers may use ransomware to control or alter digital narratives, censor journalism, or manipulate public opinion.
-**2. Where Ransomware is Used in New Media**
+
+**Where Ransomware is Used in New Media**
 News Organizations: Attackers have targeted news agencies (e.g., The Guardian was hit by ransomware in 2022), disrupting operations.
 Streaming & Entertainment Platforms: Netflix and other content providers face ransomware threats, with hackers leaking unreleased movies and shows.
 Social Media & Influencers: High-profile social media accounts can be hijacked for ransom, causing reputational damage.
 Gaming & Digital Art: Game developers and NFT creators have suffered ransomware attacks, losing valuable digital assets.
-**3. Why It’s Relevant**
+
+**Why It’s Relevant**
 Threat to Press Freedom: Journalists can be silenced through ransomware attacks, undermining free speech.
 Economic Impact: New media companies can lose millions due to downtime and ransom payments.
 Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases the risks of cyberattacks.
@@ -53,7 +55,6 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
 
 
 
---- 
-   [^UKsecurity]: *National Cyber Center UK*. https://www.ncsc.gov.uk/ransomware/home#section_4
-   [^Allan]: Allan Liska & Timothy Gallo 2016. *Ransomware: Defendfing Against Digital Extortion*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/ransomware/9781491967874/preface01.html#_using_code_examples
-   [^cyberCanada]: Canadian Centre for Cyber Security. 2021. “Ransomware Playbook (ITSM.00.099).” Canadian Centre for Cyber Security, November 30, 2021. https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099
+[^UKsecurity]: *National Cyber Center UK*. https://www.ncsc.gov.uk/ransomware/home#section_4
+[^Allan]: Allan Liska & Timothy Gallo 2016. *Ransomware: Defending Against Digital Extortion*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/ransomware/9781491967874/preface01.html#_using_code_examples
+[^cyberCanada]: Canadian Centre for Cyber Security. 2021. “Ransomware Playbook (ITSM.00.099).” Canadian Centre for Cyber Security, November 30, 2021. https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099.

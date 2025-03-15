@@ -4,9 +4,8 @@
 
 **Netscape** developed HTTPS in 1994 to secure online transactions for its browser. Initially, it used **SSL (Secure Sockets Layer)** for encryption. Over time, SSL was replaced by **TLS (Transport Layer Security)**, a more secure and efficient protocol. HTTPS became essential as online commerce and sensitive data exchanges grew, gaining widespread adoption in the 2000s and now a standard for safe browsing.
 
----
 
-### **The Importance of HTTPS in New Media**
+### The Importance of HTTPS in New Media
 
 In the digital age, new media has transformed how information is shared, consumed, and created. Securing data transmission from social media platforms to online journalism and e-commerce has become crucial. HTTPS (HyperText Transfer Protocol Secure) is a key technology enabling secure online communication. HTTPS plays a significant role in ensuring privacy, security, and trust in new media, making it an essential standard for modern websites and online interactions.
 
@@ -17,8 +16,6 @@ Additionally, HTTPS enhances trust and credibility. In an era of misinformation 
 Moreover, HTTPS is widely used across various new media platforms. Social networks, video streaming services, blogs, forums, and e-commerce websites rely on HTTPS to ensure safe user experiences. Secure communication is particularly crucial for online journalism and digital activism, where protecting the integrity of information and sources is paramount.
 
 In conclusion, HTTPS is an indispensable component of new media, providing security, trust, and improved visibility for online platforms. As the digital landscape evolves, ensuring secure communication will remain fundamental to engaging with new media safely and effectively.
-
-
 
 
 [^hellegren17crypto]: Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” _Internet Histories_ 1 (4): 285–311. https://doi.org/10.1080/24701475.2017.1387466.  

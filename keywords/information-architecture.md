@@ -1,0 +1,13 @@
+## Information Architecture
+
+The term was coined by Richard Saul Wurman who described “Information Architecture” as the organisation and presentation of information. It is a focus on making the complex clear with structural design of shared information environments. This involves organization, labeling, search and navigation schemes for websites. To make everything clear and accessible for users of the web.[^ding10information]
+
+There is an analogy that can be made between designing websites and designing buildings. Places like banks, coffee shops or malls all offer different purposes. Architecture is an important step to designing coherent, safe and efficient buildings for whatever purpose they may serve. The same is true for website design. Standards are made so that users can easily navigate each without becoming confused. Websites also offer their own unique architectural challenges that are all tackled in information architecture. [^morville06wideweb]
+
+It is a discipline of making information findable and understandable. Searching, browsing, categorizing, presenting and contextualizing help people find what they are looking for. Information can be seen as a product or item and websites can be arranged to make finding the right thing easier. Good information architecture comes from understanding the content available, the context for seeking the content and the user who is consuming the content. Building website navigation to flow and address these main concerns is what makes for good information architecture. [^interaction25whatis]
+
+This architecture is at the basis of the whole world wide web we navigate every day. It is an important part of optimizing the new media that is the internet so that it is approachable to everyone. Our understanding of what we expect from the medium can help us better build it and utilize it. Making it accessible to everyone who seeks information on the web.
+
+[^ding10information]:Ding Wei, Lin Xia. 2010. Information Architecture: The design and integration of information spaces. Springer Nature Link https://link-springer-com.lib-ezproxy.concordia.ca/book/10.1007/978-3-031-02267-8 
+[^morville06wideweb]:Morville Peter, Rosenfeld Louis. 2006. Information Architecture for the world wide web. 3rd Edition. DCC UChile https://users.dcc.uchile.cl/~nbaloian/ArquitecturaDeLaInformacion/materialDeLAWeb/InformationArchitecturefortheWorldWideWebThirdEditi.pdf 
+[^interaction25whatis]:Interaction Design Foundation. 2025. What is Information Architecture (IA)? Interaction Design Foundation https://www.interaction-design.org/literature/topics/information-architecture 

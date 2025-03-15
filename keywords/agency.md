@@ -12,6 +12,8 @@ For example, the self is targeted in many forms of online media. Even character 
 
 As well, agency often is brought up in anthropological discussions surrounding the internet and the massive flood of customized, constant advertising that comes with it. The discussion spills into the wider societal issue of consumerist culture as is explained by Rebekah Willet in Consumer Citizens Online: Structure, agency, and gender in online participation; “I am seeking to explore the relationships between the structures of consumerism (and wider societal discourses) and the agency (the capacity to think and act freely) of the young consumer/producer.”[^willet08consumer]
 
+![Agency](images/agency-axiuk.png)
+
 
 
 

@@ -1,9 +1,15 @@
 ## Crowdsourcing
 
-### Definition
 Crowdsourcing can be defined by the process of collecting work, data, and opinions from a big, often anonymous group, typically through the Internet. [^hargrave24crowdsourcing] It diverges from traditional outsourcing because the task is assigned to an undefined crowd instead of a pre-selected person or group. [^lebraty13crowdsourcing] 
 
-### Significance in New Media
+### History
+One of the first uses of crowdsourcing was used in 1714. After losing 5 navy vessels and many lives, the British government offered a prize of £20,000 (£3 million today) if someone could find a way to accurately measure longitude while at sea. John Harrison created the H1 Marine Timekeeper to solve that problem.[^lebraty13crowdsourcing]
+
+Crowdsourcing was used many times after that all over the world but the term was finally coined by Jeff Howe in 2006 while he was presenting an article about how the internet was being used to outsource jobs to the general population or “crowd”. The article was titled “The Rise of Crowdsourcing” and was published in June 2006 by Wired.[^howe06rise]
+
+Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
+
+### Significance
 Since it uses cooperation and collective intelligence, crowdsourcing is essential to new media. It allows for large-scale collaborations to be possible, enabling users to provide resources, labor or knowledge without centralized control. It is used by digital platforms for previously untenable data collection, innovation, and problem solving. [^halton24wisdom]
 
 However, many ethical concerns have been raised, especially in relation to power imbalances and labor exploitation. According to Du et al. (2024)[^du24ethical] many online workers perform microtasks with minimal protection, low wages and limited worker rights. Despite its issues, crowdsourcing continues to shape digital culture by fostering decentralization and user-driven innovation. 
@@ -15,12 +21,6 @@ Crowdsourcing is widely used across digital media and technological landscapes:
 - **Content Creation & Curation:** Wikipedia relies on crowdsourced knowledge, while platforms like Fiverr and 99designs offer freelance creative work.[^lebraty13crowdsourcing]
 - **Business & Innovation:** Companies like LEGO leverage user-generated ideas for new product designs, and crowdfunding platforms such as Kickstarter enable community-driven funding for creative projects[^halton24wisdom]
 
-### Brief History
-One of the first uses of crowdsourcing was used in 1714. After losing 5 navy vessels and many lives, the British government offered a prize of £20,000 (£3 million today) if someone could find a way to accurately measure longitude while at sea. John Harrison created the H1 Marine Timekeeper to solve that problem.[^lebraty13crowdsourcing]
-
-Crowdsourcing was used many times after that all over the world but the term was finally coined by Jeff Howe in 2006 while he was presenting an article about how the internet was being used to outsource jobs to the general population or “crowd”. The article was titled “The Rise of Crowdsourcing” and was published in June 2006 by Wired.[^howe06rise]
-
-Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
 
 ![Crowdsourcing](images/crowdsourcing-lapierrefurtado.png)
 

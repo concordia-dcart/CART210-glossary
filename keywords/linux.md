@@ -1,12 +1,12 @@
 ## Linux
 
-![LinuxKeywordImage](/images/linux-dumont.png)
-
 ***Linux*** is the name attributed to a collection of operating systems built on top the Linux kernel[^economist01authentic]. Linus Torvalds started developing the kernel in 1991[^steven11twenty] with the express purpose of creating an [open-source](/keywords/open-source.md) clone of [Unix](/keywords/unix.md). After being commonly packaged with GNU[^stallman25gnu], Linux quickly grew in size and user base currently making up 4% of all personal desktop operating systems in the world[^statcounter25desktop].
 
 Thousands of versions of Linux exist [^atea25distrowatch], commonly referred to as Distros (distributions). Some popular Distros include; [Ubuntu](https://ubuntu.com/download), [Debian](https://www.debian.org/), [Mint](https://www.linuxmint.com/), [Fedora](https://fedoraproject.org/), [Arch](https://archlinux.org/), [Gentoo](https://www.gentoo.org/), and [NixOS](https://nixos.org/). Each distribution comes with individual suites of software usually built on the GNU library which has led to the name GNU/Linux[^stallman21linux] being a more widely adopted then simply Linux. These suites include Window Managers/Desktop Environments, package managers, and more.
 
 Due to Linux's offered freedom, Linux has become a common tool among creatives. From the Raspberri PI engineers, to the young Chromebook students, anyone with a computer can have immediate access to a multitude of complex and usable tools. Linux is more then a tool, it is a community of like minded thinkers who share a passion for freedom of expression. Linux is **the** public paintbrush, the one to seperate user from state and enterprise. It is pure technological freedom, which infinite modubility[^rankin05linux]. 
+
+![LinuxKeywordImage](/images/linux-dumont.png)
 
 ![Linux Logo](images/Linux-Symbol-1933970093.png)
 

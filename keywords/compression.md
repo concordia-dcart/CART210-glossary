@@ -11,7 +11,7 @@ such as ‘A' and ‘E’, to help transmit messages quickly”. [^Sayood02]
 Compression is important in media spaces as it helps to solve two major problems,
 the first being the need for storage space and the second is to allow users to share and view content rapidly. [^Salomon02]
 
-Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#artificial-intelligence)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
+Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#ai)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
 As such, new algorithms are being developed and published like the “Universal Adaptive Stream-Based Entropy Coding” system to aid in this issue [^Shinichi24].
 
 Compression is also present in current-day media through short-form content such as TikTok and Instagram Reels as well as TV and movie scenes length decreasing over time. 
@@ -23,14 +23,14 @@ due to having more space or from the short content duration format. [^Mills23]
 
 [^CambridgeDictionary]: Compression | English meaning - Cambridge dictionary, accessed February 2. 2025. https://dictionary.cambridge.org/dictionary/english/compression.
 
-[^Salomon02]: Salomon, David. 2002. *"Data compression."* Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
+[^Salomon02]: Salomon, David. 2002. "Data compression." *Springer US: 2*. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
 
-[^Sayood02]: Sayood, Khalid. 2002. *"Data Compression."* Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
+[^Sayood02]: Sayood, Khalid. 2002. "Data Compression." *Encyclopedia of Information Systems 1 (2002)*: 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
 
-[^Tsukuba24]: University of Tsukuba. 2024. *“New Tech Boosts Real-Time Data Compression for AI.”* Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
+[^Tsukuba24]: University of Tsukuba. 2024. “New Tech Boosts Real-Time Data Compression for AI.” *Techxplore*. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
 
-[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. *"Universal Adaptive Stream-Based Entropy Coding."* in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
+[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. "Universal Adaptive Stream-Based Entropy Coding." in *IEEE Access. vol 12*. https://ieeexplore.ieee.org/document/10599517
 
-[^Mills23]: Mills, Kim. 2023. *“Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.”* American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
+[^Mills23]: Mills, Kim. 2023. “Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.” *American Psychological Association*. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
 
 ![Compression](images/compression-le.png)

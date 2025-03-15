@@ -28,7 +28,6 @@ Information overload is critical in new media, influencing digital consumption a
 - **Social Media** – Continuous streams of news and advertisements contribute to cognitive exhaustion [^cazaly2021].  
 - **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].
 
-## Image
 ![Information Overload](images/information-overload-rowan.png)
 
 

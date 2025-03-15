@@ -1,6 +1,4 @@
-## Cybersecurity in the Context of New Media
-
-### Definition and Significance in New Media
+## Cybersecurity
 
 Cybersecurity refers to the practice of protecting digital systems, networks, and data from cyber threats, including hacking, data breaches, and malware attacks. In the context of new media, cybersecurity is crucial for maintaining the integrity, privacy, and security of digital communication, social media platforms, and online transactions. As media consumption and interaction shift towards digital spaces, the need for robust cybersecurity measures has intensified to prevent unauthorized access and ensure user trust.
 
@@ -33,17 +31,9 @@ Cybersecurity research and policy development have been shaped by key individual
 * The National Institute of Standards and Technology (NIST) – Developed widely adopted cybersecurity frameworks.
 * The Electronic Frontier Foundation (EFF) – Advocates for digital rights and online security.
 
-### Internal References
 
-Cybersecurity intersects with related concepts such as Data Privacy, Encryption, and Cyber Warfare.
 
-### External References
 
-* [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
-* [Electronic Frontier Foundation (EFF) Cybersecurity Advocacy](https://www.eff.org/issues/security)
-* [U.S. Department of Homeland Security Cybersecurity Resources](https://www.cisa.gov/cybersecurity)
-
-### Bibliography
 
 [^anderson2021]: Anderson, Ross. 2021. *Security Engineering: A Guide to Building Dependable Distributed Systems*. 3rd ed. Hoboken: Wiley.
 
