@@ -18,10 +18,10 @@ Immersion plays a central role in contemporary digital life in everything from v
 In human-computer interaction, immersion is typically synonymous with flow theory of Csikszentmihalyi[^ebersbach04immersion] in that users are completely absorbed in an experience since it is so well designed and so captivating.
 
 
-[^ebersbach01immersion]: Crary, Jonathan. "Géricault, the Panorama, and Sites of Reality in the Early Nineteenth Century." *Grey Room*, no. 9 (2002): 7-8.
-[^ebersbach02immersion]: Murray, Janet H. 1997. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. Cambridge, MA: MIT Press, 97.
-[^ebersbach03immersion]: Slater, Mel, and Sylvia Wilbur. 1997. "A Framework for Immersive Virtual Environments (FIVE): Speculations on the Role of Presence in Virtual Environments." Presence: Teleoperators and Virtual Environments 6 (6): 603–16.
-[^ebersbach04immersion]: Csíkszentmihályi, Mihály. 1990. Flow: The Psychology of Optimal Experience. New York: Harper & Row, 4.
+[^ebersbach01immersion]: Crary, Jonathan. 2002. "Géricault, the Panorama, and Sites of Reality in the Early Nineteenth Century." *Grey Room*, no. 9: 7–8.
+[^ebersbach02immersion]: Murray, Janet H. 1997. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Cambridge, MA: MIT Press, 97.
+[^ebersbach03immersion]:  Slater, Mel, and Sylvia Wilbur. 1997. "A Framework for Immersive Virtual Environments (FIVE): Speculations on the Role of Presence in Virtual Environments." *Presence: Teleoperators and Virtual Environments* 6 (6): 603–16.
+[^ebersbach04immersion]:  Csíkszentmihályi, Mihály. 1990. *Flow: The Psychology of Optimal Experience*. New York: Harper & Row.
 
 ![Immersion](images/immersion-hubert.png)
 
