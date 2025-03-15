@@ -8,7 +8,7 @@ API is valuable for business due to its ability to connect many people to commun
 
 An API when it comes to new media is significant as it can allow the user to be able to reach a lot of people across the world when the API is used by other people through the internet. When it comes new media, if an artist wants to reach more people to view and support their work, they will purchase and use an API service to reach other people globally.
 
-
+![api](images/API_emmabeldick.png)
 
 ____________________________________________________________________________________________________________________________________________________________________________________
 [^simon]: Simon, Jean Paul. 2021. “APIs, the Glue Under the Hood. Looking for the ‘API Economy.’” Digital Policy Regulation and Governance 23 (5): 489–508. @article https://doi.org/10.1108/dprg-10-2020-0147.
