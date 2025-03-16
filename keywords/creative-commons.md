@@ -21,6 +21,9 @@
 And emphasizes that a participative culture or a 'read-write culture', as dinstiguished from the traditional 'read-only culture'.
 Creative Commons has become an effective alternative to copyright. One of the impportant aims of CC is "to build a free and extensive infrastructure at the content layer that enables freedoms that many different Web 2.0 creative projects require."[^Wang]
 
+![creative commons](images/creative-commons_emmabeldick.png)
+
+
 
 [^Kim]: Minjeong Kim.2007. *The Creative Commons and copyright protection in the digital era: Uses of Creative Commons licenses*.Journal of computer-mediated communication:187-209.https://academic.oup.com/jcmc/article-abstract/13/1/187/4583060
 [^Hagedorn,Mietchen,Morris,Agosti,Penev,Berendsohn,Hobern]: Gregor Hagedorn, Daniel Mietchen, Robert A. Morris, Donat Agosti, Lyubomir Penev, Walter G. Berendsohn, Donald Hober.2011. *Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information*.Zookeys. https://pmc.ncbi.nlm.nih.gov/articles/PMC3234435/
