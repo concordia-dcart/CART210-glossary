@@ -16,6 +16,11 @@ For example:
 
 Despite its advantages, IoT raises significant concerns regarding data privacy and security. Since IoT devices collect and analyze vast amounts of personal data, issues related to data flow security and user rights have become major challenges in IoT development.[^rose15IoToverview] The rapid evolution of IoT often outpaces the ability of legal, policy, and regulatory frameworks to keep up,[^rose15IoToverview] which making it difficult for governments and global institutions to establish universally accepted regulations. Addressing these concerns will be critical to ensuring IoT's continued growth while safeguarding user privacy and security.
 
+![Internet of Things](images/internetofthingsIoT-wong.jpg)
+
+Tool: ChatGPT. Prompt: “Creat a image that show several new media use through Internet of Things (IoT) network”
+
+
 [^zeinab17IoTapplications]: Zeinab, Kamal Aldein Mohammed, and Sayed Ali Ahmed Elmustafa. 2017."Internet of things applications, challenges and related future technologies." _World Scientific News_ 67, no. 2 : 126-148.
 
 [^rose15IoToverview]: Rose, Karen, Scott Eldridge, and Lyman Chapin. 2015. "The Internet of Things: An Overview." _The internet society (ISOC)_ 80, no. 15 : 1-53.
