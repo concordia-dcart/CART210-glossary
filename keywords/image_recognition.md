@@ -28,4 +28,4 @@ References:
 [^he16residual]: He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. “_Deep Residual Learning for Image Recognition_.” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–78. 
 [^krizhevsky17imagenet]: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2017. “_ImageNet Classification with Deep Convolutional Neural Networks_.” Communications of the ACM 60 (6): 84–90. https://doi.org/10.1145/3065386.
 
-![image](https://github.com/user-attachments/assets/2f0ebc33-ff98-499d-b62a-3ed155d4216b)
+
