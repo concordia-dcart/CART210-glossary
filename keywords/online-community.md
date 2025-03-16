@@ -14,6 +14,10 @@ These groups respond to real-world events like political shifts and social movem
 and reinforcing shared beliefs[^biluc20growing].
 The study demonstrates how internet platforms can accelerate these groups' growth and influence by facilitating the spread of their viewpoints while nurturing a powerful sense of community and shared purpose.
 
+![Online Community](images/online-community-sherwin.png)
+
+<sub>OpenAI. (2025). Prompt: "Create an image that depicts an online community". DALL·E. </sub>
+
 
 [^bell05creating]: Bell, Steven J. 2005. “Creating Community Online.” American Libraries 36, no. 4: 68–71. http://www.jstor.org/stable/25649539.
 [^biluc20growing]: Bliuc, Ana-Maria, John Betts, Matteo Vergani, Muhammad Iqbal, and Kevin Dunn. 2020. “The Growing Power of Online Communities of the Extreme-Right: Deriving Strength, Meaning, and Direction from Significant Socio-Political Events ‘in Real Life.’” International Centre for Counter-Terrorism. http://www.jstor.org/stable/resrep25261.
