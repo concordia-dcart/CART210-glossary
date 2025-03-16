@@ -9,6 +9,9 @@ This idea of “virtual life-space” as discussed by Hamelink seems a popular o
 
 When considering the effects of modern and developing technologies on human society, the discussion is automatically linked to cyberfuture, as any developments of human society involving an integration of technology is such a future.
 
+![cyberfuture](images/cyberfuture-axiuk.png)
+*Tool: [DALL-E through Microsoft Copilot](https://copilot.microsoft.com/). Prompt: “cyberfuture where humans and technology are interlinked”*
+
 [^wiktionary25cyberfuture]: 2025.“Cyberfuture - Wiktionary, The Free Dictionary.” *Wiktionary*. https://en.wiktionary.org/wiki/cyberfuture#:~:text=cyberfuture%20(plural%20cyberfutures),around%20cyberspace%20or%20computer%20technology. 
 
 [^franck98imagining]:  FRANCK, KAREN A. 1998. “Imagining as a Way of Knowing: Some Reasons for Teaching ‘Architecture of Utopia.’” *Utopian Studies* 9, no. 1 : 120–41. http://www.jstor.org/stable/20719746.
