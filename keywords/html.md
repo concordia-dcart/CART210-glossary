@@ -72,5 +72,5 @@ This method ensures a clean separation between structure and design, making it e
 
 
 
-![HTML](images/html_ai.jpg) 
+![HTML](images/html_ai.png) 
 Caption: Used ChatGPT, prompt: Create an image that represents html
