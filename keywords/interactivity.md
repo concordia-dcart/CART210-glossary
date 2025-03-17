@@ -19,7 +19,7 @@ However, some researchers argue that we have not yet grasped what interactivity 
 
 The purpose of interactivity within our contemporary understanding is strongly linked to that of media richness theory. Proposed in 1986 by Richard Daft and Robert Lengel, it refers to the “ability of information to change understanding within a time interval”.[^Daft86richness] The theory proposes that different forms of media have different levels of communicational "richness", with face-to-face communication being the richest possible form. By imitating face-to-face communication, it is proposed that digital interactivity becomes more communicationally rich.[^Quiring08interactivity] Hence why interactive media is in an arms race to emulate real-world interaction, especially nowadays with AI chatbots or customer support alogorithms.
 
-![Interactivity](images/Interactivity.png)
+![Interactivity](images/interactivity.png)
 
 
 [^Quiring08interactivity]: Quiring, Oliver, and Wolfgang Schweiger. May 2008. “Interactivity: A Review of the Concept and a Framework for Analysis.” Communications: The European Journal of Communication Research. https://doi.org/https://www.degruyter.com/document/doi/10.1515/COMMUN.2008.009/html.
