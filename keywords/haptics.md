@@ -1,5 +1,8 @@
 ## Haptics
 
+![Haptics](images/haptics_sean.png)
+*Tool: [DALL-E Free AI Generator](https://www.dall-efree.com/). Prompt: “Create an image that visually represents the concept of haptic technology. Futuristic environment where a person is interacting with a variety of advanced devices. Person is wearing a VR headset with a haptic feedback vest and gloves. Include representations of the person interacting with holograms. The setting should have a high-tech, immersive atmosphere, with a sense of interaction between the digital and physical worlds. The overall tone should be sleek and futuristic.”*
+
 "Haptic" technology is a long researched technology that aims to enhance user interactions by providing tactile feedback through various devices, creating a more immersive and responsive experience.
 These devices can be practically anything, though some commonly known haptic devices are often smartphones, game controllers, VR systems, and even prosthetics.
 "Haptics" often use mechanical (vibration, pressure, motion), and / or more non-traditional (ultrasonics, electrostatics, thermal) stimulations to create the illusion of a physical touch in virtual, or at least seperate, environments. [^yuxiang_shi_2024_feedback]
