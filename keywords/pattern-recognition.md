@@ -8,8 +8,8 @@ Pattern recognition is widely utilized across various fields to analyze and inte
 
 ![Pattern Recognition](images/pattern_recognition_aneder.jpg)
 
-[^bishop]: Bishop, Christopher M. Pattern recognition and machine learning. New York: Springer, 2016.
+[^liu]: Liu, Jie, Jigui Sun, and Shengsheng Wang. “Pattern Recognition: An Overview.” IJCSNS International Journal of Computer Science and Network Security 6 (June 2006). http://paper.ijcsns.org/07_book/200606/200606A10.pdf. 
 
 [^dutt]: Dutt, Vinita, Vikas Chadhury, and Imran Khan. “Different Approaches in Pattern Recognition.” Computer Science and Engineering 1, no. 2 (August 31, 2012): 32–35. https://doi.org/10.5923/j.computer.20110102.06. 
 
-[^liu]: Liu, Jie, Jigui Sun, and Shengsheng Wang. “Pattern Recognition: An Overview.” IJCSNS International Journal of Computer Science and Network Security 6 (June 2006). http://paper.ijcsns.org/07_book/200606/200606A10.pdf. 
+[^bishop]: Bishop, Christopher M. Pattern recognition and machine learning. New York: Springer, 2016.

@@ -8,8 +8,8 @@ As digital technologies continue to advance, cyberculture evolves, reshaping how
 
 ![Cyberculture](images/cyberculture_aneder.jpg)
 
-[^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
-
 [^manovich]: Manovich, Lev. 2002. The Language of New Media. Leonardo. Cambridge, Mass.: MIT Press. ISBN: 9780262632553.
+
+[^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
 
 [^vicenteamaral]: Vicente, Paulo Nuno, and Inês Amaral. 2020. "Cyberculture." In The SAGE International Encyclopedia of Mass Media and Society, edited by Debra L. Merskin, 430-432. Thousand Oaks: SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n171.
