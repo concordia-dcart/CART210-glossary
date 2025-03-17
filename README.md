@@ -101,12 +101,14 @@ After your additions are reviewed, and if approved, you will receive a “Merged
 
 ## Adding images
 
-To add images, you follow the same workflow that with text. Only images added to the `images` folder will be accepted.
+To add images, you follow the same workflow that with text. That is, you fork the main repo to your account and then you upload your image into the `images` folder in the repository.
+
+Note:  Only images added to the `images` folder will be accepted.
 
 ![Add data](images/04-upload-files.png)
 
 >[!IMPORTANT]
-> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web-based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environments (e.g., CLI or IDE), can also use those.
+> To commit your changes, you will follow the same process as with text entry. each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web-based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environments (e.g., CLI or IDE), can also use those.
 
 When committing your changes, add a meaningful message (e.g., ”Add: Visual collage for virtuality.”
 
