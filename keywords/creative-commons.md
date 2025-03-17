@@ -22,7 +22,7 @@ And emphasizes that a participative culture or a 'read-write culture', as dinsti
 Creative Commons has become an effective alternative to copyright. One of the impportant aims of CC is "to build a free and extensive infrastructure at the content layer that enables freedoms that many different Web 2.0 creative projects require."[^Wang]
 
 ![creative commons](images/creative-commons_emmabeldick.png)
-
+Prompt used on ChatGPT: create image for creative commons, concept visual, have it more towards new media.  
 
 
 [^Kim]: Minjeong Kim.2007. *The Creative Commons and copyright protection in the digital era: Uses of Creative Commons licenses*.Journal of computer-mediated communication:187-209.https://academic.oup.com/jcmc/article-abstract/13/1/187/4583060
