@@ -8,6 +8,16 @@ Keeping this in mind, In traditional art, the viewer’s role is often passive, 
 
 To expand and finish, in class, we examined "Osmose" by Char Davies, which immerses users in virtual environments controlled by their movements through VR. Their proprioceptive sense of balance and motion dictated their navigation through ethereal, dreamlike spaces. The artwork does not simply represent a static idea, it responds to the user’s body, blending mental immersion with physical action. This creates a unified experience between output and input, mediated by technology, forming a continuous, hybrid self that includes the technological environment [^9]. We can define proprioception through a posthuman lens, If proprioception reveals a mind-body unity, art like the “Cloud Core Scanner” by Agnes Meyer-Brandis [^10], where participants "feel" cloud textures via haptic feedback, extends that unity into a symbiosis. One's bodily awareness informs the artwork, which reshapes awareness in turn, mediated by sensors and code. This aligns with Donna Haraway’s Cyborg Manifesto [^11], where boundaries between human and machine dissolve, and proprioception becomes a shared property to be explored.
 
+![Proprioception](images/proprioception-abdulaziz.png)
+
+Initial images made in Fluxdev in SwarmUI (Trying something new), glowing insides inpainted with Juggernaut base SDXL in Fooocus.
+
+Example positive prompt: cinematic still, blindfolded person, walking a tightrope, waves emanating from his body, dark atmospheric background, rim lighting, proprioceptive awareness visualization, cinematic composition, emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, moody, epic, gorgeous, film grain, grainy
+
+Example positive prompt for inpainting: glowing nervous system, gold, man, nerve endings
+
+Example negative prompt (N/A in FluxDev): (worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3) anime, cartoon, graphic, (blur, blurry, bokeh), text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured
+
 [^1]: Sherrington, Charles Scott. *The Integrative Action of the Nervous System*. New York: Charles Scribner's Sons, 1906.
 [^2]: Gandevia, S. C. "Proprioception." *Current Biology*, vol. 10, no. 22, 2000, pp. R838-R841.
 [^3]: Proske, U., and R. C. Gandevia. "The Proprioceptive Senses: Their Roles in Signaling Body Shape, Body Position and Movement, and Muscle Force." *Physiological Reviews*, vol. 89, no. 1, 2009, pp. 123-161
