@@ -15,16 +15,14 @@ Within digital Interactivity, there are two types: user-to-user interaction (ex.
 3. ### As an attribute of communication processes
    When the user achieves the second dimension and uses it properly, communication processes become interactive. For example, said hyperlink allows the user to send an email to someone, and that person responds to said email.
 
-Media Richness theory is a term mentioned often next to Interactivity. Proposed in 1986 by Richard Daft and Robert Lengel, it refers to the “ability of information to change understanding within a time interval”.[^Daft86richness]
-It proposes that different forms of media have different levels of communicational "richness", with face-to-face communication being the richest possible form. By imitating face-to-face communication, it is proposed that digital interactivity becomes more communicationally rich.[^Quiring08interactivity] 
-Hence why interactive media is in an arms race emulate real-world interaction, especially nowadays with AI chatbots or customer support alogorithms. 
+However, some researchers argue that we have not yet grasped what interactivity is, what it does, or its consequences on members of a social system.[^Bucy04society] They believe that beyond just being a technical property of media systems, it must have meaningful social relevance as a concept; and that different interactive technologies should not be classified as they exist within an unbiased theoretical framework.
 
-
+The purpose of interactivity within our contemporary understanding is strongly linked to that of media richness theory. Proposed in 1986 by Richard Daft and Robert Lengel, it refers to the “ability of information to change understanding within a time interval”.[^Daft86richness] The theory proposes that different forms of media have different levels of communicational "richness", with face-to-face communication being the richest possible form. By imitating face-to-face communication, it is proposed that digital interactivity becomes more communicationally rich.[^Quiring08interactivity] Hence why interactive media is in an arms race emulate real-world interaction, especially nowadays with AI chatbots or customer support alogorithms.
 
 ![Interactivity](images/Interactivity.png)
 
 
 [^Quiring08interactivity]: Quiring, Oliver, and Wolfgang Schweiger. May 2008. “Interactivity: A Review of the Concept and a Framework for Analysis.” Communications: The European Journal of Communication Research. https://doi.org/https://www.degruyter.com/document/doi/10.1515/COMMUN.2008.009/html.
-[^Klimmt07generalizability]:Klimmt, Christoph, Peter Vorderer, and Ute Ritterfeld. 2007. “Interactivity and Generalizability: New Media, New Challenges.” Communication Methods and Measures 1 (3): 169–79. doi:10.1080/19312450701434961.
+[^Bucy04society]: Bucy, Erik P. 2004. “Interactivity in Society: Locating an Elusive Concept.” The Information Society 20 (5): 373–83. doi:10.1080/01972240490508063.
 [^Daft86richness]: Richard L. Daft, Robert H. Lengel. 1986. "Organizational Information Requirements, Media Richness and Structural Design." Management Science 32(5):554-571.
 https://doi.org/10.1287/mnsc.32.5.554
