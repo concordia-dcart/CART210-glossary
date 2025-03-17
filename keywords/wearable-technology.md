@@ -1,0 +1,11 @@
+## Wearable Technology
+
+Wearable technology refers to electronic devices designed to be worn on the user's body. These technological devices are typically integrated into jewelry, watches, accessories, clothing or medical devices. More advanced examples of wearable technology include Google Glasses, VR headsets and Microsoft's HoloLens, while more common everyday examples include hearing aids, smartwatches and bluetooth earphones [^techtarget]. The wearability of these devices allows for a more efficient method of collecting and tracking user data. These devices are seamlessly integrated into the users daily lives, making data such as sleep, health, movement, location and interaction conveniently trackable [^ximeiqu].
+
+Wearable technology is particularly integral to new media by integrating artificial intelligence and internet connectivity into daily life, and thus contributing to the broader concept of smart living. Technologies such as the Google Glasses allow for users to search the internet or reply to emails through voice command, and through tracking your daily routine, the glasses can notify you of potential inconveniences such as a late train [^ximeiqu]. Wearable Technology's contribution to smart health is also crucial to the development and implementation of smart cities, which concerns the optimization of several different areas of daily living, such as health [^lydiaizu]. However, this collection of personal data raises ethical concerns in relation to new media, as large corporations gain access to personal user information and data, raising questions pertaining to hyper-surveillance.
+
+[^techtarget]: Yasar, Kinza, and Ivy Wigmore. "Wearable Technology." TechTarget. November 2023. https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology.
+
+[^ximeiqu]: Qu, Ximei, Jiahuan Wang, and Rong Miao. "Application of Wearable Technology in Education." Open Access Library Journal 8, no. 11 (2021): 1-11. https://doi.org/10.4236/oalib.1107630.
+
+[^lydiaizu]: Izu, Lydia, Brenda Scholtz, and Ifeoluwapo Fashoro. "Wearables and Their Potential to Transform Health Management: A Step towards Sustainable Development Goal 3." Sustainability 16, no. 5 (2024): 1850. https://doi.org/10.3390/su16051850.
