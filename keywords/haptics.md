@@ -2,15 +2,15 @@
 
 "Haptic" technology is a long researched technology that aims to enhance user interactions by providing tactile feedback through various devices, creating a more immersive and responsive experience.
 These devices can be practically anything, though some commonly known haptic devices are often smartphones, game controllers, VR systems, and even prosthetics.
-"Haptics" often use mechanical (vibration, pressure, motion), and / or more non-traditional (ultrasonics, electrostatics, thermal) stimulations to create the illusion of a physical touch in virtual, or at least seperate, environments.
+"Haptics" often use mechanical (vibration, pressure, motion), and / or more non-traditional (ultrasonics, electrostatics, thermal) stimulations to create the illusion of a physical touch in virtual, or at least seperate, environments. [^yuxiang_shi_2024_feedback]
 
 These technologies can be tracked to have originated in the mid 19th century, with some of the earliest uses of haptics having been recorded to have occured in the 1960s and 70s.
 One of the oldest representations of the use of haptics was a system that was meant to help show images to the blind. 
-It was created by neuroscientist Paul Bach-y-Rita, and took the shape of a chair that an array of movable metal rods.
+It was created by neuroscientist Paul Bach-y-Rita, and took the shape of a chair that an array of movable metal rods. [^paul_bach-y-rita_1969_sense]
 These rods would be gently pushed into the back of the user, maintaining a certain shape, serving a similar purpose as do pixels on a screen.
 Users were shown to be able to recognize pictures that were poked into their backs, essentially acting as a sensory substitution for eyesight.
 
-Another particulary interesting case in the early use of haptics was the invention of "Aura Interactor" sensory feedback vest.
+Another particulary interesting case in the early use of haptics was the invention of "Aura Interactor" sensory feedback vest. [^mike_klasco_2024_aura]
 The vest was designed to provide force-feedback for video games by converting low-frequency sound into vibrations, allowing a player to feel in-game impacts like punches or nearby explosions.
 It contained a large vibrating motor that would respond to sounds that were heavy in bass, and had a few different physical sliders to modulate strength.
 
@@ -36,3 +36,6 @@ This is very much not a comprehensive list, with many such technologies have sim
 Through these uses, haptics have shown themselves to be a sort of delivery system of digital information to the physical world.
 In the modern sense I would define haptics as a technology and science of creating, simulating, and perceiving touch-based sensations through electronic devices.
 
+[^yuxiang_shi_2024_feedback]: Shi, Yuxiang, and Guozhen Shen. 2024. _Haptic Sensing and Feedback Techniques toward Virtual Reality._ pp. 14–24. Research: A Science Partner Journal.
+[^paul_bach-y-rita_1969_sense]: Bach-Y-Rita, Paul, Carter C. Collins, Frank A. Saunders, Benjamin White, and Lawrence Scadden. 1969. _Vision Substitution by Tactile Image Projection._ pp. 1-2. Nature.
+[^mike_klasco_2024_aura]: Klasco, Mike. 2022. _Speakers and Transducers - Haptic Devices for Augmentation, Entertainment, and Wellness._ Audioxpress: Magazine Articles.
