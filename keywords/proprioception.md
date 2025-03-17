@@ -10,7 +10,7 @@ To expand and finish, in class, we examined "Osmose" by Char Davies, which immer
 
 ![Proprioception](images/proprioception-abdulaziz.png)
 
-Initial images made in Fluxdev in SwarmUI (Trying something new), glowing insides inpainted with Juggernaut base SDXL in Fooocus.
+Initial images made with Fluxdev in SwarmUI (trying something new), glowing insides inpainted with Juggernaut base SDXL in Fooocus.
 
 Example positive prompt: cinematic still, blindfolded person, walking a tightrope, waves emanating from his body, dark atmospheric background, rim lighting, proprioceptive awareness visualization, cinematic composition, emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, moody, epic, gorgeous, film grain, grainy
 
