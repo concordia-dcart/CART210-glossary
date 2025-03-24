@@ -151,4 +151,9 @@ That code will be rendered as:
 
 ## License
 
-TBD
+CART210 New Media Glossary by CART210-2025 Cohort is marked with CC0 1.0 Universal 
+
+
+ ![CC BY 4.0][cc-publicdomain]
+
+[cc-publicdomain]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
