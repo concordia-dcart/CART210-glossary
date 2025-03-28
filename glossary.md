@@ -1630,7 +1630,7 @@ Due to Linux's offered freedom, Linux has become a common tool among creatives. 
 
 ![LinuxKeywordImage](/images/linux-dumont.png)
 
-![Linux Logo](images/Linux-Symbol-1933970093.png)
+![Linux Logo](/images/Linux-Symbol-1933970093.png)
 
 ---
 
