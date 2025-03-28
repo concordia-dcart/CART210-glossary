@@ -651,11 +651,11 @@ Cyberculture emerged in the 1960s at the Massachusetts Institute of Technology a
 
 As digital technologies continue to advance, cyberculture evolves, reshaping how people interact with cultural content. The concept of cultural interfaces highlights how computers present and structure media, drawing from influences like cinema, print, and human-computer interaction.[^manovich] As media shifts away from physical formats, digital interfaces adapt, blending familiar elements from traditional culture with new ways of navigating and experiencing information. The rise of hyperlinking in the 1990s further transformed cyberculture by encouraging non-linear, decentralized structures, challenging traditional hierarchies in media.[^vicenteamaral] These changes illustrate the ongoing interplay between technology and culture, shaping the way digital experiences are created and understood.
 
-![Cyberculture](images/cyberculture-aneder.jpg)
-
-[^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
+![Cyberculture](images/cyberculture_aneder.jpg)
 
 [^manovich]: Manovich, Lev. 2002. The Language of New Media. Leonardo. Cambridge, Mass.: MIT Press. ISBN: 9780262632553.
+
+[^macek]: Macek, Jakub. 2005. "Defining Cyberculture." In Defining Cyberculture, 19. Translated by Monika Metyková and Jakub Macek. https://www.academia.edu/460099
 
 [^vicenteamaral]: Vicente, Paulo Nuno, and Inês Amaral. 2020. "Cyberculture." In The SAGE International Encyclopedia of Mass Media and Society, edited by Debra L. Merskin, 430-432. Thousand Oaks: SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n171.
 
@@ -2242,6 +2242,21 @@ specific Pantone colours for their flags. [^davisHistoryPantone]
 
 
 
+## Pattern Recognition
+
+Pattern Recognition (PR) is the field focused on the automatic identification and classification of meaningful regularities within complex or noisy data using mathematical, statistical, and computational techniques. [^liu] It involves the discovery of patterns through computer algorithms, which allow for the classification of data into categories based on learned regularities. The goal is to build models that can accurately recognize and categorize new, unseen data by leveraging patterns derived from a training set, enabling machines to interpret and process information in dynamic and complex environments. [^bishop]
+
+The four prominent approaches to pattern recognition include template matching, statistical classification, syntactic or structural matching, and neural networks. Template matching involves comparing patterns to predefined templates and measuring their similarity, though it can struggle with distorted patterns. Statistical classification represents patterns in a multidimensional space to establish decision boundaries based on probability distributions, often using techniques like discriminant analysis. The syntactic approach treats patterns as compositions of simpler subpatterns, akin to sentences in a language, allowing for both classification and structural description. Neural networks, inspired by biological systems, learn complex nonlinear relationships between inputs and outputs, making them effective for classification tasks and feature extraction, with common models including feed-forward networks and self-organizing maps. [^dutt]
+
+Pattern recognition is widely utilized across various fields to analyze and interpret data.In healthcare, it aids in diagnosing diseases by recognizing patterns in medical images, such as identifying tumors in X-rays or MRIs. In finance, algorithms detect fraudulent transactions by analyzing spending patterns to flag anomalies. In the realm of security, facial recognition systems enhance surveillance by matching faces in real-time against databases. Additionally, pattern recognition plays a crucial role in natural language processing, enabling applications like sentiment analysis and speech recognition. In autonomous vehicles, it helps in interpreting sensor data to recognize road signs and obstacles. Overall, these applications highlight the versatility and importance of pattern recognition in modern technology and data analysis. [^bishop]
+
+![Pattern Recognition](images/pattern_recognition_aneder.jpg)
+
+[^liu]: Liu, Jie, Jigui Sun, and Shengsheng Wang. “Pattern Recognition: An Overview.” IJCSNS International Journal of Computer Science and Network Security 6 (June 2006). http://paper.ijcsns.org/07_book/200606/200606A10.pdf. 
+
+[^dutt]: Dutt, Vinita, Vikas Chadhury, and Imran Khan. “Different Approaches in Pattern Recognition.” Computer Science and Engineering 1, no. 2 (August 31, 2012): 32–35. https://doi.org/10.5923/j.computer.20110102.06. 
+
+[^bishop]: Bishop, Christopher M. Pattern recognition and machine learning. New York: Springer, 2016.
 ## PHP
 
 **PHP (Hypertext Preprocessor)** is a widely used, open-source scripting language designed primarily for web development. It is embedded into HTML to create dynamic web pages and can interact with databases, manage sessions, and process forms. 
@@ -2697,6 +2712,25 @@ UIs are essential in today's increasingly digital world because they determine h
 
 [^sharma21ui]: Sharma, Vatsal, and A. Kumar Tiwari. 2021. "A study on user interface and user experience designs and its tools." _World Journal of Research and Review (WJRR)_ 12, (6): 41-45.
 
+## User
+
+A user is an individual who interacts with products, systems, or platforms not just for their basic functions but as part of their broader activities, goals, and experiences. Users bring their own preferences, histories, and lifestyles into their interactions with technology, shaping how they evaluate, use, and even inspire the development of new products or features. Their needs, perspectives, and the context in which they use technology play a key role in shaping digital tools and their evolution.[^margolin97user]
+
+In the digital world, users do more than passively consume content—they actively engage with platforms, tools, and media. They create, share, and interact with digital content, influencing trends, brands, and the way media is consumed. This participatory role is a key aspect of the user reflects a change in power dynamics, where users shape content consumption patterns, influence advertising strategies, and redefine the digital ecosystem.[^rashtchy07user]
+
+Users contribute content through photos, posts, and comments while also generating data through actions like clicking, tagging, and networking. However, they often have little control or awareness over how their contributions and personal data are collected and used by technology companies, often for commercial purposes.[^reyman13user]
+
+Beyond content creation, users play a key role in shaping the systems they interact with. Their feedback and satisfaction influence how applications, platforms, and tools evolve. The way users engage with a system—based on their expectations, experiences, and needs—drives improvements and updates. This continuous feedback loop helps refine technology to better match user behaviors and demands. While measuring user satisfaction can be complex, understanding how users interact with systems is essential for creating more effective and user-friendly applications.[^etezadi91user]
+
+
+
+[^etezadi91user]: Etezadi-Amoli, Jamshid, and Ali F. Farhoomand. “On End-User Computing Satisfaction.” MIS Quarterly 15, no. 1 (March 1991): 1. https://doi.org/10.2307/249428.
+
+[^margolin97user]: Margolin, Victor. “Getting to Know the User.” Design Studies 18, no. 3 (July 1997): 227–36. https://doi.org/10.1016/s0142-694x(97)00001-x. 
+
+[^rashtchy07user]: Rashtchy, Safa, Aaron M. Kessler, Judith C. Tzeng, Nathaniel H. Schindler, and Paul J. Bieber. The User Revolution: The new advertising ecosystem and the rise of the internet as a mass medium. Minneapolis, MN, MN: PiperJaffray, Investment Research, 2007. 
+
+[^reyman13user]: Reyman, Jessica. “User Data on the Social Web: Authorship, Agency, and Appropriation.” College English 75, no. 5 (May 1, 2013): 513–33. https://doi.org/10.58680/ce201323565. 
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
