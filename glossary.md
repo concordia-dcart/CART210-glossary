@@ -783,7 +783,7 @@ https://cornell-library.skillport.com/skillportfe/main.action?assetid=82612.
 
 [^russom13managing]: Russom, Philip.2013. "Managing big data." _TDWI Best Practices Report_, TDWI Research. 1-40.
 
-## DEEP-FAKES
+## Deepfakes
 
 Deepfakes are realistic manipulations of video, audio and images using deep learning, specifically Generative Adversarial Networks (GANs) to swap faces, mimic voices and create entirely fabricated events [^farid2022]. While CGI has been used in films for a long time, deepfakes are different because they do not require Hollywood budgets or specialized training. With the right tools, nearly anyone can generate a convincing fake [^kietzmann2020]. The term “deepfake” comes from a Reddit user who, in 2017, started sharing face-swapped celebrity adult content. What made this particularly alarming was that the user also released the code, allowing others to replicate and refine the technology [^kietzmann2020]. Since then, deepfake capabilities have evolved significantly. One of the first viral examples was "Synthesizing Obama," a 2017 project that used AI to perfectly mimic Barack Obama’s speech and facial movements, making him appear to say things he never actually did [^kietzmann2020]. At the core of deepfake technology is the GAN, first introduced by Ian Goodfellow in 2014. These networks operate through a competitive process: one AI (the generator) creates fake media, while another AI (the discriminator) tries to detect it. As they continuously challenge each other, the generator improves and produces convincing results [^farid2022]. 
 
