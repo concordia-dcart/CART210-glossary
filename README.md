@@ -120,7 +120,7 @@ So far, you have just uploaded your image to the repository. To be displayed, th
 
 For example, if I want to display the image I made for the keyword `virtual-environment`, I will add the following line to the file `virtual-environment.md` located inside the `keywords` folder:
 
-```![Virtual environment](images/virtualenvironment-vigliensoni.png)```
+```![Virtual environment](/images/virtualenvironment-vigliensoni.png)```
 
 > [!NOTE]  
 > Please note that the relative link above does not indicate the previous folder (as in `../images`). This is correct. GitHub considers the root folder of the repository by default. You may not see the file in your keyword file, but it will render fine in the glossary file.
