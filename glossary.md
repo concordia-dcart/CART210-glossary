@@ -10,7 +10,7 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-### Affordance (affordances)
+## Affordance
 
 A possibility or set of possibilities for interaction and the effectuation of change given the current state of a system. The visible field of possibility. Some examples include the possible moves a given chess piece can perform given the rules that govern it and the game-state of the board, and the navigation buttons available on a digital interface.
 
