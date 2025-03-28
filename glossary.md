@@ -1678,7 +1678,7 @@ as well as the fact that it is less important for these visual media to be pixel
 
 Due to the nature of this course, we will primarily be focussing on the nature and history of said internet memes.
 
-## History of Memes
+### History
 
 There is no way to definitely prove what the first internet meme was. However, most scholars agree that this was likely the first *meme*. 
 
