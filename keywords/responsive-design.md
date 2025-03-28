@@ -7,10 +7,10 @@ The technique automatically adjusts the components displayed on the web page to 
 Responsive design helps users have a seamless browsing experience on a web page. This practice prioritizes user experience by changing the placements of elements on a webpage in response to the screen size. It remains a very accessible and usability-friendly practice. Responsiveness enforces affordance practices by allowing users to view the same website on different devices and still perform intended actions through different approaches. Responsive web design optimizes the user experience [^W3SchoolsRWD].
 The RWD technique is innovative and has changed the history of web development for the better. 
 
-Most websites hosted online follow responsive design best practices.
-Here are two examples: https://github.com and https://google.com.
+Most websites hosted online follow responsive design best practices. Here are two examples: https://github.com and https://google.com.
 
-![Responsive Design](images/responsive-design-bodika.png) [^imageRWD]
+![Responsive Design](/images/responsive-design-bodika.png) 
+
 [^GardnerRWD]: Gardner, Brett S. 2011. "Responsive Web Design: Enriching the User Experience." Web Design Blog 11 (1): 15. https://www.webdesignblog.gr/wp-content/uploads/2012/03/5.pdf#page=15.
 [^NebelingRWD]: Nebeling, M., Norrie, M.C. (2013). Responsive Design and Development: Methods, Technologies and Current Issues. In: Daniel, F., Dolog, P., Li, Q. (eds) Web Engineering. ICWE 2013. Lecture Notes in Computer Science, vol 7977. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-39200-9_47
 [^W3SchoolsRWD]: W3Schools. 2024. "HTML Responsive Web Design." W3Schools. Accessed March 1, 2025. https://www.w3schools.com/html/html_responsive.asp.
