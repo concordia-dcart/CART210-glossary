@@ -100,7 +100,7 @@ API is valuable for business due to its ability to connect many people to commun
 
 An API when it comes to new media is significant as it can allow the user to be able to reach a lot of people across the world when the API is used by other people through the internet. When it comes new media, if an artist wants to reach more people to view and support their work, they will purchase and use an API service to reach other people globally.
 
-
+![api](images/API_emmabeldick.png)
 
 
 [^simon]: Simon, Jean Paul. 2021. “APIs, the Glue Under the Hood. Looking for the ‘API Economy.’” Digital Policy Regulation and Governance 23 (5): 489–508. @article https://doi.org/10.1108/dprg-10-2020-0147.
@@ -450,6 +450,37 @@ publication is not legally viable, and even the GNU website is copyrighted under
 [^SCIDIR]: Benkler, Y., W.M. Cohen, N. Harabi, A.W. Branscomb, P. Dasgupta, P.B. De Laat, D.G. Johnson, and L. Lessig. “Copyright or Copyleft?: An Analysis of Property Regimes for Software 
 Development.” *Research Policy - Science Direct*, September 22, 2005. https://www.sciencedirect.com/science/article/pii/S0048733305001484. 
 
+**Creative Commons** 
+
+  Creative commons was crafted by a law professor at Stanford University named Lawrence Lessig and others which aren't mentioned by name in December
+  of 2002 which provides a set of copyright licenses which is free for public use. A website was created called Creative Commons (creativecommons.org) where a creator who wants to publish their work can select what license they want to use
+  and she can chose to retain her copyright of her work but allow other people to use her work without permission and without payment as long as they credit her for the original work. [^Kim]
+
+  A study was created to examine whether Creative Commons can resolve the conflict surrounding copyright laws in the digital era.
+  there's further explanation of the study as "that framework posits that there are two competing visions of the fundamentals of copyright law: a "private property" vision and a "public property vision.""[^Kim] When it comes to private property vision
+  is the belief that artist should have full ownership over their work and that its the private interest of authors who created original works deserve to have property rights over their work. As for public property vision is that "those who note that copyright has historically developed as society's grant of a limited 
+  monopoly and who think that the rights of authors must be weighted against the freedom of everyone else to use the copyrighted work."[^Kim] The role of copyright as a matter of public policy that aims to achieve a balance between private interests and public interests.
+
+  *What is Creative Commons?*
+  
+  Creative Commons is a "suite of copyright-based licenses defining terms for the distribution and re-use of creative works." [^Hagedorn,Mietchen,Morris,Agosti,Penev,Berendsohn,Hobern] Creative Commons provides licenses for different use cases and includes open content license such as the Attribution License (e.g. CC BY, used by many open access scientific publishers), and the Attribution Share Alike license(CC BY-SA which is used by Wikipedia). 
+  The license suite also contains non-free and non-open lcienses like those containing a "non-commercial" which in short is referred to as NC condition. When providing background information from studies created by professors, CC licenses in general, and how there are advantages, disadvantages.
+
+  *Creative Commons and New Media*
+
+  When it comes to Creative Commons in New Media, institues have adopted Creative Commons Licenses for their content. For example, nphoto.net and bababian.com are both presenting their web pages with photographic works licensed under a local Creative Commons licensed and many more individual photographers are choosing CC as their licensing regimen of their choice. 
+"Creative Commons licenses are commonly ised in new media and the internet. The internet media, for example social networking sites, user geenrated sites {...} all have distinct features such as openess, sharing, re-usability and unification of interests of authors and users."[^Wang]
+And emphasizes that a participative culture or a 'read-write culture', as dinstiguished from the traditional 'read-only culture'.
+Creative Commons has become an effective alternative to copyright. One of the impportant aims of CC is "to build a free and extensive infrastructure at the content layer that enables freedoms that many different Web 2.0 creative projects require."[^Wang]
+
+![creative commons](images/creative-commons_emmabeldick.png)
+Prompt used on ChatGPT: create image for creative commons, concept visual, have it more towards new media.  
+
+
+[^Kim]: Minjeong Kim.2007. *The Creative Commons and copyright protection in the digital era: Uses of Creative Commons licenses*.Journal of computer-mediated communication:187-209.https://academic.oup.com/jcmc/article-abstract/13/1/187/4583060
+[^Hagedorn,Mietchen,Morris,Agosti,Penev,Berendsohn,Hobern]: Gregor Hagedorn, Daniel Mietchen, Robert A. Morris, Donat Agosti, Lyubomir Penev, Walter G. Berendsohn, Donald Hober.2011. *Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information*.Zookeys. https://pmc.ncbi.nlm.nih.gov/articles/PMC3234435/
+[^Wang]: Chunyan Wang.2008.*Creative commons license: an alternative solution to copyright in the new media arena*. Syndney University Press https://core.ac.uk/download/pdf/41231144.pdf
+
 ## Crowdsourcing
 
 Crowdsourcing can be defined by the process of collecting work, data, and opinions from a big, often anonymous group, typically through the Internet. [^hargrave24crowdsourcing] It diverges from traditional outsourcing because the task is assigned to an undefined crowd instead of a pre-selected person or group. [^lebraty13crowdsourcing] 
@@ -686,6 +717,29 @@ Cyberspace is new representation of the physical world. It contains its own new 
 Image credits:
 - Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
 - fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
+
+**Data Mining**
+Data mining is described as a “involves the use of sophisticated data analysis tools to discover previous unknown, valid patterns and relationships in large data sets”[^Seifert] and that data mining tools have different models such as statistical models, mathematical algorithms, and machine learning methods. Data mining doesn’t just consist of collecting and managing data, but it also includes analysis and predictions. 
+
+Data mining is used for a various of purpose whether it would be private or public sectors. Data mining is used in banking, insurance, medicine and retailing to reduce costs, enhance research and increase sales. There are examples of data mining being used such as in banks, to detect fraud and assist in risk assessment and uses customer’s data to learn about if they are in good credit scoring or if it will detect any fraudulent insurance claims.[^Seifert]
+
+Data mining is considered a “powerful artificial intelligence (AI) tool which can discover useful information by analyzing data from many angles or dimensions, categorizing that information and summarize the relationship identified in the database”[Algarni]  one of the main process used in data mining is knowledge discovery which is essentially “a process of nontrivial extraction of implicit, unknown and potential information from a large database.”[^Algarni] it is considered to be the most interactive process and examines many decisions made by the user.
+
+When it comes to the influence of data mining in digital culture and society, it’s important to know that data mining is everywhere, it is used on social media such as sending twitter (now X) post on the website, humidity of shipping crates which in studies of a lot of data accumulated is equivalent to a zettabyte of data or sextillion bytes and growing. There is new analytical knowledge driven by accompanying forms of data mining and analytics. One of the most important parts of data mining and digital culture is “these companies and their analytic methods promise to help us gain insight into public opinion, mood, networks, behaviour patterns and relationship”[^Andrejevic,Hearn,andKennedy] as for socially it is also mentioned how “Data analytics involve far more than target advertising, however; they envision new strategies for forecasting, targeting and decision-making in a growing range of social realms, such as marketing, employment, education, health care, policing, urban planning and epidemiology.”[^Andrejevic,Hearn,andKennedy] 
+
+However, there are important role to play in considering the social and political consequence of data mining and analytics.  There is knowledge of “when every move we make online is tracked by privately owned corporations and the state, advertisements follow us around in material retail spaces, and even our sleep patterns become fodder for self-tracking (to gain ‘self-knowledge’) {…} by approaching them solely as communication media.”[^Andrejevic,Hearn,andKennedy]
+
+Data mining is significant in new media as it allows companies, the internet to collect data that you have grown accustomed to and use it to advertise or push products to the user online or in person.  It is something very evident online of seeing advertisements of a product of any sort to try to elicit you to engage in it more.
+
+
+[^Seifert]: Seifert, Jeffrey W. 2004._National security issues_. Google Scholar: 201-217.
+[^Algarni]: Algarni, Abdulmohsen.2016._Data mining in education_. International Journal of Advance Computer Science and Applications: 456-461.
+[^Andrejevic,Hearn,andKennedy]: Andrejevic Mark, Hearn Alison, Kennedy Helen.2015._Cultural studies of data mining: Introduction_. European Journal of Cultural Studies: 379-394.
+
+
+
+ 
+
 
 ## Dataset 
 
