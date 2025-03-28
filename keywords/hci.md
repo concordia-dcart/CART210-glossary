@@ -31,7 +31,4 @@ The following diagram illustrates the three paradigms of Human-Computer Interact
   
 ![Non-chronological_Concepts of the Three HCI Paradigms - Claude](https://github.com/user-attachments/assets/09ad9eaf-0c1d-46b4-93df-d63bfc8260f0)
 
----
-- Harrison, Steve R., Deborah Tatar, and Phoebe Sengers. "The Three Paradigms of HCI." In Proceedings of CHI 2007 Workshop: Exploring Design as a Research Activity, 1-18. San Jose, California: ACM Press, 2007.
-- Carroll, John M. "Human Computer Interaction - Brief Intro." In Encyclopedia of Human-Computer Interaction, edited by Mads Soegaard and Rikke Friis Dam. Aarhus, Denmark: The Interaction Design Foundation, 2009.
-- Manovich, Lev. The Language of New Media. Cambridge, MA: MIT Press, 2001.
+
