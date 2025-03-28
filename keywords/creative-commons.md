@@ -1,4 +1,4 @@
-**Creative Commons** 
+## Creative Commons
 
   Creative commons was crafted by a law professor at Stanford University named Lawrence Lessig and others which aren't mentioned by name in December
   of 2002 which provides a set of copyright licenses which is free for public use. A website was created called Creative Commons (creativecommons.org) where a creator who wants to publish their work can select what license they want to use
