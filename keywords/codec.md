@@ -1,3 +1,5 @@
+## Codec
+
 A Codec stands for coder/decoder. Its job is to compress and/or decompress files like video or audio.[^microsoft] 
 Common codecs we use in our everyday lives are the MPEG series so [MP3](../main/glossary.md#mp3), MP4, as well as Quicktime 
 (for Apple users out there).[^internetManagement]Codecs have been developed by multiple different companies and groups 
