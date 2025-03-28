@@ -10,6 +10,40 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## Fan/Fandom
+
+The idea of groups of individuals bonding over a shared interest and/or support of something (whether this be music, a sports team, or virtually anything else) and then creating what is almost their own cultures around said media, seems almost instinctual. Individuals within these spaces are ‘fans’, whereas the social contexts they exist within are often referred to as ‘fandoms’. However now these terms are most often associated with fan spaces surrounding music and media such as movies and TV series. Francesca Copa explains in her essay “A Brief History of Media of Media Fandom”, that the shift from mostly sports to media happened in the 1960s, with Star Trek in 1966 being widely regarded as the first media fandom [^Coppa43]. Although some might perceive these spaces as being frivolous distractions from everyday life, they are often also attributed with fostering environments that support a particularly strong sense of creative expression, community and identity. In fact, one of the most popular forms of medias to come out of ‘fandom’ spaces is the ‘fanzine’, a non-profit, often volunteer-based collection of articles, artwork and other fan-created content in the form of a magazine for other fans [^Güldenpfennig5]. This is just one example of the culture that develops in these spaces, where labour is most often rewarded only with the satisfaction of being part of the community. This sense of identity sometimes goes even further, as is explained in “Teenagers, fandom and identity” from Persona Studies, “the process of identity construction takes place in the framework of a community; [...] it is inseparable from the interaction of the self with others [..] and [...] the celebrity persona. [^LacasaFuentGarciaPerniaCortes53]. Because of the unique levels of dedication and passion associated with the ‘fandom’ culture we know today, it is important to hold it in high importance when having conversations on modern culture, youth and counterculture. Furthermore, social media has only skyrocketed the amount of information that can be shared and circulated within these fan spaces, creating enhanced sense of community as well as community discourse. As online spaces continue to develop, so will fan spaces. These developments will have major impacts (for better or for worse) on the youths who interact within these spaces within the context of  contemporary social platforms, misinformation and exposure.
+
+![Fan+Fandom](images/Fandom-Axiuk.png)
+*Tool: [DALL-E through Microsoft Copilot]([https://stablediffusionweb.com](https://copilot.microsoft.com/chats/RL7FcKmpTy5EY5XCPMsuy)). Prompt: “a group of people feeling connected through their shared love of a band”*
+
+
+
+[^Coppa43]: Coppa, Francesca, 2006.  “A Brief History of Media Fandom.” Essay. In Fan Fiction and Fan Communities in the Age of the Internet: New Essays, 41–55. Jeffersen, North Carolina: McFarland.
+
+[^Güldenpfennig5]: Güldenpfennig, Peter, 2011. “Fandom, Fan Fiction and the Creative Mind”. Tilburg University, Netherlands.
+
+
+[^LacasaFuentGarciaPerniaCortes53]:Lacasa, Pilar, Julian de la Fuente, Maria Garcia-Pernia, and Sara Cortes, 2017. “Teenagers, Fandom and Identity.” Persona Studies 3, no. 2 : 51–65. https://search.informit.org/doi/10.3316/informit.956274108483142.
+
+## Software
+
+Various softwares have become an indispensable factor of our everyday lives, being the driving force behind everything from how we communicate to how one may monitor their fitness progress. ‘Software’ itself refers to the general concept of operating information that a computer may use in order to execute tasks, such as computer programs. Some examples include databases like Microsoft SQL or Oracle Database, search engines like Google Chrome or Explorer and word processors including Microsoft Word. However, it is often easy to think of ‘software’ as a product that is simply meant to be bought and used when “With Microsoft’s rise to dominance in the software industry, it’s easy to think of software primarily as a product, something that is developed, packaged, and sold.In fact, shrinkwrapped PC applications represent only a small fraction of the total software in use,” [^OReilly34]. Open-source softwares are an incredibly significant portion of the software industry, as they allow for experimentation and collaboration between software engineers that can lead to important developments in order to keep up with our ever-quickening technological world. Barry Boehm states that these developments are ever increasing both due to “Gordon Moore’s Law (transistor and integrated circuit density and performance doubles roughly every 18 months), plus the continuing need for product differentiation and tornado like processes for new technology introduction [Geoffrey Moore, 1995]. Global connectivity also accelerates the ripple effects of technology, marketplace, and technology changes” [^Boehm5]. Moreover, there are far more areas of software development that are affected by technological advancements in order to keep up. As Meir Lehman and Juan C. Fernandez-Ramil explain in  Software Evolution and Feedback: Theory and Practice “Evolution phenomena in software-related domains are not confined to programs and related artefacts such as specifications, designs and documentation. Applications, definitions, goals, paradigms, algorithms, languages, usage practices, the sub-processes and processes of software evolution and so on, also evolve” [^LehmanRamil14]. In order for software developers to keep up with our rapidly developing world, it is important to understand the various influences and considerations that go into producing an effective software product.
+
+
+
+
+
+
+
+
+
+[^Boehm5]: Boehm, Barry. 2005. Some Future Trends and Implications for Systems and Software Engineering Processes, Wiley InterScience, https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8cca145c899fd2a90b59fbcfaf025e6937ef3e3e
+ [^LehmanRamil14]: Madhavji, Nazim H. 2010. Juan Carlos Fernández Ramil, and Dewayne E. Perry. Software evolution and feedback: Theory and practice. Chichester, England: John Wiley & Sons.
+[^OReilly34]: O'Reilly, Tim. 1999. Lessons from open-source software development. Commun. ACM 42, 4 (April 1999), 32–37. https://doi.org/10.1145/299157.29916
+
+
+
 ### Affordance (affordances)
 
 A possibility or set of possibilities for interaction and the effectuation of change given the current state of a system. The visible field of possibility. Some examples include the possible moves a given chess piece can perform given the rules that govern it and the game-state of the board, and the navigation buttons available on a digital interface.
