@@ -1416,6 +1416,83 @@ The following diagram illustrates the three paradigms of Human-Computer Interact
 - Carroll, John M. "Human Computer Interaction - Brief Intro." In Encyclopedia of Human-Computer Interaction, edited by Mads Soegaard and Rikke Friis Dam. Aarhus, Denmark: The Interaction Design Foundation, 2009.
 - Manovich, Lev. The Language of New Media. Cambridge, MA: MIT Press, 2001.
 
+## HTML
+
+### Intro
+The HyperText Markup Language (HTML) is the building block of the web that constitutes the backbone of all web pages. It is accompanied by CSS (Cascading Style Sheets) and JavaScript (JS) as one of the core web technologies of the World Wide Web. Whilst CSS takes care of styling and JavaScript takes care of interactivity, HTML establishes the structure that holds everything together.[^ebersbach01html]
+
+HTML employs an element-based method of marking up content to arrange web content. Tags are what are used to mark different types of content like headings, paragraphs, images, links, and interactive elements like forms. HTML is one of the foundation web construction languages of the contemporary web and as such is the base language for any web applications or web-site construction. [^ebersbach02html] To a callback of the keyword "CSS" as the frosting of the cake web, HTML is consider the base of the cake of the web.
+
+
+### A Brief History of HTML
+HTML was developed in 1991 by Tim Berners-Lee as a way of formatting and linking web documents. HTML in the early days was not too complicated, with minimal tags for formatting the text and for linking one document to another. With the growth of the web came the growth of HTML.[^ebersbach01html]
+
+- **HTML 2.0 (1995):** The first standardized version, introduced basic form elements. [^ebersbach01html]
+- **HTML 3.2 (1997):** Brought table support and basic scripting.
+- **HTML 4.01 (1999):** Expanded capabilities with improved styling and multimedia support.
+- **XHTML (2000):** Introduced stricter syntax and compliance with XML rules.
+- **HTML5 (2014 - Present):** Revolutionized web development with native support for multimedia, semantic elements, and APIs for modern web applications.
+
+The most recent standard is HTML5, constantly updated to keep up with new web technologies and users' expectations. HTML has become essential for web platforms like Wikipedia and Google Docs applications where web-based interfaces and structured content are defining modern digital experiences. [^ebersbach03html]
+
+
+### How to Structure HTML
+At its core, an HTML document follows a standard structure:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Webpage</title>
+  </head>
+  <body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple paragraph.</p>
+  </body>
+</html>
+```
+
+
+#### Breaking It Down
+- **`<!DOCTYPE html>`**: Declares the document type and version of HTML.
+- **`<html>`**: The root element that wraps all content.
+- **`<head>`**: Contains metadata like the page title and linked stylesheets.
+- **`<title>`**: Sets the page title visible in the browser tab.
+- **`<body>`**: Holds the visible content of the webpage.
+- **`<h1>` and `<p>`**: Define a heading and a paragraph.
+
+
+
+### Real-World Example: The Rise of Blogging Platforms
+One significant impact of HTML has been its role in the rise of blogging platforms. Early platforms like **Blogger (1999)** and **WordPress (2003)** utilized HTML to structure user-generated content, allowing people with little to no coding knowledge to publish their thoughts online. These platforms made use of HTML elements such as `<h1>` for post titles, `<p>` for paragraphs, and `<img>` for embedding images, making web publishing accessible to a broader audience. The growth of blogging significantly influenced digital journalism, online marketing, and social media platforms. [^ebersbach05html]
+
+
+
+### HTML and CSS: Connecting the Dots
+While HTML structures content, CSS is used to style it. You can link an external CSS file to an HTML document using the `<link>` tag within the `<head>` section:
+
+```html
+<head>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+```
+
+This method ensures a clean separation between structure and design, making it easier to maintain and update web pages. [^ebersbach04html]
+
+
+
+
+[^ebersbach01html]: Berners-Lee, Tim. 1991. *[WorldWideWeb: Proposal for a HyperText Project](https://www.w3.org/History/1991-WWW-NeXT/)*. Accessed January 21, 2025.  
+[^ebersbach02html]: Duckett, Jon. 2011. *HTML & CSS: Design and Build Websites*. Indianapolis: Wiley, pp. 23-45.  
+[^ebersbach03html]: Meyer, Eric. 2018. *HTML5 for Web Designers*. Sebastopol, CA: O'Reilly Media, pp. 78-102.  
+[^ebersbach04html]: Krug, Steve. 2020. *Don't Make Me Think, Revisited*. 3rd ed. Berkeley: New Riders, pp. 12-30.  
+[^ebersbach05html]: Blood, Rebecca. 2002. *The Weblog Handbook: Practical Advice on Creating and Maintaining Your Blog*. Cambridge, MA: Perseus Publishing.  
+
+
+
+![HTML](images/html_ai.png) 
+Caption: Used ChatGPT, prompt: Create an image that represents html
+
 ## HTTPS
 
 **HTTPS (Hypertext Transfer Protocol Secure)** is an extension of **HTTP (Hypertext Transfer Protocol)** that uses encryption to secure data exchanged between a user's browser and a web server. Through **SSL/TLS** protocols, it ensures data confidentiality, integrity, and authentication.
@@ -1522,6 +1599,31 @@ Although image recognition has proven useful, it also provides a couple of new c
 [^krizhevsky17imagenet]: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2017. “_ImageNet Classification with Deep Convolutional Neural Networks_.” Communications of the ACM 60 (6): 84–90. https://doi.org/10.1145/3065386.
 
 
+
+## Immersion
+
+### What is it?
+Immersion is a key concept in new media and interactive experiences. It refers to the sensation of a person being enveloped in a digital space or virtual environment. It is often described as the user's presence in a mediated space, frequently observed in virtual reality (VR), augmented reality (AR), and interactive storytelling.
+
+
+### The history
+
+The concept of immersion can be traced back to early forms of media. Specifically, 19th-century devices such as the **Panorama** and **Peep Show** aimed to modernize passive spectatorship by engaging audiences with vast visual spectacles in controlled environments. According to Jonathan Crary's analysis: "It is a new isolated consumer of a mass-produced commodity"[^ebersbach01immersion]. 
+Crary argues that it is valuable to emphasize the continuity between immersive experiences today and those from 150 years agoo[^ebersbach01immersion]. 
+Thanks to the ealier devices of the sens fo depth and realism, it had evolve to the development of VR headset, haptic feedback systems and spatial audio.
+
+An early theory discussion by Janet Murray describe it as the experience of being transported into a digital narritve[^ebersbach02immersion]. Later, Mel Slater and Sylvia Wilbur distinguished betweem i,mersion and precence as the subjective feeling of bneing "inside" a virtual world[^ebersbach03immersion].
+
+### How is it holding in Media Pratices
+
+Immersion plays a central role in contemporary digital life in everything from video games and virtual reality simulation to interactive theater and narrative mediated by artificial intelligence. Immersive experience in video games is achieved through fidelity-rich visuals, physics engines that react to players' actions, and diegetic sound. Immersive installations in film and digital art rely on 360-degree projection, spatial audio, and interactive elements that react to movement.
+In human-computer interaction, immersion is typically synonymous with flow theory of Csikszentmihalyi[^ebersbach04immersion] in that users are completely absorbed in an experience since it is so well designed and so captivating.
+
+
+[^ebersbach01immersion]: Crary, Jonathan. 2002. "Géricault, the Panorama, and Sites of Reality in the Early Nineteenth Century." *Grey Room*, no. 9: 7–8.
+[^ebersbach02immersion]: Murray, Janet H. 1997. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Cambridge, MA: MIT Press, 97.
+[^ebersbach03immersion]:  Slater, Mel, and Sylvia Wilbur. 1997. "A Framework for Immersive Virtual Environments (FIVE): Speculations on the Role of Presence in Virtual Environments." *Presence: Teleoperators and Virtual Environments* 6 (6): 603–16.
+[^ebersbach04immersion]:  Csíkszentmihályi, Mihály. 1990. *Flow: The Psychology of Optimal Experience*. New York: Harper & Row.
 
 ![Immersion](images/immersion-hubert.png)
 
