@@ -3118,7 +3118,7 @@ The influence of surveillance capitalism extends beyond targeted ads as it affec
 
 Additionally, surveillance capitalism normalizes a world where privacy is no longer a given. The increasing integration of smart devices, IoT technology, and AI-driven systems means that more aspects of human life are being recorded and monetized [^techtarget]. According to Zuboff, this shift risks our fundamental rights, as people lose control over their digital lives [^techtarget]. Understanding and addressing surveillance capitalism is essential for shaping a more ethical digital future.
 
-![Surveillance Capitalism](images/surveillancecapitalism-chakrabarty.png)
+![Surveillance Capitalism](/images/surveillancecapitalism-chakrabarty.png)
 
 Prompt: can you give me an image that represents the essence of surveillance capitalism
 
