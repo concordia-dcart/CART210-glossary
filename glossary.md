@@ -2027,7 +2027,7 @@ Furthermore, **e-commerce and forum-based websites** benefit from PHP’s capabi
 
 In conclusion, PHP remains a foundational technology in new media, driving the interactivity and functionality of modern websites and digital platforms. Its versatility, efficiency, and database compatibility make it a preferred choice for developers looking to create engaging online experiences. As new media evolves, PHP’s role in shaping the digital landscape will likely persist, ensuring dynamic and interactive web applications for users worldwide.
 
-![PHP](images/PHP.jpg)
+![PHP](images/PHP.png)
 
 [^amanatidis16php]: Amanatidis, Theodoros, and Alexander Chatzigeorgiou. 2016. “Studying the Evolution of PHP Web Applications.” _Information and Software Technology_ 72 (April 1): 48–67. https://doi.org/10.1016/j.infsof.2015.11.009.  
 
