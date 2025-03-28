@@ -27,8 +27,8 @@ QR Code Ticket uses QR code technology to function as an electronic ticket. This
 #### Supply chain management 
 QR codes can be used in supply chain management to provide digital identification for products, goods, equipment, or documents, making data collection, tracking, management, and sharing more convenient and efficient. In terms of security features, QR codes have characteristics such as data immutability, fair and secure access, total transparency, enhanced traceability, and real-time validation.[^AICCSA2023Munir]
 
-### Example
-![qr-code](images/qr-code-example.png)[^researchG2013ruil]
+
+![qr-code](/images/qr-code-example.png)[^researchG2013ruil]
 
 
 [^wiki25Denso]: Wikipedia. 2025. "Denso." last modified on 7 February 2025. https://en.wikipedia.org/wiki/Denso.
