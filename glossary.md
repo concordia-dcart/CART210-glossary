@@ -477,6 +477,8 @@ shared effectively and in ways that are beneficial to like-minded creators. The 
 foot, is a common trend amongst innovations, and could continue to happen with new tools and methods, such as LLM's and AI tools. How these tools will follow this trend is unclear to us at the 
 moment, but there's no doubt that due to their volatile nature, they should be treated with caution and regulated in the same way copyright has been. 
 
+![Copyright](/images/copyright.jpg)
+
 [^UPENN]: Gorman, Robert A. “Essay: An Overview of the Copyright Act of 1976.” Essay. In *University of Pennsylvania Law Review* 126, 126:856–86. LibGuide, 1978. https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/pnlr126&id=868&men_tab=srchresults. 
 [^CASE]: Joyce, Craig. “Chapter 1: The Landscape of Copyright (Introduction).” Essay. In *Copyright Law: Sixth Edition*, 1–26. Lexis Nexis, 2003. https://case.edu/affil/sce/authorship/Joyce-part1.pdf. 
 [^GNU]: Stallman, Richard. "The GNU Manifesto - GNU Project - Free Software Foundation.” *GNU Operating System*, 1996. https://www.gnu.org/gnu/manifesto.en.html.
