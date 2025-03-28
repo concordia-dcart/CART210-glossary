@@ -129,11 +129,11 @@ As AR technology continues to evolve, the possibilities for how it can be applie
 
 [^Doerner22AR]: Doerner, Ralf, Wolfgang Broll, Paul Grimm, and Bernhard Jung, eds. 2022. Virtual and Augmented Reality (VR/AR): Foundations and Methods of Extended Realities (XR). Cham Switzerland: Springer.
 
-## Artifical Life
+## Artificial Life
 When discussing artificial life (ALife), many people often confuse it with artificial intelligence (AI). 
 While the two fields are closely related, they are fundamentally distinct areas of study. The study of artificial 
 life is a scientific exploration of the fundamentals of life and the construction of “living systems” through hardware
-or software. In contrast, artificial intelligence focuses on mimicking intelligent behavior, such as learning, reasoning, 
+or software. In contrast, artificial intelligence focuses on mimicking intelligent behaviour, such as learning, reasoning, 
 and decision-making, to perform tasks that typically require human cognition.[^Gardient19Intro]
 
 The foundation of ALife was first formally introduced in 1987 by computer scientist Christopher Langton at the first workshop
