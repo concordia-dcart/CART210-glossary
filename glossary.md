@@ -296,6 +296,27 @@ Image taken from these sources[^brain][^waves][^eeg].
 [^waves]: Sirven, Joseph I. and Steven C. Schachter, 2013. "infect_2-s_0.gif". Epilepsy Foundation. August 22nd. https://www.epilepsy.com/sites/default/files/inline-images/infect_2_s_0.gif
 [^eeg]: Unknown Author, 2016. "eeg-2.jpg". AdaFruit Blog. August 31st. https://cdn-blog.adafruit.com/uploads/2016/08/eeg-2.jpg 
 
+## Cloud Computing
+
+Cloud computing touches on the delivery of computing services through the internet. These services include storage, databases, networking, servers, software and analytics. Before cloud computing, the only way to access these resources is through physical hardware and computers. With cloud computing, users can enjoy a fast and flexible experience with these services without the need of any physical components. Although cloud computing offers versatility and adaptability, it uses a pay-as-you-go model that lets the user pay a fixed amount depending on their usage of the product. [^mell2011]
+
+Key characteristics of cloud computing includes: 
+-	Self-service: Users can use these services without the need of any human interaction.
+-	Accessibility: Users can access these services through various devices.
+-	Monitored data: Statistics are consistently monitored 
+-	Resource allocation: Everything is much more efficient and cost effective since these resources are only activated for you when it is being used. When the user is done with the service, it is pulled away. [^mell2011]
+
+Types of Cloud Computing Models:
+-	Infrastructure as a Service (IaaS): Like Amazon Web Services (AWS) EC2, these services give users access to virtual versions of hardware like networks etc. Like renting a computer instead of owning a physical hardware. [^armbrust2010]
+-	Software as a Service (SaaS): Services such as Microsoft 365 is part of SaaS. This is a software delivery structure that allows user to interact with applications remotely through their web browser. Mostly on a subscription plan, these services give user the freedom to use their applications without having to download them directly onto to their computers. [^buyya2013]
+-	Platform as a Service (PaaS): Like Google App Engine, these services grants users the ability to build, run and manage applications without the having to own their own hardware. [^buyya2013]
+
+Cloud computing plays an important role in new media in the form of on-demand streaming services such as Youtube, Netflix, Disney Plus and many more. Applications like Instagram gives people the opportunity to upload, store and share media effortlessly.
+
+[^buyya2013]: Buyya, Rajkumar, Christian Vecchiola, and S. Thamarai Selvi. 2013. _Mastering Cloud Computing: Foundations and Applications Programming_. Burlington, MA: Morgan Kaufmann. https://books.google.ca/books?hl=en&lr=&id=wqKkqHJhPJQC&oi=fnd&pg=PP1&dq=Mastering+Cloud+Computing:+Foundations+and+Applications+Programming&ots=jmRLGzoW3Y&sig=NikQkmuoseYt66dpUyUzSMrWsBs#v=onepage&q&f=false
+[^mell2011]: Mell, Peter, and Timothy Grance. 2011. _The NIST Definition of Cloud Computing. Gaithersburg, MD: National Institute of Standards and Technology_. https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
+[^armbrust2010]: Armbrust, Michael, Armando Fox, Rean Griffith, Anthony D. Joseph, Randy Katz, Andy Konwinski, and Matei Zaharia. 2010. "_A View of Cloud Computing." Communications of the ACM_ 53 (4): 50-58. https://dl.acm.org/doi/fullHtml/10.1145/1721654.1721672
+
 ## CMYK
 CMYK colorspace stands for "Cyan, Magenta, Yellow and Black(K)" colorspace. This type of colorspace is considered a "substractive" color model, due to colors being displayed via absorbtion (substraction) of the colors of the light. Each main color absorbs a different color of light: cyan absorbig red, magenta absorbing green, and yellow absorbing blue.[^westland23cmyk] It is for this reason that mixing two base colors of the CMYK system will result in one of the primary colors of the RGB colorspace. By removing two of the three colors of the light, you only have one pure color left. For example, by mixing yellow and magenta, we remove both green and blue, leaving us with red. CYMK is mostly used in printing.
 In terms of color mixing, the CYMK, due to it's substractive nature, will mix both wavelenghts and keep the lowest points of the clash of the two waves. In comparison, RGB, with its additive mixing, will keep the high points of the waves. [^lee08theevolution]
@@ -1433,6 +1454,38 @@ The Internet Engineering Task Force (IETF) and the Organization for the Advancem
 
 [^cameron]: Cameron, Kim. 2005. "The Laws of Identity." Microsoft Corporation. https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf.
 
+## Image Recognition 
+
+Image recognition is a part of artificial intelligence (AI) and computer vision. It’s goal is to focus on identifying objects, patterns, spaces or scenes in images to further categorize them. These image recognition technologies are used in security, e-commerce, smart vehicles and healthcare. For the technologies to be successful in what it does it must rely on deep learning (DL), especially convolutional neural networks (CNNs). Because of DL and CNN, image recognition models have greatly improved in terms of efficiency and accuracy. [^krizhevsky17imagenet]
+
+There are multiple steps in the process of image recognition for a machine to recognize and categorize images.
+1.	Collection & Preprocessing of data: Large datasets such as ImageNet or Coco are used for training and testing machine learning models. In order to improve recognition accuracy, preprocessing techniques such as image normalization, noise reduction, and resizing are put into use. [^rawat17deep]
+2.	Extraction: Unlike traditional methods where image recognition would rely on handcrafted features, deep learning automatically learns from raw data. This data could be the edges, textures, or shapes of an object in order to distinguish them from others.[^rawat17deep]
+3.	Model training: CNNs learn from labeled images to recognize different objects more accurately. [^he16residual]
+4.	Classification: Once the model is trained, it is ready to analyze new images to extract and classify them in categories.[^krizhevsky17imagenet]
+Deep Learning in Image Recognition
+Deep learning, particularly CNNs, have pushed image recognition higher than ever, surpassing traditional learning machines. CNNs automatically learns patterns from digital images to improve accuracy [^rawat17deep]. One of the key models was AlexNet (2012) which demonstrates the effectiveness of CNNs in large-scale image classification. [^krizhevsky17imagenet]
+
+
+Usage
+Image recognition is becoming more and more used in our everyday wolrd.
+1.	Facial recognition & security
+Facial recognition is used to verify identities, detecting facial features in real time to provide security and privacy. These features can be found in smartphones, surveillance cameras, or various authentication process [^rawat17deep].
+2.	Medical & healthcare
+Image recognition is also used in healthcare (X-rays, MRIs and CT scans) to help in the diagnosis of diseases. Deep learning-based models have become more and more advanced allowing it to have high accuracy in determining skin cancer and other conditions through images. [^he16residual] 
+3.	Smart Vehicles 
+Self-driving cars uses image recognition to detect any incoming elements. Pedestrians, traffic signals, lane markers, stops signs and obstacles such as bumps are all detected by these smart vehicles. The KITTI dataset is commonly used to train deep learning models for self-driving.[^krizhevsky17imagenet]
+
+Challenges
+Although image recognition has proven useful, it also provides a couple of new challenges. One of them is about ethical concerns. Image recognition could sometime provide inaccurate predictions through biases from datasets. These inaccuracies are mostly evident in facial recognition and medical diagnosis [^rawat17deep].
+
+References:
+[^rawat17deep]: Rawat, Waseem, and Zenghui Wang. “_Deep Convolutional Neural Networks for Image Classification: A Comprehensive Review_.” Neural Computation, vol. 29, no. 9, 2017, pp. 2352–449, https://doi.org/10.1162/neco_a_00990.
+[^he16residual]: He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. “_Deep Residual Learning for Image Recognition_.” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–78. 
+[^krizhevsky17imagenet]: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2017. “_ImageNet Classification with Deep Convolutional Neural Networks_.” Communications of the ACM 60 (6): 84–90. https://doi.org/10.1145/3065386.
+
+
+
 ![Immersion](images/immersion-hubert.png)
 
 
@@ -2121,6 +2174,24 @@ The idea for NFTs became popular when ERC-721 standard on the Ethereum blockchai
 [^aisnet.org]: Regner, Ferdinand, André Schweizer, and Nils Urbach. “_NFTs in Practice – Non-Fungible Tokens as Core Component of a Blockchain-Based Event Ticketing Application._” In _Proceedings of the 40th International Conference on Information Systems (ICIS)_, Munich: Association for Information Systems, 2019. (https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/1/).  
 [^wsj.com]: Zimmer, Ben. “_'Fungible': The Idea in the Middle of the NFT Sensation._” The Wall Street Journal, April 16, 2021. (https://www.wsj.com/articles/fungible-the-idea-in-the-middle-of-the-nft-sensation-11618595061).  
 [^chat.openai.com]: ChatGPT. Response to “_Fix my spelling mistakes and make it read more professional,_” March 8, 2025. (https://chat.openai.com).  
+
+
+Object recognition is a subgenre of computer vision and artificial intelligence (AI) that allows machines to analyse, identify and classify objects through various media types such as images or videos. The process relies on deep learning models such as CNNs, convolutional neural networks, to detect objects with high accuracy [^Zhao2019]. Object recognition is regularly used in autonomous vehicules, security systems, and medical machines. [^Jiao2019] 
+
+Process
+1-	Image Preprocessing: To improve the quality of the image, it will be using techniques such as noise reduction, contrast adjustments and resizing. [^Jiao2019]
+2-	Extraction: Once it locks on an object, the system then identifies the unique features of the objects such as edges, textures and shapes to classify. [^Zhao2019]
+3-	Model Training: Deep learning models such as YOLO or Faster R-CNN are trained using large datasets (COCO or ImageNet) in order to recognize object patterns. [^Liu2019]
+4-	Detection and classification: The trained model takes in the new images, processes them by detecting the object then assigning them into categoris based on probability-based classification techniques. [^Zhao2019]
+
+Real world use
+Many industries rely on object recognition. Autonomous vehicles for example would not exist without the implementation of object recognition. Slef-driving cars rely on object recognition to detect pedestrians, road signs, blockades and other vehicles in real-time. [^Zhao2019] Same goes for medical imaging. The technologies used in the medical field rely on object recognition to spot tumors, fractures and many more problems through X-Rays, MRIs and CT scans. [^Jiao2019] Surveillance systems uses facial and object recognition to enhance security. [^Jiao2019]
+
+Sources
+[^Zhao2019]: Zhao, Zhong-Qiu, Peng Zheng, Shou-Tao Xu, and Xindong Wu. 2019. “Object Detection with Deep Learning: A Review.” IEEE Transactions on Neural Networks and Learning Systems 30 (11): 3212–32. https://doi.org/10.1109/TNNLS.2018.2876865.
+[^Liu2019]: Liu, Li, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikäinen. 2019. “Deep Learning for Generic Object Detection: A Survey.” International Journal of Computer Vision 128 (2): 261–318. https://doi.org/10.1007/s11263-019-01247-4.
+[^Jiao2019]: Jiao, Licheng, Fan Zhang, Fang Liu, Shuyuan Yang, Lingling Li, Zhixi Feng, and Rong Qu. 2019. “A Survey of Deep Learning-Based Object Detection.” IEEE Access 7. https://doi.org/10.1109/ACCESS.2019.2939201.
+
 
 
 ## Online Community
