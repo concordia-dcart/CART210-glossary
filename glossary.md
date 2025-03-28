@@ -1592,7 +1592,7 @@ As network security evolves, new threats continue to emerge, requiring constant 
 [^maasaoui2022]: Maasaoui, Zineb, Anfal Hathah, Hasnae Bilil, Van Sy Mai, Abdella Battou, and Ahmed Ibath. 2022. “Network Security Traffic Analysis Platform - Design and Validation.” *IEEE International Conference on Computer Systems and Applications*.  
 [^cheng2010]: Cheng, X., and S.C.-H. Huang. 2010. “Security Protocols and Cryptography in Network Security.” *Springer Science+Business Media*.  
 
-## The Internet
+## Internet
 
 The Internet is a vast, decentralized network of interconnected computers that enables global communication, information sharing, and digital interaction. It is built on a foundation of standardized communication protocols, primarily the **Transmission Control Protocol/Internet Protocol (TCP/IP)**, which ensures the seamless exchange of data across diverse systems [^clark1988]. The Internet evolved from early research initiatives, notably the **ARPANET**, developed in the late 1960s to facilitate communication between academic and military institutions [^leiner2009]. Over time, it expanded into a ubiquitous infrastructure supporting a wide range of applications, from web browsing to cloud computing.  
 
