@@ -2,10 +2,6 @@
 
 *Meme* is an abstract form of communication usually allowing the transfer of information from one to the other. The term was first proposed by Richard Dawkins in his book, The Selfish Gene. Memes in their most common form are comedic internet items shared publicly on social spaces.
 
-Due to the nature of this course, we will primarily be focussing on the nature and history of said internet memes.
-
-### History
-
 There is no way to definitely prove what the first internet meme was. However, most scholars agree that this was likely the first *meme*. 
 
 :-)
@@ -60,7 +56,7 @@ As years go by, the percentage of people born after the internet and widespread 
 [Undertime Slopper](https://knowyourmeme.com/memes/sites/undertime-slopper)
 
 
-# Chinese Meme Culture
+### Chinese Meme Culture
 
 We cannot discuss internet meme culture without discussing Chinese Meme Culture. Modern Chinese culture is deeply tied to internet meme culture. Though not as thoroughly apparent to western society, china went through a visual renaissance[^poplin-china] with the use of memes. In china, memes are commonly spread with anti establishment and counter culture messaging. 
 
