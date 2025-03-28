@@ -471,7 +471,7 @@ In conclusion, the computer is not only central to the production of new media b
 [^computer2]: Hasanbekava, Dziana. 2021. _Serious man writing in notebook at table during work_.
 [^computer3]: Unknown. 2021. _Calculator on Black Surface_. Kindel Media.
 
-## Content Management System
+## Content Management System (CMS)
 A content management system (CMS) is software that enables users to create, manage, store, and modify digital content efficiently, often through a user-friendly interface. Typically, a CMS provides an all-in-one solution for creating, managing, storing, and publishing digital content, such as text, images, videos, and websites.[^IBMCMS2024] A CMS consists of two core components: the content management application (CMA), where content creators input, manage, and edit digital materials without needing technical expertise, and the content delivery application (CDA), which manages storage, retrieves content, and presents it to end-users. 
 
 Content management as a practice predates the web, originally emerging from needs within the technical documentation and scientific publishing communities, who required systematic ways to reuse and manage information effectively.[^BoikoBible] Modern content management systems became particularly prominent with the rise of corporate web publishing, allowing businesses to automate and simplify web content updates. These systems streamline workflows, improve efficiency, and enhance collaboration, enabling various organizational roles to focus on their strengths rather than managing complex code and databases.[^BoikoBible]
