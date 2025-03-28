@@ -11,8 +11,6 @@ AI-Generated Art – Used by artists to create original artworks, concepts, and 
 Game Development – Generates textures, assets, and backgrounds dynamically.
 AI-Enhanced Storytelling – Used in film, animation, and virtual world creation.
 
-### Training
-
 The breakthrough of Stable Diffusion lies in its migration of the diffusion process from high-dimensional pixel space to a compressed latent space, enabling efficient operation on consumer-grade GPUs. Training begins with processing billions of text-image pairs (e.g., LAION-5B dataset): textual descriptions are encoded into semantic features via CLIP, while images are compressed into 64×64 latent representations using a variational autoencoder (VAE), reducing computational load by 97%.
 
 The core architecture employs an enhanced U-Net network, where an encoder-decoder structure with residual connections processes multi-scale features. Text conditioning is integrated through cross-attention mechanisms within the latent space. A cosine noise scheduler governs the diffusion process, prioritizing global structure learning in early training phases and fine detail refinement in later stages[^ho20denoising].

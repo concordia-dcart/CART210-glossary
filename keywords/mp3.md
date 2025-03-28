@@ -8,7 +8,7 @@ The MP3 format was developed by the Moving Picture Experts Group (MPEG) under th
 
 MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
 
-![MP3 Collage](images/MP3-Wu.jpg)
+![MP3 Collage](/images/MP3-Wu.jpg)
 
 
 
