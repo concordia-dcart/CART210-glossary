@@ -1672,9 +1672,9 @@ as well as the fact that it is less important for these visual media to be pixel
 [^Marzen17]: Marzen, Sarah E., and Simon DeDeo. 2017. "The evolution of lossy compression." *Journal of The Royal Society Interface 14, no. 130* (2017): 20170166.
 [^Gupta17]: Gupta, Apoorv, Aman Bansal, and Vidhi Khanduja. 2017. "Modern lossless compression techniques: Review, comparison and analysis." In *2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, pp. 1-8. IEEE, 2017. 
 
-## Memes
+## Meme
 
-*Memes* are an abstract form of communication usually allowing the transfer of information from one to the other. The term was first proposed by Richard Dawkins in his book, The Selfish Gene. Memes in their most common form are comedic internet items shared publicly on social spaces.
+*Meme* is an abstract form of communication usually allowing the transfer of information from one to the other. The term was first proposed by Richard Dawkins in his book, The Selfish Gene. Memes in their most common form are comedic internet items shared publicly on social spaces.
 
 Due to the nature of this course, we will primarily be focussing on the nature and history of said internet memes.
 
