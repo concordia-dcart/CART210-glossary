@@ -1654,7 +1654,7 @@ The usage of multiplatform environments have greatly increased the diversity of 
 
 Due to the fact that modern technologies are constantly improving, there is a necessity for multiplatform softwares, such as with mobile devices, where there are differing and multiple types of mobile phones and tablets. Each operating platform within a mobile device requires separate standards, programming languages and distribution markets, which poses a challenge on software developers.[^corral12mobile] Thus, is it crucial to have a multiplatform software that allows for developers to be able to extend their reach towards different users.
 
-![Multiplatform](..images/multiplatform_armstrong.jpg)
+![Multiplatform](images/multiplatform_armstrong.jpg)
 *Tool: [OpenArt](https://openart.ai/home). Prompt: "Create an image that shows the various themes of multiplatform within a new media context."*
 
 [^chan18consumption]: Chan-Olmsted, Sylvia M., and Min Xiao. 2018. "A Consumption Perspective." _Handbook of Media Management and Economics_: 317. Accessed March 15, 2025.
