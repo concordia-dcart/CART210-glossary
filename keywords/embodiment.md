@@ -1,7 +1,5 @@
 ## Embodiment
 
-![Embodiment](images/embodiment-prosper.jpg)
-Generated using StableDiffusion Online with these parameters [^param]
 
 Embodiment is a term which is informed by and used in many different fields. 
 Consequently, embodiment is a highly polysemic term, even inside a given discipline. 
@@ -20,11 +18,14 @@ Second, a sense of agency over the virtual body needs to be felt by the person "
 
 Third, a sense of ownership should be felt by the person immersed inside the virtual world. A virtual avatar's morphological similarity to human body can increase this feeling of ownership[^txtVR].
 
+
+![Embodiment](/images/embodiment-prosper.jpg)
+Generated using StableDiffusion Online with these parameters: “Schematics for a pcb are enscribed on a patch work of skin, small transistors that replace moles and copper lines act as veins. The skin is neutral and looks slightly like plastic. Synthetic skin. Organic lines and connections. 
+Guiding Scale: 13
+With Fixed Seed.”
+
 [^txtZ]: Ziemke, Tom. 2003. "What’s that Thing Called Embodiment?" *Proceedings of the Annual Meeting of the Cognitive Science Society* 25, 1305-1310
 [^txtRE]: De Preester, Helena. 2010. "Technology and the Body: the (Im)Possibilities of Re-embodiment." *Found Sci* 16, 119–137.
 [^txtVR]: Kilteni, Konstantina, Raphaela Groten and Mel Slater. 2012. "The Sense of Embodiment in Virtual Reality." *Presence* 21, no.2 (Fall): 373–387. 
-[^param]: Schematics for a pcb are enscribed on a patch work of skin, small transistors that replace moles and copper lines act as veins. The skin is neutral and looks slightly like plastic. Synthetic skin. Organic lines and connections. 
-Guiding Scale: 13
-With Fixed Seed.
 
 
