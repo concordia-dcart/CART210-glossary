@@ -22,6 +22,10 @@ method of publication used to combat the ideas behind copyright, it still legall
 but the method in which those rights can be used and distributed is then where the copyleft methodology takes place. So unfortunately, the circled backwards C that represents a copyleft
 publication is not legally viable, and even the GNU website is copyrighted under the Free Software Group.
 
+
+
+![Copyleft](/images/copyleft.png)
+
 [^WIKI]: Various Authors. “Copyleft.” Wikipedia, January 14, 2025. https://en.wikipedia.org/wiki/Copyleft. 
 [^GNU]: Stallman, Richard. What Is Copyleft? - GNU Project - Free Software Foundation.” *GNU Operating System*, 1996. https://www.gnu.org/licenses/copyleft.en.html. 
 [^SCIDIR]: Benkler, Y., W.M. Cohen, N. Harabi, A.W. Branscomb, P. Dasgupta, P.B. De Laat, D.G. Johnson, and L. Lessig. “Copyright or Copyleft?: An Analysis of Property Regimes for Software 
