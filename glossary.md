@@ -2012,9 +2012,6 @@ specific Pantone colours for their flags. [^davisHistoryPantone]
 PHP was created in 1993 by **Rasmus Lerdorf** as a set of **Common Gateway Interface (CGI)** scripts to track visitors to his online resume. Initially called "Personal Home Page Tools," it evolved into **PHP/FI (Personal Home Page / Forms Interpreter)** in 1995. By 1997, it became the fully-fledged PHP language. PHP 3, released in 1998, marked its first major version, and it has continuously evolved with regular updates to improve performance, security, and functionality.
 
 
-
-### Relevance
-
 In the digital age, new media encompasses various forms of online communication, including websites, social media platforms, streaming services, and interactive content. PHP (Hypertext Preprocessor) is crucial in enabling these digital experiences by serving as a powerful scripting language for web development. Its ability to process dynamic content, manage databases, and facilitate user interactions makes it indispensable in the evolving landscape of new media.
 
 One of PHP’s primary applications in new media is within **Content Management Systems (CMS)**. Platforms such as WordPress, Drupal, and Joomla utilize PHP, allowing users to create, manage, and publish digital content effortlessly. These systems enable individuals and businesses to maintain an online presence without requiring extensive programming knowledge. The flexibility and scalability of PHP-based CMS platforms contribute significantly to the proliferation of digital media.
