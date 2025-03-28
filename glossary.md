@@ -970,7 +970,7 @@ The DNS also paved the way for the World Wide Web and helped the Internet become
 [^veaandreubonastre19origins]: Bonastre, Oscar M., and Andreu Vea. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41 (2): 48–60. https://doi.org/10.1109/MAHC.2019.2913116.
 
 
-## E-Commerce
+## e-Commerce
 
 E-commerce (electronic commerce) is a term for buying and selling stuff through the internet. The increase of e-commerce over the years has been helped a lot by the increase of digital 
 payment systems that have secure transactions and logistics networks. E-commerce’s significance in new media is shown by how it has completely changed the normal ways that the retail 
@@ -984,7 +984,7 @@ live commerce was created as a combination of live streaming and online shopping
 The increase of mobile apps have also improved the accessibility by allowing users to shop anytime and anywhere. 
 
 The historical origins of e-commerce are rooted back to when the development of Electronic Data Interchange (EDI) in the 1960s were created, which then allowed for businesses 
-to exchange docunemnts and files like purchases that happen nowadays through the internet, getting rid of the need for paper. [^britannica.com] In 1979, Michael Aldrich lead the way for 
+to exchange documents and files like purchases that happen nowadays through the internet, getting rid of the need for paper. [^britannica.com] In 1979, Michael Aldrich lead the way for 
 this kind of work by attaching a television to a transaction processing computer through a telephone line, which brought about the idea of teleshopping.[^researchgate.net] The 1990s were 
 when the World Wide Web and the advancements in internet security like Secure Socket Layers (SSL), allowed online retail platforms to start making a name for themselves.
 
@@ -992,7 +992,7 @@ E-commerce’s influence on contemporary digital culture and society has greatly
 has lower prices. It also has influenced the gig businesses, with platforms like Etsy that allows people to monetize their crafts.On top of this, e-commerce has changed the supply chain’s 
 way of being by making the need for fast and effiecent delivery systems and warehousing solutions very important.
 
-### Paradigmatic Examples:
+### Paradigmatic Examples
 - Amazon: Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and has evolved into the world's largest e-commerce platform.
 - Alibaba: Established by Jack Ma in 1999, Alibaba is a Chinese multinational conglomerate specializing in e-commerce, retail, and technology.
 - eBay: Launched in 1995 by Pierre Omidyar, eBay is an online auction and shopping website where individuals and businesses buy and sell a large variety of goods and services worldwide.
