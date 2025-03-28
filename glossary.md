@@ -718,7 +718,8 @@ Image credits:
 - Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
 - fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
 
-**Data Mining**
+## Data Mining
+
 Data mining is described as a “involves the use of sophisticated data analysis tools to discover previous unknown, valid patterns and relationships in large data sets”[^Seifert] and that data mining tools have different models such as statistical models, mathematical algorithms, and machine learning methods. Data mining doesn’t just consist of collecting and managing data, but it also includes analysis and predictions. 
 
 Data mining is used for a various of purpose whether it would be private or public sectors. Data mining is used in banking, insurance, medicine and retailing to reduce costs, enhance research and increase sales. There are examples of data mining being used such as in banks, to detect fraud and assist in risk assessment and uses customer’s data to learn about if they are in good credit scoring or if it will detect any fraudulent insurance claims.[^Seifert]
