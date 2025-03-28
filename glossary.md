@@ -1089,7 +1089,6 @@ Many technological inventions have affected FinTech. For example, artificial int
 Being a rapidly growing phenomenon, many prominent examples of FinTech exist. As previously mentioned, mobile payment services like PayPal and Apple Pay have revolutionized consumer spending habits. Many transactions have shifted to an online format. Decentralized currencies powered by blockchain technology have also changed how people invest and exchange money. The 'Bitcoin boom' has especially disrupted conventional notions of currency and investment, becoming a trending topic worldwide.[^Nakamoto]
 The term "FinTech" gained momentum in the early 1990s when Citicorp pioneered the Financial Services Technology Consortium, but gained popular usage in the 2010s when tech companies and startups began to change established financial service business models. Scholars such as Douglas Arner have examined its evolution, noting its phases of development from early financial digitalization to contemporary blockchain-based systems.[^arner] The impact of FinTech continues to evolve, with debates in relation to its impact on financial access, security, and regulatory concerns.
 
----
 
 [^schueffel]: Schueffel, Patrick. 2017. "Taming the Beast: A Scientific Definition of Fintech." *Journal of Innovation Management* 4 (4): 32-54. https://doi.org/10.24840/2183-0606_004.004_0004.
 
