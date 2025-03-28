@@ -2376,9 +2376,9 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 
 
 
-## Pinch-Zoom-Swipe
+## Pinch, zoom, and swipe
 
-### History
+
 
 **1983**: Myron Kruger pioneered a form of pinch-to-zoom using suspended cameras and computers, not touchscreens [^mallery].\
 **1991**: Pierre Wellner demonstrated the pinch gesture with hanging video cameras in his Digital Desk at Rank Xerox EuroPARC [^mallery].\
@@ -2396,6 +2396,7 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 There are various ways to use the pinch-to-zoom function on iPhones and Android multi-touch devices. First, we see the two-finger pinch which usually requires two hands, making it difficult for users on the go [^garg]. There are different ways to accomplish this, either by holding the phone with one hand and pinching with the other, supporting the device with both hands and using both thumbs to navigate the pinch-to-zoom function, or to hold the phone with one hand and using the thumb and index to complete this action [^garg]. Interactions such as the double-tap gesture enables users to quickly zoom in and out, but does not provide a direct zoom into the desired area of the screen and must be repositioned manually [^garg]. The swipe function enables users to quickly switch between pages, images or profiles, reacting much faster than using the drag function [^jeong]. 
 
 New one-handed alternatives have been implemented to introduce additional gestures to control this function. VolumeZoom is a touchless function utilizing the volume-up key to zoom in, while volume-down zooms out [^garg]. GyroZoom uses devices’ real-time gyroscope sensor to activate the function, tilting the phone clockwise lets users zoom in, while anti-clockwise zooms out, using the angle of rotation to control the amount of zoom applied [^garg]. In 2014, designers developed an enhanced zooming technique called Pinch-To-Zoom-Plus (PZP), a method that helps reduce clutching during panning operations [^avery]. This function was developed based on research showing that zooming followed a predictable ballistic velocity curve, demonstrating that users have a tendency to pinch the center of the screen [^avery]. Additional research showed that tap-and-drag was favored to pinch-to-zoom, being quicker and more efficient based on the number of gestures involved [^farhad]. Furthermore, a team working at the Institut fur Informatik in Germany explored using the spiral gesture as a zooming mechanism, tracing inwards to zoom in and vice versa [^artinger]. 
+
 [^artinger]: Artinger, Eva, Martin SchanzenbachF, Florian Echtler, Simon Nestler, Tayfur Coskun, and Gudrun Klinker. Beyond pinch-to-zoom: Exploring alternative multi-touch gestures for map interaction. Accessed March 16, 2025. https://www.researchgate.net/publication/266255635_Beyond_Pinch-to-Zoom_Exploring_Alternative_Multi-touch_Gestures_for_Map_Interaction. 
 [^avery]: Avery, Jeff, Mark Choi, Daniel Vogel, and Edward Lank. “Pinch-to-Zoom-plus: An Enhanced Pinch-to-Zoom That Reduces Clutching and Panning.” Proceedings of the 27th annual ACM symposium on User interface software and technology, October 5, 2014, 595–604. https://doi.org/10.1145/2642918.2647352. 
 [^farhad]: Farhad, Manoel, and I. Scott MacKenzie. “Evaluating Tap-and-Drag: A Single-Handed Zooming Method.” Lecture Notes in Computer Science, 2018, 233–46. https://doi.org/10.1007/978-3-319-91250-9_18. 
