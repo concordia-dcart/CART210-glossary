@@ -1,7 +1,5 @@
 ## Haptics
 
-![Haptics](images/haptics_sean.png)
-*Tool: [DALL-E Free AI Generator](https://www.dall-efree.com/). Prompt: “Create an image that visually represents the concept of haptic technology. Futuristic environment where a person is interacting with a variety of advanced devices. Person is wearing a VR headset with a haptic feedback vest and gloves. Include representations of the person interacting with holograms. The setting should have a high-tech, immersive atmosphere, with a sense of interaction between the digital and physical worlds. The overall tone should be sleek and futuristic.”*
 
 "Haptic" technology is a long researched technology that aims to enhance user interactions by providing tactile feedback through various devices, creating a more immersive and responsive experience.
 These devices can be practically anything, though some commonly known haptic devices are often smartphones, game controllers, VR systems, and even prosthetics.
@@ -38,6 +36,11 @@ This is very much not a comprehensive list, with many such technologies have sim
 
 Through these uses, haptics have shown themselves to be a sort of delivery system of digital information to the physical world.
 In the modern sense I would define haptics as a technology and science of creating, simulating, and perceiving touch-based sensations through electronic devices.
+
+
+![Haptics](/images/haptics_sean.png)
+*Tool: [DALL-E Free AI Generator](https://www.dall-efree.com/). Prompt: “Create an image that visually represents the concept of haptic technology. Futuristic environment where a person is interacting with a variety of advanced devices. Person is wearing a VR headset with a haptic feedback vest and gloves. Include representations of the person interacting with holograms. The setting should have a high-tech, immersive atmosphere, with a sense of interaction between the digital and physical worlds. The overall tone should be sleek and futuristic.”*
+
 
 [^yuxiang_shi_2024_feedback]: Shi, Yuxiang, and Guozhen Shen. 2024. _Haptic Sensing and Feedback Techniques toward Virtual Reality._ pp. 14–24. Research: A Science Partner Journal.
 [^paul_bach-y-rita_1969_sense]: Bach-Y-Rita, Paul, Carter C. Collins, Frank A. Saunders, Benjamin White, and Lawrence Scadden. 1969. _Vision Substitution by Tactile Image Projection._ pp. 1-2. Nature.
