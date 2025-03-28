@@ -367,6 +367,8 @@ The use of differnet color spaces will differ depending on how you intend to use
 [^lee08theevolution]: Lee, Barry B. 2008. “The Evolution of Concepts of Color Vision.” PubMed, July. https://pubmed.ncbi.nlm.nih.gov/21593994.
 [^ellis25rgb]: Ellis, Matt, and Peter Vukovic. 2025. “RGB Vs CMYK: What’s the Difference?” Vistaprint Ideas and Advice US (blog). March 5, 2025. Accessed March 9, 2025. https://www.vistaprint.com/hub/correct-file-formats-rgb-and-cmyk?srsltid=AfmBOorEwPM2klKkK5VTpiRTvh5uTgk1bJWGwNT-Lm0Vs_t2zmrb1PGP.
 
+## Codec
+
 A Codec stands for coder/decoder. Its job is to compress and/or decompress files like video or audio.[^microsoft] 
 Common codecs we use in our everyday lives are the MPEG series so [MP3](../main/glossary.md#mp3), MP4, as well as Quicktime 
 (for Apple users out there).[^internetManagement]Codecs have been developed by multiple different companies and groups 
