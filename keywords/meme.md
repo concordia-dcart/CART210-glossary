@@ -1,6 +1,6 @@
-## Memes
+## Meme
 
-*Memes* are an abstract form of communication usually allowing the transfer of information from one to the other. The term was first proposed by Richard Dawkins in his book, The Selfish Gene. Memes in their most common form are comedic internet items shared publicly on social spaces.
+*Meme* is an abstract form of communication usually allowing the transfer of information from one to the other. The term was first proposed by Richard Dawkins in his book, The Selfish Gene. Memes in their most common form are comedic internet items shared publicly on social spaces.
 
 Due to the nature of this course, we will primarily be focussing on the nature and history of said internet memes.
 
