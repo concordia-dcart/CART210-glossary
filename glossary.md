@@ -1356,6 +1356,33 @@ GitHub's development process is distributed, allowing developers to collaborate,
 
 [^kinsta24what]: Kinsta. 2024. ”What Is GitHub? A Beginner's Introduction to GitHub.” Accessed January 2. https://kinsta.com/knowledgebase/what-is-github/.
 
+## GPU
+
+A Graphics Processing Unit (GPU) is a specialized electronic circuit designed to accelerate image rendering and complex computational tasks. Originally developed for graphics rendering in video games, GPUs have evolved into powerful parallel processors widely used in artificial intelligence, scientific computing, and data analysis.[^fatahalian08gpu] Their ability to process multiple calculations simultaneously makes them essential for modern computing.
+
+The concept of GPUs emerged in the late 20th century as computer graphics became more advanced. In the 1990s, companies like NVIDIA and ATI (now part of AMD) pioneered dedicated graphics hardware to offload rendering tasks from the CPU.[^owens07survey] The introduction of programmable shaders in the early 2000s marked a significant shift, allowing developers to harness GPU power beyond graphics. The General-Purpose computing on GPUs (GPGPU) movement further expanded their use into scientific research, machine learning, and blockchain technology.[^kirk10gpu]
+
+
+In the field of new media, GPUs play a crucial role in real-time rendering, video processing, and interactive digital environments. They enable photorealistic graphics, virtual reality (VR), augmented reality (AR), and high-performance computing applications.[^pharr19physically] The ability of GPUs to process large amounts of data efficiently aligns with contemporary digital media practices, from 3D animation to deep learning models used in content generation. Moreover, platforms such as Unreal Engine and Unity leverage GPU acceleration to create immersive experiences.
+
+
+Beyond gaming and media production, GPUs have become indispensable in scientific visualization, cryptocurrency mining, and artificial intelligence research.[^goodfellow16deep] Frameworks like CUDA (developed by NVIDIA) and OpenCL enable programmers to utilize GPU parallelism for deep learning, financial modeling, and real-time simulations. Cloud computing services now offer GPU instances, further integrating them into large-scale data processing.
+
+
+Several key figures have contributed to GPU development. NVIDIA co-founder Jensen Huang played a significant role in advancing GPU technology and promoting its use in AI.[^nvidiahistory] The academic work of researchers like John D. Owens and David Kirk has also been influential in optimizing GPU performance for non-graphics applications.
+
+### External References  
+- NVIDIA’s official documentation on CUDA: [https://developer.nvidia.com/cuda-zone](https://developer.nvidia.com/cuda-zone)  
+- Khronos Group’s OpenCL specifications: [https://www.khronos.org/opencl/](https://www.khronos.org/opencl/)  
+- Unreal Engine’s GPU rendering pipeline: [https://docs.unrealengine.com/](https://docs.unrealengine.com/)  
+
+[^fatahalian08gpu]: Fatahalian, Kayvon, and Mike Houston. 2008. "A Closer Look at GPUs." _Communications of the ACM_ 51(10): 50–57.  
+[^owens07survey]: Owens, John D., et al. 2007. "A Survey of General-Purpose Computation on Graphics Hardware." _Computer Graphics Forum_ 26(1): 80–113.  
+[^kirk10gpu]: Kirk, David B., and Wen-mei W. Hwu. 2010. _Programming Massively Parallel Processors: A Hands-on Approach_. Morgan Kaufmann.  
+[^pharr19physically]: Pharr, Matt, Wenzel Jakob, and Greg Humphreys. 2019. _Physically Based Rendering: From Theory to Implementation_. Morgan Kaufmann.  
+[^goodfellow16deep]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. MIT Press.  
+[^nvidiahistory]: NVIDIA. 2021. "The History of GPU Innovation." NVIDIA Blog. https://blogs.nvidia.com/  
+
 ## GUI
 
 GUI (Graphical User Interface) is a way for users to interact and communicate with computers. Unlike the Command Line Interface (CLI), the GUI does not display code details. Instead, it facilitates human-computer interaction through graphical elements like windows, icons, and buttons.[^Shardeum23What]
@@ -2283,7 +2310,7 @@ The MP3 format was developed by the Moving Picture Experts Group (MPEG) under th
 
 MP3 became widely known in the late 1990s, with the rise of the Internet and peer-to-peer file sharing services such as Napster (launched in 1999), which enabled the mass dissemination of digital music. This triggered a major conflict between copyright holders and consumers, and fundamentally changed the music industry's thinking about digital rights management and profit models.[^morris15selling2]
 
-![MP3 Collage](images/MP3-Wu.jpg)
+![MP3 Collage](/images/MP3-Wu.jpg)
 
 
 
@@ -2940,8 +2967,6 @@ Applications in Digital Media:
 AI-Generated Art – Used by artists to create original artworks, concepts, and illustrations.
 Game Development – Generates textures, assets, and backgrounds dynamically.
 AI-Enhanced Storytelling – Used in film, animation, and virtual world creation.
-
-### Training
 
 The breakthrough of Stable Diffusion lies in its migration of the diffusion process from high-dimensional pixel space to a compressed latent space, enabling efficient operation on consumer-grade GPUs. Training begins with processing billions of text-image pairs (e.g., LAION-5B dataset): textual descriptions are encoded into semantic features via CLIP, while images are compressed into 64×64 latent representations using a variational autoencoder (VAE), reducing computational load by 97%.
 
