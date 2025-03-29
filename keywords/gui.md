@@ -22,7 +22,7 @@ Macintosh GUI
 Windows1.0 GUI
 
 
-！[image](/images/gui-he.png)
+![image](/images/gui-he.png)
 
 
 
