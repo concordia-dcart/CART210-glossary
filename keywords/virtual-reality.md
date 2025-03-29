@@ -15,14 +15,14 @@ Virtual Reality (VR) technology has been extensively adopted across entertainmen
 VR technology delivers multifaceted value in commercial applications, effectively attracting potential customers, enabling dynamic product demonstrations, and significantly boosting brand exposure. Its core business implementations can be categorized into four key domains: product design & prototyping, employee training & skill simulation, virtual marketing & customer experience enhancement, and remote collaboration & virtual meeting innovation. A prime example is the initiative by Scotland's Museum of Lead Mining. By deploying VR marketing strategies to engage potential visitors and elevate brand awareness, the museum introduced an immersive virtual mine tour accessible across multiple devices including smartphones and computers. Performance metrics reveal a 12% user interaction rate for their VR campaign, far surpassing both the service industry average (0.13%) and cross-sector benchmarks (0.27%). Notably, this initiative drove substantial brand recognition growth, with the museum's Facebook followers increasing by 17% because of the campaign.[^kj2023Business]
 
 
-![Fork the repo](images/VR-education-example.PNG)
+![Fork the repo](/images/VR-education-example.PNG)
 A teacher uses Virtual Reality to teach math.[^viewhub2021Youtube] 
 
-![Fork the repo](images/VR-game-example.PNG)
+![Fork the repo](/images/VR-game-example.PNG)
 VR game: Half-Life: Alyx[^valve2019Youtube]
 
 
-![aiImage](images/VR-he.PNG)
+![aiImage](/images/VR-he.PNG)
 
 
 
