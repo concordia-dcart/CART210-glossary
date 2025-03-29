@@ -9,17 +9,20 @@ Today, GUI has evolved to offer a wide range of functionalities to meet users' o
 
 
 ### Examples
-![Xerox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]  
+![Xerox](/images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]  
 
 Xerox_Star_8010 GUI
 
-![Macintosh](images/GUI_Macintosh.jpg)[^MacintoshZednet84]  
+![Macintosh](/images/GUI_Macintosh.jpg)[^MacintoshZednet84]  
 
 Macintosh GUI
 
-![Windows](images/GUI_Windows1.0.png)[^WindowWiki85]  
+![Windows](/images/GUI_Windows1.0.png)[^WindowWiki85]  
 
 Windows1.0 GUI
+
+
+![image](/images/gui-he.png)
 
 
 
@@ -38,3 +41,4 @@ Windows1.0 GUI
 [^MacintoshZednet84]: Zdnet. 2009. *The Mac at 25: GUI battles in business* Last modified January 23, 2009. https://www.zdnet.com/article/the-mac-at-25-gui-battles-in-business/
 
 [^WindowWiki85]: Wikipedia. 2025. *Windows 1.0* Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0
+

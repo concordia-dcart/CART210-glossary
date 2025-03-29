@@ -22,6 +22,9 @@ A teacher uses Virtual Reality to teach math.[^viewhub2021Youtube]
 VR game: Half-Life: Alyx[^valve2019Youtube]
 
 
+![aiImage](/images/VR-he.PNG)
+
+
 
 
 [^Virvou2008CE]: Virvou, Maria, and George Katsionis. 2008. "On the Usability and Likeability of Virtual Reality Games for Education: The Case of VR-ENGAGE." *Computers & Education* 50 (1): 154–178. https://concordiauniversity.on.worldcat.org/search/detail/5902295202?queryString=On%20the%20Usability%20and%20Likeability%20of%20Virtual%20Reality%20Games%20for%20Education&databaseList=&clusterResults=true&groupVariantRecords=false&newsArticles=off&bookReviews=off
