@@ -1,0 +1,12 @@
+## Social Networking
+
+Social Networking is the practice of building a digital network of people through multiple platform connections. It refers to someone’s online presence. This term was coined by an Australian sociologist named John Arundel Barnes through his work in “Class and Committees in a Norwegian Island Parish.” A social network uses different social platforms to connect people through digital spaces. They facilitate online communication directly within the application, to allow people from across the globe to connect easily [^InvestopediaSN].  
+
+The most universal social network is [Facebook](facebook.com), an online scrapbook of what’s going on in a person's life, it allows users to find people who they know to grow their social network. According to research conducted by Hampton et al. (2011) “Facebook is, by far, the most popular SNS. Of those who use a SNS, almost all use Facebook (92%).” [^HamptonSN] Since Facebook is used for personal relationships and to give life updates.
+A professional social network such as [LinkedIn](linkedin.com), is meant to showcase their career and educational achievements to make connections with professionals and catch up with the latest trends in their industry. This is tied to how Weaver and Morrison (2008) stated: “Social networking is the logical extension of our human tendencies toward togetherness, whether that socialization is down the hall or across the world.” [^WeaverSN]
+
+In the context of new media theory, social networking is highly tied to interactivity and decentralization. It facilitates communication and the spread of information. From a decentralized standpoint, it replaces dated forms of communication with typical information outlooks. Social networking has changed the way people communicate online and helps to build new relationships with people who live anywhere in the world. It promotes diversity and intersectionality through a social landscape.
+
+[^HamptonSN]: Hampton, Keith N., Lauren Sessions Goulet, Lee Rainie, and Kristen Purcell. 2011. Social Networking Sites and Our Lives. Vol. 1. Washington, DC: Pew Internet & American Life Project.
+[^InvestopediaSN]: Kenton, Will. n.d. “What Is Social Networking?” Investopedia. Accessed March 16, 2025. https://www.investopedia.com/terms/s/social-networking.asp#:~:text=Social%20networking%20uses%20internet%2Dbased%20social%20media%20platforms%20to%20connect,recognition%20and%20encourage%20brand%20loyalty.
+[^WeaverSN]: Weaver, Alfred C., and Benjamin B. Morrison. 2008. “Social Networking.” Computer 41 (2): 97–100.

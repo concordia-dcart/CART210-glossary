@@ -1,6 +1,5 @@
 ## QR Code
-
-### Intro 
+ 
 QR code(quick-response code) is a type of two-dimensional code, first invented by a Japanese company Denso Wave in 1994[^wiki25Denso]. Compared to a regular barcode, a QR code has a faster reading speed and a higher storage capacity. In terms of recognition, a QR code does not require precise alignment with the scanner like a one-dimensional barcode does. It has a maximum error correction capability of 30%, meaning that even if up to 30% of the QR code is damaged, it can still be recognized. Today, QR codes are used in various fields such as payment, identity verification, logistics management, and marketing promotion. 
 
 
@@ -16,7 +15,6 @@ QR code(quick-response code) is a type of two-dimensional code, first invented b
 
 
 ### Uses 
-
 #### Payment 
 A QR code can store information such as payment account details, transaction amounts, and order information.When a user or merchant scans the QR code, the payment system quickly reads and decodes the embedded information, then sends the transaction request to the bank or digital wallet for identity verification, deduction, and transfer.In China, 95.7% of Chinese users prefer the QR code payment method.This new payment method has also facilitated the development of local e-commerce in China.[^QRT2025Ricson]
 
@@ -29,8 +27,8 @@ QR Code Ticket uses QR code technology to function as an electronic ticket. This
 #### Supply chain management 
 QR codes can be used in supply chain management to provide digital identification for products, goods, equipment, or documents, making data collection, tracking, management, and sharing more convenient and efficient. In terms of security features, QR codes have characteristics such as data immutability, fair and secure access, total transparency, enhanced traceability, and real-time validation.[^AICCSA2023Munir]
 
-### Example
-![Fork the repo](../images/qr-code-example.png)[^researchG2013ruil]
+
+![qr-code](/images/qr-code-example.png)[^researchG2013ruil]
 
 
 [^wiki25Denso]: Wikipedia. 2025. "Denso." last modified on 7 February 2025. https://en.wikipedia.org/wiki/Denso.
